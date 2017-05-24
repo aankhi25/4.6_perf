@@ -5909,7 +5909,7 @@
           <boolProp name="paintZeroing">true</boolProp>
           <boolProp name="preventOutliers">false</boolProp>
           <boolProp name="relativeTimes">false</boolProp>
-          <stringProp name="resultsFileName">C:\perf_project_git\EAS_4.6\Output\5user\JmeterResults\Search_order_by_OfferName6frb_modified.csv</stringProp>
+          <stringProp name="resultsFileName">C:\Search_order_by_OfferName6frb_modified.csv</stringProp>
           <stringProp name="startOffset"></stringProp>
           <stringProp name="successFilter"></stringProp>
         </kg.apc.jmeter.listener.GraphsGeneratorListener>
