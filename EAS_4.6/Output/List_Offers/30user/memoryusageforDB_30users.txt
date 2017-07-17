@@ -1,0 +1,40 @@
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+sqlservr.exe                  1336 Services                   0    398,004 K
+sqlservr.exe                  1460 Services                   0  5,684,192 K
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+sqlservr.exe                  1336 Services                   0    398,004 K
+sqlservr.exe                  1460 Services                   0  5,684,196 K
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+sqlservr.exe                  1336 Services                   0    398,004 K
+sqlservr.exe                  1460 Services                   0  5,684,196 K
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+sqlservr.exe                  1336 Services                   0    398,024 K
+sqlservr.exe                  1460 Services                   0  5,684,528 K
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+sqlservr.exe                  1336 Services                   0    398,024 K
+sqlservr.exe                  1460 Services                   0  5,684,580 K
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+sqlservr.exe                  1336 Services                   0    398,024 K
+sqlservr.exe                  1460 Services                   0  5,684,816 K
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+sqlservr.exe                  1336 Services                   0    398,024 K
+sqlservr.exe                  1460 Services                   0  5,684,964 K
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+sqlservr.exe                  1336 Services                   0    398,024 K
+sqlservr.exe                  1460 Services                   0  5,685,184 K
