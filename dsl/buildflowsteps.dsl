@@ -1,0 +1,13 @@
+build("jmeter_script_execution");
+build("remove_jmeterresults");
+build("Move_resultcsv_file");
+build("exclude_css_js_images");
+build("copy_result.csv_from_drive");
+build("copy_modified_result.csv_file_from_drive");
+build("graph_generation");
+build("move_bulk_files");
+build("dashboard_graphs_reports");
+build("copy_current_aggregate_report_and_rename");
+build("copy_old_aggregate_report_to_report_comparison_folder");
+build("report_comparision");
+build("copy_dbconnectivity_file");
