@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency
+20/07/2017 16:13,1492,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,9549,2907,1,1,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,620
+20/07/2017 16:13,10,99 /escm/images/favicon.ico,200,OK,Thread Group 1-1,bin,true,,191359,559,1,1,http://10.10.3.16:8080/escm/images/favicon.ico,8
+20/07/2017 16:13,2262,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-1,,true,,653216,27148,1,1,null,1147
+20/07/2017 16:13,1127,1 /escm/order/index,200,OK,Thread Group 1-1,text,true,,19048,1227,1,1,http://10.10.3.16:8080/escm/order/list,16
+20/07/2017 16:13,1519,12 /escm/order/showOrderDetail,200,OK,Thread Group 1-1,text,true,,22203,620,1,1,http://10.10.3.16:8080/escm/order/showOrderDetail,1511
+20/07/2017 16:13,16,22 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,572,1,1,http://10.10.3.16:8080/escm/messages,16
+20/07/2017 16:13,17,23 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,574,1,1,http://10.10.3.16:8080/escm/recentItem,17
+20/07/2017 16:13,2905,List_Orders,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-1,,true,,169985,17002,1,1,null,1784

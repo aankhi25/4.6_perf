@@ -1,0 +1,5 @@
+sampler_label,aggregate_report_count,average,aggregate_report_median,aggregate_report_90%_line,aggregate_report_95%_line,aggregate_report_99%_line,aggregate_report_min,aggregate_report_max,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,aggregate_report_stddev
+65 /escm/login/doAuth?id=loginform,1,1668,1668,1668,1668,1668,1668,1668,0.00%,.6,5.6,0.00
+99 /escm/images/favicon.ico,1,11,11,11,11,11,11,11,0.00%,90.9,16988.5,0.00
+sp_userlogin_46,1,2525,2525,2525,2525,2525,2525,2525,0.00%,.4,252.6,0.00
+TOTAL,3,1401,1668,2525,2525,2525,11,2525,0.00%,1.2,330.3,1043.51

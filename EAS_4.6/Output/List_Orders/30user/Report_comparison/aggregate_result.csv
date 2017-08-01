@@ -1,18 +1,10 @@
 sampler_label, benchmark_result, currentfile_result, status
-62 /escm/login/auth,71,66,PASS
-Login Page Request,347,335,PASS
-5 /escm/login/doAuth?id=loginform,16586,17417,FAIL
-Login Page Credentials and Dashboard Display,17891,18131,FAIL
-77 /escm/order/index,10224,11401,FAIL
-88 /escm/order/showOrderDetail,8899,9711,FAIL
-98 /escm/messages,21,19,PASS
-99 /escm/recentItem,17,17,PASS
-Order Selection,19425,21367,FAIL
-109 /escm/order/searchOrder,537,523,PASS
-111 /escm/messages,30,21,PASS
-112 /escm/recentItem,27,19,PASS
-110 /escm/order/showOrderDetail,4246,5265,FAIL
-117 /escm/messages,16,16,PASS
-118 /escm/recentItem,19,29,FAIL
-Order_Search,4949,5967,FAIL
-TOTAL,5207,5644,FAIL
+65 /escm/login/doAuth?id=loginform,1774,7718,FAIL
+99 /escm/images/favicon.ico,10,18,FAIL
+sp_userlogin_46,2631,8802,FAIL
+1 /escm/order/index,1307,10030,FAIL
+12 /escm/order/showOrderDetail,1971,7106,FAIL
+22 /escm/messages,18,15,PASS
+23 /escm/recentItem,23,17,PASS
+List_Orders,3556,17442,FAIL
+TOTAL,1411,6394,FAIL

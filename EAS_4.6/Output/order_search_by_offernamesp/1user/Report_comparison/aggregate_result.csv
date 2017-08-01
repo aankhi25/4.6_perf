@@ -1,18 +1,26 @@
 sampler_label, benchmark_result, currentfile_result, status
-62 /escm/login/auth,100,163,FAIL
-Login Page Request,487,462,PASS
-5 /escm/login/doAuth?id=loginform,1298,1143,PASS
-Login Page Credentials and Dashboard Display,1870,1688,PASS
-77 /escm/order/index,1244,1020,PASS
-88 /escm/order/showOrderDetail,626,1794,FAIL
-98 /escm/messages,14,14,PASS
-99 /escm/recentItem,12,10,PASS
-Order Selection,2073,3020,FAIL
-109 /escm/order/searchOrder,387,408,FAIL
-111 /escm/messages,18,10,PASS
-112 /escm/recentItem,11,22,FAIL
-110 /escm/order/showOrderDetail,1305,1136,PASS
-117 /escm/messages,17,10,PASS
-118 /escm/recentItem,10,9,PASS
-Order_Search,1500,1637,FAIL
-TOTAL,708,784,FAIL
+33 /escm/login/auth,583,564,PASS
+43 /escm/images/favicon.ico,10,10,PASS
+Hit_the_portal,902,894,PASS
+65 /escm/login/doAuth?id=loginform,1365,1112,PASS
+99 /escm/images/favicon.ico,5,5,PASS
+sp_userlogin_46,1989,1727,PASS
+1 /escm/order/index,1042,1030,PASS
+12 /escm/order/showOrderDetail,85,93,FAIL
+22 /escm/messages,12,11,PASS
+23 /escm/recentItem,10,13,FAIL
+List_Orders,1307,1329,FAIL
+104 /escm/order/searchOrder,385,237,PASS
+105 /escm/order/searchOrder,154,139,PASS
+107 /escm/messages,9,9,PASS
+109 /escm/messages,8,9,FAIL
+110 /escm/recentItem,9,8,PASS
+111 /escm/recentItem,7,7,PASS
+106 /escm/order/showOrderDetail,1223,1105,PASS
+108 /escm/order/showOrderDetail,1190,1100,PASS
+113 /escm/messages,10,8,PASS
+114 /escm/messages,9,8,PASS
+115 /escm/recentItem,12,8,PASS
+116 /escm/recentItem,8,8,PASS
+order_search_by_offername,3041,2665,PASS
+TOTAL,557,504,PASS

@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,grpThreads,allThreads,URL,Latency
+21/07/2017 23:58,585,33 /escm/login/auth,200,OK,Thread Group 1-1,text,true,,5226,1,1,http://10.10.3.16:8080/escm/login/auth,581
+21/07/2017 23:58,10,43 /escm/images/favicon.ico,200,OK,Thread Group 1-1,bin,true,,191359,1,1,http://10.10.3.16:8080/escm/images/favicon.ico,8
+21/07/2017 23:58,938,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-1,,false,,692050,1,1,null,782
+21/07/2017 23:58,1529,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,9476,1,1,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,311
+21/07/2017 23:59,9,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,125,1,1,http://10.10.3.16:8080/escm/images/favicon.ico,0
+21/07/2017 23:58,2288,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-1,,true,,459946,1,1,null,796
+21/07/2017 23:59,668,324 /escm/customer/index,200,OK,Thread Group 1-1,text,true,,10373,1,1,http://10.10.3.16:8080/escm/customer/list,17
+21/07/2017 23:59,27,381 /escm/customer/setSearchBy,200,OK,Thread Group 1-1,text,true,,457,1,1,http://10.10.3.16:8080/escm/customer/setSearchBy,27
+21/07/2017 23:59,5,374 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,125,1,1,http://10.10.3.16:8080/escm/images/favicon.ico,0
+21/07/2017 23:59,367,382 /escm/customer/listByCriteria,200,OK,Thread Group 1-1,text,true,,4180,1,1,http://10.10.3.16:8080/escm/customer/listByCriteria,365
+21/07/2017 23:59,14,384 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,14
+21/07/2017 23:59,783,385 /escm/customer/renderCustomerOrganizationDetails,200,OK,Thread Group 1-1,text,true,,39695,1,1,http://10.10.3.16:8080/escm/customer/renderCustomerOrganizationDetails,751
+21/07/2017 23:59,11,405 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,11
+21/07/2017 23:59,18,406 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,18
+21/07/2017 23:59,2930,List_Organizations,200,"Number of samples in transaction : 83, number of failing samples : 0",Thread Group 1-1,,true,,625267,1,1,null,1926
+22/07/2017 00:12,601,33 /escm/login/auth,200,OK,Thread Group 1-1,text,true,,5226,1,1,http://10.10.3.16:8080/escm/login/auth,598
+22/07/2017 00:12,15,43 /escm/images/favicon.ico,200,OK,Thread Group 1-1,bin,true,,191359,1,1,http://10.10.3.16:8080/escm/images/favicon.ico,9
+22/07/2017 00:12,1117,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-1,,false,,692050,1,1,null,851
+22/07/2017 00:12,1858,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,9479,1,1,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,621
+22/07/2017 00:12,5,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,125,1,1,http://10.10.3.16:8080/escm/images/favicon.ico,0
+22/07/2017 00:12,2594,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-1,,true,,459949,1,1,null,1115
+22/07/2017 00:12,2025,324 /escm/customer/index,200,OK,Thread Group 1-1,text,true,,10373,1,1,http://10.10.3.16:8080/escm/customer/list,24
+22/07/2017 00:12,21,381 /escm/customer/setSearchBy,200,OK,Thread Group 1-1,text,true,,457,1,1,http://10.10.3.16:8080/escm/customer/setSearchBy,21
+22/07/2017 00:12,6,374 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,125,1,1,http://10.10.3.16:8080/escm/images/favicon.ico,0
+22/07/2017 00:12,488,382 /escm/customer/listByCriteria,200,OK,Thread Group 1-1,text,true,,4180,1,1,http://10.10.3.16:8080/escm/customer/listByCriteria,486
+22/07/2017 00:12,14,384 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,14
+22/07/2017 00:12,1324,385 /escm/customer/renderCustomerOrganizationDetails,200,OK,Thread Group 1-1,text,true,,39695,1,1,http://10.10.3.16:8080/escm/customer/renderCustomerOrganizationDetails,1297
+22/07/2017 00:12,17,405 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,17
+22/07/2017 00:12,13,406 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,12
+22/07/2017 00:12,5036,List_Organizations,200,"Number of samples in transaction : 83, number of failing samples : 0",Thread Group 1-1,,true,,625267,1,1,null,2673

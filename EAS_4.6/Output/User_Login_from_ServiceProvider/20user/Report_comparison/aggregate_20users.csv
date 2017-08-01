@@ -1,18 +1,5 @@
 sampler_label,aggregate_report_count,average,aggregate_report_median,aggregate_report_90%_line,aggregate_report_95%_line,aggregate_report_99%_line,aggregate_report_min,aggregate_report_max,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,aggregate_report_stddev
-62 /escm/login/auth,20,77,40,116,131,579,26,579,0.00%,.3,1.7,118.06
-Login Page Request,20,343,305,401,411,888,206,888,100.00%,.3,162.0,131.89
-5 /escm/login/doAuth?id=loginform,20,12248,12012,14239,14540,14694,9397,14694,0.00%,1.4,13.5,1349.03
-Login Page Credentials and Dashboard Display,20,13111,13038,14982,15253,15372,9798,15372,0.00%,.3,85.0,1460.90
-77 /escm/order/index,20,6451,6416,7466,7743,7775,4923,7775,0.00%,2.6,47.9,793.97
-88 /escm/order/showOrderDetail,20,5617,5567,6664,6769,6777,4357,6777,0.00%,3.0,64.0,671.16
-98 /escm/messages,20,45,20,95,102,269,9,269,0.00%,74.3,33.5,59.12
-99 /escm/recentItem,20,37,19,69,94,206,8,206,0.00%,97.1,32.3,44.48
-Order Selection,20,12588,12663,13485,13488,14226,10706,14226,0.00%,1.4,233.4,838.92
-109 /escm/order/searchOrder,20,543,520,687,730,766,420,766,0.00%,26.1,95.1,88.92
-111 /escm/messages,20,50,16,85,110,433,7,433,0.00%,46.2,20.8,92.21
-112 /escm/recentItem,20,24,13,46,72,87,9,87,0.00%,229.9,76.6,21.18
-110 /escm/order/showOrderDetail,20,2829,2652,3856,3858,4327,1551,4327,0.00%,4.6,102.7,724.14
-117 /escm/messages,20,18,11,33,38,78,7,78,0.00%,256.4,115.4,16.25
-118 /escm/recentItem,20,33,14,24,203,216,7,216,0.00%,92.6,30.8,59.09
-Order_Search,20,3617,3563,4512,4707,5136,2185,5136,0.00%,3.9,282.2,754.44
-TOTAL,320,3602,455,12463,13485,14694,7,15372,6.25%,4.2,300.2,4836.95
+65 /escm/login/doAuth?id=loginform,20,1122,1051,1276,1373,1649,924,1649,0.00%,.3,3.1,158.46
+99 /escm/images/favicon.ico,20,8,7,11,11,12,6,12,0.00%,.3,62.3,1.77
+sp_userlogin_46,20,1822,1755,2019,2021,2563,1561,2563,0.00%,.3,206.3,213.23
+TOTAL,60,984,1051,1891,1940,2021,6,2563,0.00%,1.0,269.8,762.64

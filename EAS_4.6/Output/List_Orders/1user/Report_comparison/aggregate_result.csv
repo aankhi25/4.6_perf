@@ -1,0 +1,10 @@
+sampler_label, benchmark_result, currentfile_result, status
+65 /escm/login/doAuth?id=loginform,1774,1492,PASS
+99 /escm/images/favicon.ico,10,10,PASS
+sp_userlogin_46,2631,2262,PASS
+1 /escm/order/index,1307,1127,PASS
+12 /escm/order/showOrderDetail,1971,1519,PASS
+22 /escm/messages,18,16,PASS
+23 /escm/recentItem,23,17,PASS
+List_Orders,3556,2905,PASS
+TOTAL,1411,1168,PASS

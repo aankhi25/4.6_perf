@@ -1,0 +1,17 @@
+sampler_label,aggregate_report_count,average,aggregate_report_median,aggregate_report_90%_line,aggregate_report_95%_line,aggregate_report_99%_line,aggregate_report_min,aggregate_report_max,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,aggregate_report_stddev
+33 /escm/login/auth,2,593,585,601,601,601,585,601,0.00%,.0,.0,8.00
+43 /escm/images/favicon.ico,2,12,10,15,15,15,10,15,0.00%,.0,.4,2.50
+Hit_the_portal,2,1027,938,1117,1117,1117,938,1117,100.00%,.0,1.6,89.50
+65 /escm/login/doAuth?id=loginform,2,1693,1529,1858,1858,1858,1529,1858,0.00%,.0,.0,164.50
+99 /escm/images/favicon.ico,2,7,5,9,9,9,5,9,0.00%,.0,.0,2.00
+sp_userlogin_46,2,2441,2288,2594,2594,2594,2288,2594,0.00%,.0,1.1,153.00
+324 /escm/customer/index,2,1346,668,2025,2025,2025,668,2025,0.00%,.0,.0,678.50
+381 /escm/customer/setSearchBy,2,24,21,27,27,27,21,27,0.00%,.0,.0,3.00
+374 /escm/images/favicon.ico,2,5,5,6,6,6,5,6,0.00%,.0,.0,0.50
+382 /escm/customer/listByCriteria,2,427,367,488,488,488,367,488,0.00%,.0,.0,60.50
+384 /escm/messages,2,14,14,14,14,14,14,14,0.00%,.0,.0,0.00
+385 /escm/customer/renderCustomerOrganizationDetails,2,1053,783,1324,1324,1324,783,1324,0.00%,.0,.1,270.50
+405 /escm/messages,2,14,11,17,17,17,11,17,0.00%,.0,.0,3.00
+406 /escm/messages,2,15,13,18,18,18,13,18,0.00%,.0,.0,2.50
+List_Organizations,2,3983,2930,5036,5036,5036,2930,5036,0.00%,.0,1.6,1053.00
+TOTAL,30,843,367,2288,2594,5036,5,5036,6.67%,.0,4.7,1161.27

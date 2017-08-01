@@ -1,0 +1,108 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,grpThreads,allThreads,URL,Filename,Latency,Hostname
+31/07/2017 13:22,564,33 /escm/login/auth,200,OK,Thread Group 1-1,text,true,,5226,1,1,http://10.10.3.16:8080/escm/login/auth,,561,ESCM-APP
+31/07/2017 13:22,12,34 /escm/css/theme/jquery-ui-1.8.17.custom.css,200,OK,Thread Group 1-1,text,true,,6664,1,1,http://10.10.3.16:8080/escm/css/theme/jquery-ui-1.8.17.custom.css,,11,ESCM-APP
+31/07/2017 13:22,8,37 /escm/css/jquery.alerts.css,200,OK,Thread Group 1-1,text,true,,1235,1,1,http://10.10.3.16:8080/escm/css/jquery.alerts.css,,8,ESCM-APP
+31/07/2017 13:22,8,39 /escm/css/jquery.ui.timepicker.css,200,OK,Thread Group 1-1,text,true,,2086,1,1,http://10.10.3.16:8080/escm/css/jquery.ui.timepicker.css,,8,ESCM-APP
+31/07/2017 13:22,8,38 /escm/js/jquery.alerts.js,200,OK,Thread Group 1-1,text,true,,2581,1,1,http://10.10.3.16:8080/escm/js/jquery.alerts.js,,7,ESCM-APP
+31/07/2017 13:22,8,36 /escm/css/logintypedialog.css,200,OK,Thread Group 1-1,text,true,,1287,1,1,http://10.10.3.16:8080/escm/css/logintypedialog.css,,8,ESCM-APP
+31/07/2017 13:22,10,45 /escm/js/validator.js,200,OK,Thread Group 1-1,text,true,,5286,1,1,http://10.10.3.16:8080/escm/js/validator.js,,8,ESCM-APP
+31/07/2017 13:22,71,35 /escm/css/merchant.css,200,OK,Thread Group 1-1,text,true,,64167,1,1,http://10.10.3.16:8080/escm/css/merchant.css,,29,ESCM-APP
+31/07/2017 13:22,10,43 /escm/images/favicon.ico,200,OK,Thread Group 1-1,bin,true,,191359,1,1,http://10.10.3.16:8080/escm/images/favicon.ico,,9,ESCM-APP
+31/07/2017 13:22,7,41 /escm/js/jquery.bpopup.min.js,200,OK,Thread Group 1-1,text,true,,2280,1,1,http://10.10.3.16:8080/escm/js/jquery.bpopup.min.js,,7,ESCM-APP
+31/07/2017 13:22,4,40 /escmnull/css/merchant.css,404,Not Found,Thread Group 1-1,,false,,109,1,1,http://10.10.3.16:8080/escmnull/css/merchant.css,,4,ESCM-APP
+31/07/2017 13:22,51,42 /escm/js/jquery-ui-1.8.17.custom.min.js,200,OK,Thread Group 1-1,text,true,,53407,1,1,http://10.10.3.16:8080/escm/js/jquery-ui-1.8.17.custom.min.js,,25,ESCM-APP
+31/07/2017 13:22,75,44 /escm/js/jquery-1.5.2.min.js,200,OK,Thread Group 1-1,text,true,,65186,1,1,http://10.10.3.16:8080/escm/js/jquery-1.5.2.min.js,,27,ESCM-APP
+31/07/2017 13:22,9,46 /escm/css/fonts/Roboto-Light.woff,200,OK,Thread Group 1-1,text,true,,73848,1,1,http://10.10.3.16:8080/escm/css/fonts/Roboto-Light.woff,,8,ESCM-APP
+31/07/2017 13:22,7,47 /escm/css/fonts/Roboto-Bold.woff,200,OK,Thread Group 1-1,text,true,,71736,1,1,http://10.10.3.16:8080/escm/css/fonts/Roboto-Bold.woff,,7,ESCM-APP
+31/07/2017 13:22,42,48 /escm/css/fonts/Roboto-Regular.ttf,200,OK,Thread Group 1-1,text,true,,145593,1,1,http://10.10.3.16:8080/escm/css/fonts/Roboto-Regular.ttf,,41,ESCM-APP
+31/07/2017 13:22,894,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-1,,false,,692050,1,1,null,,768,ESCM-APP
+31/07/2017 13:22,1112,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,9480,1,1,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,278,ESCM-APP
+31/07/2017 13:22,31,69 /escm/css/modern_ui/usageGraph/jquery.jqplot.min.css,200,OK,Thread Group 1-1,text,true,,1323,1,1,http://10.10.3.16:8080/escm/css/modern_ui/usageGraph/jquery.jqplot.min.css,,31,ESCM-APP
+31/07/2017 13:22,13,71 /escm/css/theme/jquery-ui-1.8.17.custom.css,200,OK,Thread Group 1-1,text,true,,6664,1,1,http://10.10.3.16:8080/escm/css/theme/jquery-ui-1.8.17.custom.css,,11,ESCM-APP
+31/07/2017 13:22,46,83 /escm/js/usageGraphJS/jquery.jqplot.min.js,200,OK,Thread Group 1-1,text,true,,43049,1,1,http://10.10.3.16:8080/escm/js/usageGraphJS/jquery.jqplot.min.js,,23,ESCM-APP
+31/07/2017 13:22,7,78 /escm/js/jquery-validate/jquery.metadata.js,200,OK,Thread Group 1-1,text,true,,1938,1,1,http://10.10.3.16:8080/escm/js/jquery-validate/jquery.metadata.js,,7,ESCM-APP
+31/07/2017 13:22,11,80 /escm/js/usageGraphJS/excanvas.min.js,200,OK,Thread Group 1-1,text,true,,8168,1,1,http://10.10.3.16:8080/escm/js/usageGraphJS/excanvas.min.js,,9,ESCM-APP
+31/07/2017 13:22,8,84 /escm/js/validator.js,200,OK,Thread Group 1-1,text,true,,5286,1,1,http://10.10.3.16:8080/escm/js/validator.js,,7,ESCM-APP
+31/07/2017 13:22,11,81 /escm/js/jquery-validate/jquery.validate.min.js,200,OK,Thread Group 1-1,text,true,,6824,1,1,http://10.10.3.16:8080/escm/js/jquery-validate/jquery.validate.min.js,,8,ESCM-APP
+31/07/2017 13:22,9,85 /escm/js/usageGraphJS/jqplot.canvasTextRenderer.min.js,200,OK,Thread Group 1-1,text,true,,4130,1,1,http://10.10.3.16:8080/escm/js/usageGraphJS/jqplot.canvasTextRenderer.min.js,,8,ESCM-APP
+31/07/2017 13:22,7,82 /escm/js/jquery-validate/additional-methods.min.js,200,OK,Thread Group 1-1,text,true,,2753,1,1,http://10.10.3.16:8080/escm/js/jquery-validate/additional-methods.min.js,,7,ESCM-APP
+31/07/2017 13:22,12,77 /escm/js/jquery.tablesorter.js,200,OK,Thread Group 1-1,text,true,,8739,1,1,http://10.10.3.16:8080/escm/js/jquery.tablesorter.js,,9,ESCM-APP
+31/07/2017 13:22,5,79 /escm/js/datatable.js,200,OK,Thread Group 1-1,text,true,,1607,1,1,http://10.10.3.16:8080/escm/js/datatable.js,,5,ESCM-APP
+31/07/2017 13:22,5,72 /escm/css/logintypedialog.css,200,OK,Thread Group 1-1,text,true,,1287,1,1,http://10.10.3.16:8080/escm/css/logintypedialog.css,,5,ESCM-APP
+31/07/2017 13:22,7,76 /escm/js/jquery.bpopup.min.js,200,OK,Thread Group 1-1,text,true,,2280,1,1,http://10.10.3.16:8080/escm/js/jquery.bpopup.min.js,,6,ESCM-APP
+31/07/2017 13:22,5,75 /escm/css/jquery.alerts.css,200,OK,Thread Group 1-1,text,true,,1235,1,1,http://10.10.3.16:8080/escm/css/jquery.alerts.css,,5,ESCM-APP
+31/07/2017 13:22,7,70 /escm/css/modern_ui/usageGraph/examples.css,200,OK,Thread Group 1-1,text,true,,1596,1,1,http://10.10.3.16:8080/escm/css/modern_ui/usageGraph/examples.css,,7,ESCM-APP
+31/07/2017 13:22,5,108 /escm/images/settings.png,200,OK,Thread Group 1-1,bin,true,,6116,1,1,http://10.10.3.16:8080/escm/images/settings.png,,5,ESCM-APP
+31/07/2017 13:22,5,107 /escm/images/orders.png,200,OK,Thread Group 1-1,bin,true,,2716,1,1,http://10.10.3.16:8080/escm/images/orders.png,,5,ESCM-APP
+31/07/2017 13:22,6,104 /escm/css/modern_ui/images/myCatalog.png,200,OK,Thread Group 1-1,bin,true,,3298,1,1,http://10.10.3.16:8080/escm/css/modern_ui/images/myCatalog.png,,6,ESCM-APP
+31/07/2017 13:22,6,106 /escm/css/modern_ui/images/dropDown.png,200,OK,Thread Group 1-1,bin,true,,5895,1,1,http://10.10.3.16:8080/escm/css/modern_ui/images/dropDown.png,,6,ESCM-APP
+31/07/2017 13:22,5,105 /escm/css/modern_ui/images/CP_login.png,200,OK,Thread Group 1-1,bin,true,,6465,1,1,http://10.10.3.16:8080/escm/css/modern_ui/images/CP_login.png,,5,ESCM-APP
+31/07/2017 13:22,6,103 /escm/images/_loading.gif,200,OK,Thread Group 1-1,bin,true,,4474,1,1,http://10.10.3.16:8080/escm/images/_loading.gif,,6,ESCM-APP
+31/07/2017 13:22,6,101 /escm/images/myAccount.png,200,OK,Thread Group 1-1,bin,true,,6797,1,1,http://10.10.3.16:8080/escm/images/myAccount.png,,6,ESCM-APP
+31/07/2017 13:22,7,102 /escm/images/ticket/39x39ticket.png,200,OK,Thread Group 1-1,bin,true,,2725,1,1,http://10.10.3.16:8080/escm/images/ticket/39x39ticket.png,,7,ESCM-APP
+31/07/2017 13:22,6,100 /escm/css/modern_ui/images/myDashboard.png,200,OK,Thread Group 1-1,bin,true,,3239,1,1,http://10.10.3.16:8080/escm/css/modern_ui/images/myDashboard.png,,6,ESCM-APP
+31/07/2017 13:22,67,87 /escm/js/jquery-1.5.2.min.js,200,OK,Thread Group 1-1,text,true,,65186,1,1,http://10.10.3.16:8080/escm/js/jquery-1.5.2.min.js,,25,ESCM-APP
+31/07/2017 13:22,95,93 /escm/js/payment/jquery.dataTables.js,200,OK,Thread Group 1-1,text,true,,89133,1,1,http://10.10.3.16:8080/escm/js/payment/jquery.dataTables.js,,25,ESCM-APP
+31/07/2017 13:22,5,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,125,1,1,http://10.10.3.16:8080/escm/images/favicon.ico,,0,ESCM-APP
+31/07/2017 13:22,6,89 /escm/js/jquery.alerts.js,200,OK,Thread Group 1-1,text,true,,2581,1,1,http://10.10.3.16:8080/escm/js/jquery.alerts.js,,5,ESCM-APP
+31/07/2017 13:22,15,97 /escm/js/jquery.flexslider.js,200,OK,Thread Group 1-1,text,true,,12247,1,1,http://10.10.3.16:8080/escm/js/jquery.flexslider.js,,12,ESCM-APP
+31/07/2017 13:22,66,74 /escm/css/merchant.css,200,OK,Thread Group 1-1,text,true,,64167,1,1,http://10.10.3.16:8080/escm/css/merchant.css,,28,ESCM-APP
+31/07/2017 13:22,11,98 /escm/js/usageGraphJS/jqplot.dateAxisRenderer.min.js,200,OK,Thread Group 1-1,text,true,,3191,1,1,http://10.10.3.16:8080/escm/js/usageGraphJS/jqplot.dateAxisRenderer.min.js,,10,ESCM-APP
+31/07/2017 13:22,47,86 /escm/js/jquery-ui-1.8.17.custom.min.js,200,OK,Thread Group 1-1,text,true,,53407,1,1,http://10.10.3.16:8080/escm/js/jquery-ui-1.8.17.custom.min.js,,20,ESCM-APP
+31/07/2017 13:22,9,92 /escm/js/usageGraphJS/jqplot.enhancedLegendRenderer.min.js,200,OK,Thread Group 1-1,text,true,,2017,1,1,http://10.10.3.16:8080/escm/js/usageGraphJS/jqplot.enhancedLegendRenderer.min.js,,8,ESCM-APP
+31/07/2017 13:22,7,94 /escm/js/escm_alert.js,200,OK,Thread Group 1-1,text,true,,2139,1,1,http://10.10.3.16:8080/escm/js/escm_alert.js,,6,ESCM-APP
+31/07/2017 13:22,7,96 /escm/js/usageGraphJS/jqplot.highlighter.min.js,200,OK,Thread Group 1-1,text,true,,2518,1,1,http://10.10.3.16:8080/escm/js/usageGraphJS/jqplot.highlighter.min.js,,6,ESCM-APP
+31/07/2017 13:22,5,73 /escm/css/jquery.ui.timepicker.css,304,Not Modified,Thread Group 1-1,,true,,123,1,1,http://10.10.3.16:8080/escm/css/jquery.ui.timepicker.css,,0,ESCM-APP
+31/07/2017 13:22,6,95 /escm/js/payment/jquery.tzCheckbox.js,200,OK,Thread Group 1-1,text,true,,1635,1,1,http://10.10.3.16:8080/escm/js/payment/jquery.tzCheckbox.js,,6,ESCM-APP
+31/07/2017 13:22,6,91 /escm/js/jquery.scrollToTop.min.js,200,OK,Thread Group 1-1,text,true,,774,1,1,http://10.10.3.16:8080/escm/js/jquery.scrollToTop.min.js,,6,ESCM-APP
+31/07/2017 13:22,7,90 /escm/js/usageGraphJS/jqplot.pointLabels.min.js,200,OK,Thread Group 1-1,text,true,,1988,1,1,http://10.10.3.16:8080/escm/js/usageGraphJS/jqplot.pointLabels.min.js,,6,ESCM-APP
+31/07/2017 13:22,7,88 /escm/js/usageGraphJS/jqplot.canvasAxisLabelRenderer.min.js,200,OK,Thread Group 1-1,text,true,,1301,1,1,http://10.10.3.16:8080/escm/js/usageGraphJS/jqplot.canvasAxisLabelRenderer.min.js,,6,ESCM-APP
+31/07/2017 13:22,7,109 /escm/css/theme/images/ui-icons_ededed_256x240.png,200,OK,Thread Group 1-1,bin,true,,4667,1,1,http://10.10.3.16:8080/escm/css/theme/images/ui-icons_ededed_256x240.png,,7,ESCM-APP
+31/07/2017 13:22,6,110 /escm/css/theme/images/ui-icons_ffffff_256x240.png,200,OK,Thread Group 1-1,bin,true,,4667,1,1,http://10.10.3.16:8080/escm/css/theme/images/ui-icons_ffffff_256x240.png,,6,ESCM-APP
+31/07/2017 13:22,1727,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-1,,true,,459950,1,1,null,,660,ESCM-APP
+31/07/2017 13:22,1030,1 /escm/order/index,200,OK,Thread Group 1-1,text,true,,19242,1,1,http://10.10.3.16:8080/escm/order/list,,10,ESCM-APP
+31/07/2017 13:22,7,3 /escm/images/icon14.gif,200,OK,Thread Group 1-1,bin,true,,579,1,1,http://10.10.3.16:8080/escm/images/icon14.gif,,7,ESCM-APP
+31/07/2017 13:22,6,9 /escm/images/hourglass.png,200,OK,Thread Group 1-1,bin,true,,2265,1,1,http://10.10.3.16:8080/escm/images/hourglass.png,,6,ESCM-APP
+31/07/2017 13:22,5,10 /escm/images/bb_ajax_loader.gif,200,OK,Thread Group 1-1,bin,true,,3190,1,1,http://10.10.3.16:8080/escm/images/bb_ajax_loader.gif,,5,ESCM-APP
+31/07/2017 13:22,7,7 /escm/images/cancelicon.png,200,OK,Thread Group 1-1,bin,true,,1675,1,1,http://10.10.3.16:8080/escm/images/cancelicon.png,,7,ESCM-APP
+31/07/2017 13:22,8,6 /escm/images/express_order.png,200,OK,Thread Group 1-1,bin,true,,1371,1,1,http://10.10.3.16:8080/escm/images/express_order.png,,8,ESCM-APP
+31/07/2017 13:22,6,5 /escm/images/loading.gif,200,OK,Thread Group 1-1,bin,true,,1019,1,1,http://10.10.3.16:8080/escm/images/loading.gif,,6,ESCM-APP
+31/07/2017 13:22,9,8 /escm/images/orderstatusicon/provisioningfailed.png,200,OK,Thread Group 1-1,bin,true,,1561,1,1,http://10.10.3.16:8080/escm/images/orderstatusicon/provisioningfailed.png,,9,ESCM-APP
+31/07/2017 13:22,9,4 /escm/images/recent.png,200,OK,Thread Group 1-1,bin,true,,2030,1,1,http://10.10.3.16:8080/escm/images/recent.png,,9,ESCM-APP
+31/07/2017 13:22,7,11 /escm/images/ticket/order_ticket.png,200,OK,Thread Group 1-1,bin,true,,4108,1,1,http://10.10.3.16:8080/escm/images/ticket/order_ticket.png,,6,ESCM-APP
+31/07/2017 13:22,6,13 /escm/images/next.png,200,OK,Thread Group 1-1,bin,true,,16766,1,1,http://10.10.3.16:8080/escm/images/next.png,,6,ESCM-APP
+31/07/2017 13:22,6,14 /escm/images/previous.png,200,OK,Thread Group 1-1,bin,true,,16816,1,1,http://10.10.3.16:8080/escm/images/previous.png,,5,ESCM-APP
+31/07/2017 13:22,13,15 /escm/images/view_mail.png,200,OK,Thread Group 1-1,bin,true,,19693,1,1,http://10.10.3.16:8080/escm/images/view_mail.png,,13,ESCM-APP
+31/07/2017 13:22,6,16 /escm/css/theme/images/ui-icons_blue_256x240.png,200,OK,Thread Group 1-1,bin,true,,4847,1,1,http://10.10.3.16:8080/escm/css/theme/images/ui-icons_blue_256x240.png,,6,ESCM-APP
+31/07/2017 13:22,93,12 /escm/order/showOrderDetail,404,Not Found,Thread Group 1-1,text,false,,1277,1,1,http://10.10.3.16:8080/escm/order/showOrderDetail,,93,ESCM-APP
+31/07/2017 13:22,8,17 /escm/images/summary_edit_pencil.png,200,OK,Thread Group 1-1,bin,true,,9373,1,1,http://10.10.3.16:8080/escm/images/summary_edit_pencil.png,,8,ESCM-APP
+31/07/2017 13:22,9,18 /escm/images/warn.png,200,OK,Thread Group 1-1,bin,true,,1527,1,1,http://10.10.3.16:8080/escm/images/warn.png,,9,ESCM-APP
+31/07/2017 13:22,8,19 /escm/images/order-icon-email.png,200,OK,Thread Group 1-1,bin,true,,4640,1,1,http://10.10.3.16:8080/escm/images/order-icon-email.png,,7,ESCM-APP
+31/07/2017 13:22,6,20 /escm/images/slider-arrow-left.png,200,OK,Thread Group 1-1,bin,true,,1344,1,1,http://10.10.3.16:8080/escm/images/slider-arrow-left.png,,6,ESCM-APP
+31/07/2017 13:22,7,21 /escm/images/slider-arrow-right.png,200,OK,Thread Group 1-1,bin,true,,1352,1,1,http://10.10.3.16:8080/escm/images/slider-arrow-right.png,,7,ESCM-APP
+31/07/2017 13:22,11,22 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,,11,ESCM-APP
+31/07/2017 13:22,13,23 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,1,1,http://10.10.3.16:8080/escm/recentItem,,12,ESCM-APP
+31/07/2017 13:22,6,26 /escm/images/order-icon-subscription.png,200,OK,Thread Group 1-1,bin,true,,5870,1,1,http://10.10.3.16:8080/escm/images/order-icon-subscription.png,,6,ESCM-APP
+31/07/2017 13:22,6,29 /escm/images/order-icon-installment.png,200,OK,Thread Group 1-1,bin,true,,6303,1,1,http://10.10.3.16:8080/escm/images/order-icon-installment.png,,6,ESCM-APP
+31/07/2017 13:22,6,28 /escm/images/order-icon-quote.png,200,OK,Thread Group 1-1,bin,true,,3773,1,1,http://10.10.3.16:8080/escm/images/order-icon-quote.png,,5,ESCM-APP
+31/07/2017 13:22,6,30 /escm/images/order-icon-ticket.png,200,OK,Thread Group 1-1,bin,true,,4310,1,1,http://10.10.3.16:8080/escm/images/order-icon-ticket.png,,6,ESCM-APP
+31/07/2017 13:22,5,25 /escm/images/order-icon-adjust.png,200,OK,Thread Group 1-1,bin,true,,4916,1,1,http://10.10.3.16:8080/escm/images/order-icon-adjust.png,,5,ESCM-APP
+31/07/2017 13:22,6,27 /escm/images/order-icon-provisioned.png,200,OK,Thread Group 1-1,bin,true,,4908,1,1,http://10.10.3.16:8080/escm/images/order-icon-provisioned.png,,6,ESCM-APP
+31/07/2017 13:22,14,24 /escm/images/order-icon-custom-fields.png,200,OK,Thread Group 1-1,bin,true,,3696,1,1,http://10.10.3.16:8080/escm/images/order-icon-custom-fields.png,,12,ESCM-APP
+31/07/2017 13:22,1329,List_Orders,,"Number of samples in transaction : 29, number of failing samples : 1",Thread Group 1-1,,false,,149253,1,1,null,,302,ESCM-APP
+31/07/2017 13:22,7,103 /escm/images/BB-ajax-loader-round.gif,200,OK,Thread Group 1-1,bin,true,,8536,1,1,http://10.10.3.16:8080/escm/images/BB-ajax-loader-round.gif,,7,ESCM-APP
+31/07/2017 13:22,237,104 /escm/order/searchOrder,200,OK,Thread Group 1-1,text,true,,4454,1,1,http://10.10.3.16:8080/escm/order/searchOrder,,235,ESCM-APP
+31/07/2017 13:22,139,105 /escm/order/searchOrder,200,OK,Thread Group 1-1,text,true,,4454,1,1,http://10.10.3.16:8080/escm/order/searchOrder,,137,ESCM-APP
+31/07/2017 13:22,9,107 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,,9,ESCM-APP
+31/07/2017 13:22,9,109 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,,9,ESCM-APP
+31/07/2017 13:22,8,110 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,1,1,http://10.10.3.16:8080/escm/recentItem,,8,ESCM-APP
+31/07/2017 13:22,7,111 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,1,1,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
+31/07/2017 13:22,1105,106 /escm/order/showOrderDetail,200,OK,Thread Group 1-1,text,true,,21925,1,1,http://10.10.3.16:8080/escm/order/showOrderDetail,,1095,ESCM-APP
+31/07/2017 13:22,1100,108 /escm/order/showOrderDetail,200,OK,Thread Group 1-1,text,true,,21926,1,1,http://10.10.3.16:8080/escm/order/showOrderDetail,,1091,ESCM-APP
+31/07/2017 13:22,8,112 /escm/css/theme/images/ui-icons_bbbbbb_256x240.png,200,OK,Thread Group 1-1,bin,true,,5653,1,1,http://10.10.3.16:8080/escm/css/theme/images/ui-icons_bbbbbb_256x240.png,,8,ESCM-APP
+31/07/2017 13:22,8,113 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,,8,ESCM-APP
+31/07/2017 13:22,8,114 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,,8,ESCM-APP
+31/07/2017 13:22,8,115 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,1,1,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
+31/07/2017 13:22,8,116 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,1,1,http://10.10.3.16:8080/escm/recentItem,,8,ESCM-APP
+31/07/2017 13:22,4,117 /escm/css/theme/images/ui-icons_ffffff_256x240.png,304,Not Modified,Thread Group 1-1,,true,,123,1,1,http://10.10.3.16:8080/escm/css/theme/images/ui-icons_ffffff_256x240.png,,0,ESCM-APP
+31/07/2017 13:22,2665,order_search_by_offername,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-1,,true,,70279,1,1,null,,2637,ESCM-APP

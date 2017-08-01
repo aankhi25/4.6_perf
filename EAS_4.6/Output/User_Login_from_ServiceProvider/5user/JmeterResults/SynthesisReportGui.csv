@@ -1,0 +1,5 @@
+Label,# Samples,Average,Min,Max,90% Line,Std. Dev.,Error %,Throughput,Received KB/sec,Avg. Bytes
+65 /escm/login/doAuth?id=loginform,5,1368,802,1985,1723,452.29,0.00%,.1,0.77,9561.6
+99 /escm/images/favicon.ico,5,9,5,19,9,4.88,0.00%,.1,15.57,191359.0
+sp_userlogin_46,5,2179,1320,3248,2584,714.84,0.00%,.1,52.02,653228.6
+TOTAL,15,1185,5,3248,2274,1019.73,0.00%,.2,68.01,284716.4
