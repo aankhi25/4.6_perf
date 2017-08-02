@@ -1,18 +1,25 @@
 sampler_label, benchmark_result, currentfile_result, status
-62 /escm/login/auth,100,163,FAIL
-Login Page Request,487,462,PASS
-5 /escm/login/doAuth?id=loginform,1298,1143,PASS
-Login Page Credentials and Dashboard Display,1870,1688,PASS
-77 /escm/order/index,1244,1020,PASS
-88 /escm/order/showOrderDetail,626,1794,FAIL
-98 /escm/messages,14,14,PASS
-99 /escm/recentItem,12,10,PASS
-Order Selection,2073,3020,FAIL
-109 /escm/order/searchOrder,387,408,FAIL
-111 /escm/messages,18,10,PASS
-112 /escm/recentItem,11,22,FAIL
-110 /escm/order/showOrderDetail,1305,1136,PASS
-117 /escm/messages,17,10,PASS
-118 /escm/recentItem,10,9,PASS
-Order_Search,1500,1637,FAIL
-TOTAL,708,784,FAIL
+33 /escm/login/auth,559,141,PASS
+43 /escm/images/favicon.ico,10,8,PASS
+Hit_the_portal,907,431,PASS
+65 /escm/login/doAuth?id=loginform,1360,8176,FAIL
+99 /escm/images/favicon.ico,13,10,PASS
+sp_userlogin_46,1992,8796,FAIL
+49 /escm/productOffer/index,1270,4279,FAIL
+61 /escm/productOffer/getAllService,116,54,PASS
+59 /escm/productOffer/offerList,121,41,PASS
+62 /escm/messages,20,14,PASS
+63 /escm/messages,8,9,FAIL
+65 /escm/recentItem,20,9,PASS
+66 /escm/recentItem,7,8,FAIL
+60 /escm/productOffer/offerList,185,157,PASS
+67 /escm/messages,8,8,PASS
+72 /escm/recentItem,6,8,FAIL
+List_offers,1841,4668,FAIL
+133 /escm/productOffer/productModelSearch/productModelSearch,1583,2348,FAIL
+178 /escm/images/favicon.ico,6,4,PASS
+184 /escm/productOffer/showOfferDetails,780,783,FAIL
+185 /escm/messages,8,8,PASS
+186 /escm/recentItem,7,9,FAIL
+Offer_search_by_id,3072,3842,FAIL
+TOTAL,604,1470,FAIL

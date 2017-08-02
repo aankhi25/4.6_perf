@@ -1,61 +1,61 @@
 timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency
-19/07/2017 19:37,1649,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,9556,2867,2,2,779
-19/07/2017 19:37,1119,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-2,text,true,,9556,2867,3,3,329
-19/07/2017 19:37,8,99 /escm/images/favicon.ico,200,OK,Thread Group 1-1,bin,true,,191359,559,3,3,7
-19/07/2017 19:37,12,99 /escm/images/favicon.ico,200,OK,Thread Group 1-2,bin,true,,191359,559,3,3,10
-19/07/2017 19:37,2563,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-1,,true,,653223,27108,3,3,1379
-19/07/2017 19:37,1914,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-2,,true,,653223,27108,2,2,778
-19/07/2017 19:37,1121,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-3,text,true,,9558,2947,1,1,303
-19/07/2017 19:37,8,99 /escm/images/favicon.ico,200,OK,Thread Group 1-3,bin,true,,191359,559,2,2,6
-19/07/2017 19:37,1816,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-3,,true,,653225,27188,2,2,711
-19/07/2017 19:37,1040,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-4,text,true,,9557,2897,1,1,334
-19/07/2017 19:37,7,99 /escm/images/favicon.ico,200,OK,Thread Group 1-4,bin,true,,191359,559,2,2,5
-19/07/2017 19:37,1692,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-4,,true,,653224,27138,2,2,692
-19/07/2017 19:37,924,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-5,text,true,,9558,2887,1,1,266
-19/07/2017 19:37,7,99 /escm/images/favicon.ico,200,OK,Thread Group 1-5,bin,true,,191359,559,2,2,5
-19/07/2017 19:37,1561,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-5,,true,,653225,27128,2,2,625
-19/07/2017 19:37,1016,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-6,text,true,,9558,2917,2,2,295
-19/07/2017 19:37,7,99 /escm/images/favicon.ico,200,OK,Thread Group 1-6,bin,true,,191359,559,2,2,6
-19/07/2017 19:37,1646,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-6,,true,,653225,27158,2,2,661
-19/07/2017 19:37,1037,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-7,text,true,,9558,2917,2,2,269
-19/07/2017 19:37,8,99 /escm/images/favicon.ico,200,OK,Thread Group 1-7,bin,true,,191359,559,2,2,6
-19/07/2017 19:37,1739,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-7,,true,,653225,27158,2,2,693
-19/07/2017 19:37,1023,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-8,text,true,,9558,2937,1,1,278
-19/07/2017 19:37,7,99 /escm/images/favicon.ico,200,OK,Thread Group 1-8,bin,true,,191359,559,2,2,5
-19/07/2017 19:37,1903,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-8,,true,,653225,27178,2,2,887
-19/07/2017 19:37,1373,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-9,text,true,,9557,2887,2,2,528
-19/07/2017 19:37,6,99 /escm/images/favicon.ico,200,OK,Thread Group 1-9,bin,true,,191359,559,2,2,4
-19/07/2017 19:37,1019,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-10,text,true,,9556,2917,3,3,278
-19/07/2017 19:37,2021,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-9,,true,,653224,27128,3,3,913
-19/07/2017 19:37,6,99 /escm/images/favicon.ico,200,OK,Thread Group 1-10,bin,true,,191359,559,2,2,5
-19/07/2017 19:37,1712,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-10,,true,,653223,27158,2,2,680
-19/07/2017 19:37,1056,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-11,text,true,,9557,2917,2,2,324
-19/07/2017 19:37,11,99 /escm/images/favicon.ico,200,OK,Thread Group 1-11,bin,true,,191359,559,2,2,10
-19/07/2017 19:37,1790,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-11,,true,,653224,27158,2,2,734
-19/07/2017 19:37,1276,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-12,text,true,,9559,2877,2,2,324
-19/07/2017 19:37,8,99 /escm/images/favicon.ico,200,OK,Thread Group 1-12,bin,true,,191359,559,2,2,6
-19/07/2017 19:37,2019,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-12,,true,,653226,27118,3,3,754
-19/07/2017 19:37,1162,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-13,text,true,,9558,2907,2,2,315
-19/07/2017 19:37,11,99 /escm/images/favicon.ico,200,OK,Thread Group 1-13,bin,true,,191359,559,2,2,8
-19/07/2017 19:37,1940,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-13,,true,,653225,27148,2,2,747
-19/07/2017 19:37,1235,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-14,text,true,,9556,2917,2,2,337
-19/07/2017 19:38,7,99 /escm/images/favicon.ico,200,OK,Thread Group 1-14,bin,true,,191359,559,2,2,4
-19/07/2017 19:37,1891,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-14,,true,,653223,27158,2,2,696
-19/07/2017 19:38,1134,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-15,text,true,,9556,2947,2,2,351
-19/07/2017 19:38,11,99 /escm/images/favicon.ico,200,OK,Thread Group 1-15,bin,true,,191359,559,2,2,5
-19/07/2017 19:38,1755,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-15,,true,,653223,27188,2,2,700
-19/07/2017 19:38,1139,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-16,text,true,,9556,2927,2,2,318
-19/07/2017 19:38,7,99 /escm/images/favicon.ico,200,OK,Thread Group 1-16,bin,true,,191359,559,2,2,4
-19/07/2017 19:38,1831,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-16,,true,,653223,27168,2,2,713
-19/07/2017 19:38,1051,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-17,text,true,,9555,2897,2,2,278
-19/07/2017 19:38,6,99 /escm/images/favicon.ico,200,OK,Thread Group 1-17,bin,true,,191359,559,2,2,4
-19/07/2017 19:38,1673,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-17,,true,,653222,27138,2,2,649
-19/07/2017 19:38,1033,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-18,text,true,,9556,2867,2,2,267
-19/07/2017 19:38,9,99 /escm/images/favicon.ico,200,OK,Thread Group 1-18,bin,true,,191359,559,2,2,7
-19/07/2017 19:38,1716,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-18,,true,,653223,27108,2,2,701
-19/07/2017 19:38,1045,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-19,text,true,,9556,2937,2,2,329
-19/07/2017 19:38,8,99 /escm/images/favicon.ico,200,OK,Thread Group 1-19,bin,true,,191359,559,2,2,5
-19/07/2017 19:38,1655,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-19,,true,,653223,27178,2,2,671
-19/07/2017 19:38,1000,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-20,text,true,,9556,2867,1,1,249
-19/07/2017 19:38,7,99 /escm/images/favicon.ico,200,OK,Thread Group 1-20,bin,true,,191359,559,1,1,5
-19/07/2017 19:38,1607,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-20,,true,,653223,27108,1,1,585
+02/08/2017 19:11,4503,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-3,text,true,,9672,2947,7,7,3185
+02/08/2017 19:11,6768,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,9672,2867,7,7,1166
+02/08/2017 19:11,6211,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-2,text,true,,9672,2947,7,7,538
+02/08/2017 19:11,18,99 /escm/images/favicon.ico,200,OK,Thread Group 1-3,bin,true,,191359,559,7,7,16
+02/08/2017 19:11,5362,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-3,,true,,653339,27188,8,8,3723
+02/08/2017 19:11,9,99 /escm/images/favicon.ico,200,OK,Thread Group 1-1,bin,true,,191359,559,7,7,5
+02/08/2017 19:11,6,99 /escm/images/favicon.ico,200,OK,Thread Group 1-2,bin,true,,191359,559,7,7,4
+02/08/2017 19:11,4512,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-4,text,true,,9672,2947,7,7,1890
+02/08/2017 19:11,7480,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-1,,true,,653339,27108,7,7,1577
+02/08/2017 19:11,6932,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-2,,true,,653339,27188,6,6,997
+02/08/2017 19:11,11,99 /escm/images/favicon.ico,200,OK,Thread Group 1-4,bin,true,,191359,559,6,6,7
+02/08/2017 19:11,4629,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-5,text,true,,9672,2877,6,6,1175
+02/08/2017 19:11,5269,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-4,,true,,653339,27188,6,6,2291
+02/08/2017 19:11,7,99 /escm/images/favicon.ico,200,OK,Thread Group 1-5,bin,true,,191359,559,6,6,5
+02/08/2017 19:11,3171,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-7,text,true,,9673,2947,6,6,314
+02/08/2017 19:11,4248,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-6,text,true,,9673,2937,6,6,2251
+02/08/2017 19:11,5337,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-5,,true,,653339,27118,6,6,1579
+02/08/2017 19:11,7,99 /escm/images/favicon.ico,200,OK,Thread Group 1-7,bin,true,,191359,559,5,5,5
+02/08/2017 19:11,10,99 /escm/images/favicon.ico,200,OK,Thread Group 1-6,bin,true,,191359,559,5,5,7
+02/08/2017 19:11,3905,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-7,,true,,653340,27188,6,6,748
+02/08/2017 19:11,4971,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-6,,true,,653340,27178,5,5,2699
+02/08/2017 19:11,3353,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-8,text,true,,9672,2867,4,4,1577
+02/08/2017 19:11,2454,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-9,text,true,,9672,2957,4,4,674
+02/08/2017 19:11,9,99 /escm/images/favicon.ico,200,OK,Thread Group 1-8,bin,true,,191359,559,4,4,6
+02/08/2017 19:11,6,99 /escm/images/favicon.ico,200,OK,Thread Group 1-9,bin,true,,191359,559,4,4,3
+02/08/2017 19:11,2020,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-10,text,true,,9674,2867,5,5,887
+02/08/2017 19:11,4009,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-8,,true,,653339,27108,5,5,1913
+02/08/2017 19:11,3086,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-9,,true,,653339,27198,5,5,1035
+02/08/2017 19:11,5,99 /escm/images/favicon.ico,200,OK,Thread Group 1-10,bin,true,,191359,559,3,3,3
+02/08/2017 19:11,2604,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-10,,true,,653341,27108,3,3,1204
+02/08/2017 19:11,2397,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-11,text,true,,9674,2907,3,3,546
+02/08/2017 19:11,8,99 /escm/images/favicon.ico,200,OK,Thread Group 1-11,bin,true,,191359,559,3,3,6
+02/08/2017 19:11,3050,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-11,,true,,653341,27148,4,4,901
+02/08/2017 19:11,2407,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-12,text,true,,9673,2867,3,3,1029
+02/08/2017 19:11,8,99 /escm/images/favicon.ico,200,OK,Thread Group 1-12,bin,true,,191359,559,3,3,6
+02/08/2017 19:11,3003,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-12,,true,,653340,27108,4,4,1370
+02/08/2017 19:11,2195,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-13,text,true,,9673,2927,3,3,749
+02/08/2017 19:11,16,99 /escm/images/favicon.ico,200,OK,Thread Group 1-13,bin,true,,191359,559,3,3,13
+02/08/2017 19:11,2773,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-13,,true,,653340,27168,3,3,1068
+02/08/2017 19:11,2120,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-14,text,true,,9673,2897,3,3,727
+02/08/2017 19:11,7,99 /escm/images/favicon.ico,200,OK,Thread Group 1-14,bin,true,,191359,559,3,3,4
+02/08/2017 19:11,2632,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-14,,true,,653340,27138,3,3,1004
+02/08/2017 19:11,3405,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-15,text,true,,9673,2957,4,4,717
+02/08/2017 19:11,8,99 /escm/images/favicon.ico,200,OK,Thread Group 1-15,bin,true,,191359,559,4,4,3
+02/08/2017 19:11,3989,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-15,,true,,653340,27198,4,4,1038
+02/08/2017 19:11,4358,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-16,text,true,,9672,2877,5,5,1928
+02/08/2017 19:11,3623,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-17,text,true,,9673,2897,5,5,939
+02/08/2017 19:11,10,99 /escm/images/favicon.ico,200,OK,Thread Group 1-16,bin,true,,191359,559,5,5,7
+02/08/2017 19:11,1930,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-19,text,true,,9673,2947,5,5,938
+02/08/2017 19:11,8,99 /escm/images/favicon.ico,200,OK,Thread Group 1-17,bin,true,,191359,559,5,5,6
+02/08/2017 19:11,5232,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-16,,true,,653339,27118,5,5,2472
+02/08/2017 19:11,3370,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-18,text,true,,9673,2947,4,4,1998
+02/08/2017 19:11,4363,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-17,,true,,653340,27138,4,4,1371
+02/08/2017 19:11,6,99 /escm/images/favicon.ico,200,OK,Thread Group 1-19,bin,true,,191359,559,3,3,3
+02/08/2017 19:11,1810,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-20,text,true,,9672,2937,3,3,788
+02/08/2017 19:11,19,99 /escm/images/favicon.ico,200,OK,Thread Group 1-18,bin,true,,191359,559,3,3,12
+02/08/2017 19:11,2782,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-19,,true,,653340,27188,3,3,1480
+02/08/2017 19:11,4023,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-18,,true,,653340,27188,2,2,2408
+02/08/2017 19:11,5,99 /escm/images/favicon.ico,200,OK,Thread Group 1-20,bin,true,,191359,559,1,1,4
+02/08/2017 19:11,2444,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-20,,true,,653339,27178,1,1,1171

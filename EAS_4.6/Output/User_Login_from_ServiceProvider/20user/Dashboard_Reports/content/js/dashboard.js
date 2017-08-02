@@ -128,7 +128,7 @@ $(document).ready(function() {
     });
 
     // Creates APDEX table
-    createTable($("#apdexTable"), {"supportsControllersDiscrimination": true, "items": [{"isController": false, "data": [1.0, 500, 1500, "99 /escm/images/favicon.ico"]}, {"isController": true, "data": [0.0, 500, 1500, "sp_userlogin_46"]}, {"isController": false, "data": [0.475, 500, 1500, "65 /escm/login/doAuth?id=loginform"]}], "titles": ["Apdex", "T (Toleration threshold)  ", "F (Frustration threshold)", "Label"], "overall": {"isController": false, "data": [0.49166666666666664, 500, 1500, "Total"]}}, function(index, item){
+    createTable($("#apdexTable"), {"supportsControllersDiscrimination": true, "items": [{"isController": false, "data": [1.0, 500, 1500, "99 /escm/images/favicon.ico"]}, {"isController": true, "data": [0.0, 500, 1500, "sp_userlogin_46"]}, {"isController": false, "data": [0.0, 500, 1500, "65 /escm/login/doAuth?id=loginform"]}], "titles": ["Apdex", "T (Toleration threshold)  ", "F (Frustration threshold)", "Label"], "overall": {"isController": false, "data": [0.3333333333333333, 500, 1500, "Total"]}}, function(index, item){
         switch(index){
             case 0:
                 item = item.toFixed(3);
@@ -142,7 +142,7 @@ $(document).ready(function() {
     }, [[0, 0]], 3);
 
     // Create statistics table
-    createTable($("#statisticsTable"), {"supportsControllersDiscrimination": true, "items": [{"isController": false, "data": ["99 /escm/images/favicon.ico", 20, 0, 0.0, 8.049999999999999, 11.0, 11.95, 12.0, 0.3332722334238723, 62.27992315992068, 0.18193279148822716, 6, 12]}, {"isController": true, "data": ["sp_userlogin_46", 20, 0, 0.0, 1822.2000000000003, 2020.8, 2535.8999999999996, 2563.0, 0.3234623408969611, 206.34112856516148, 8.57491084569229, 1561, 2563]}, {"isController": false, "data": ["65 /escm/login/doAuth?id=loginform", 20, 0, 0.0, 1122.6000000000001, 1363.3000000000002, 1635.1999999999998, 1649.0, 0.32712344003009536, 3.0529977029800945, 0.9280210871947528, 924, 1649]}], "titles": ["Label", "#Samples", "KO", "Error %", "Average response time", "90th pct", "95th pct", "99th pct", "Throughput", "Received KB/sec", "Sent KB/sec", "Min", "Max"], "overall": {"isController": false, "data": ["Total", 40, 0, 0.0, 565.325, 1227.6999999999998, 1368.1499999999996, 1649.0, 0.6542468800601907, 64.18387110211975, 1.106597261976807, 6, 1649]}}, function(index, item){
+    createTable($("#statisticsTable"), {"supportsControllersDiscrimination": true, "items": [{"isController": false, "data": ["99 /escm/images/favicon.ico", 20, 0, 0.0, 9.15, 17.800000000000004, 18.95, 19.0, 1052.6315789473683, 196709.49835526317, 574.6299342105264, 5, 19]}, {"isController": true, "data": ["sp_userlogin_46", 20, 0, 0.0, 4162.3, 6775.000000000004, 7452.599999999999, 7480.0, 2.6737967914438503, 1705.9545506768047, 70.91044869652406, 2444, 7480]}, {"isController": false, "data": ["65 /escm/login/doAuth?id=loginform", 20, 0, 0.0, 3474.2000000000007, 6052.800000000003, 6740.15, 6768.0, 2.955082742316785, 27.91355574948286, 8.415059840425533, 1810, 6768]}], "titles": ["Label", "#Samples", "KO", "Error %", "Average response time", "90th pct", "95th pct", "99th pct", "Throughput", "Received KB/sec", "Sent KB/sec", "Min", "Max"], "overall": {"isController": false, "data": ["Total", 40, 0, 0.0, 1741.675, 4511.1, 6131.899999999993, 6768.0, 5.91016548463357, 580.1417573969416, 10.02823489213948, 5, 6768]}}, function(index, item){
         switch(index){
             // Errors pct
             case 3:

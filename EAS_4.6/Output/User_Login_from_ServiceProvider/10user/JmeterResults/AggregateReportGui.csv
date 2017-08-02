@@ -1,5 +1,5 @@
 sampler_label,aggregate_report_count,average,aggregate_report_median,aggregate_report_90%_line,aggregate_report_95%_line,aggregate_report_99%_line,aggregate_report_min,aggregate_report_max,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,aggregate_report_stddev
-65 /escm/login/doAuth?id=loginform,10,952,885,1001,1001,1569,808,1569,0.00%,6.4,60.1,215.14
-99 /escm/images/favicon.ico,10,6,6,8,8,10,5,10,0.00%,1000.0,186874.0,1.50
-sp_userlogin_46,10,1514,1440,1621,1621,2304,1289,2304,0.00%,4.3,2769.2,278.43
-TOTAL,30,824,885,1512,1569,2304,5,2304,0.00%,13.0,3621.2,654.59
+65 /escm/login/doAuth?id=loginform,10,1767,1367,2873,2873,3236,1116,3236,0.00%,3.1,29.2,710.56
+99 /escm/images/favicon.ico,10,9,9,12,12,20,5,20,0.00%,500.0,93437.0,3.94
+sp_userlogin_46,10,2375,1915,3556,3556,3924,1665,3924,0.00%,2.5,1625.9,751.76
+TOTAL,30,1384,1367,2873,3236,3924,5,3924,0.00%,7.6,2126.2,1167.41
