@@ -1,17 +1,20 @@
 sampler_label,aggregate_report_count,average,aggregate_report_median,aggregate_report_90%_line,aggregate_report_95%_line,aggregate_report_99%_line,aggregate_report_min,aggregate_report_max,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,aggregate_report_stddev
-33 /escm/login/auth,2,593,585,601,601,601,585,601,0.00%,.0,.0,8.00
-43 /escm/images/favicon.ico,2,12,10,15,15,15,10,15,0.00%,.0,.4,2.50
-Hit_the_portal,2,1027,938,1117,1117,1117,938,1117,100.00%,.0,1.6,89.50
-65 /escm/login/doAuth?id=loginform,2,1693,1529,1858,1858,1858,1529,1858,0.00%,.0,.0,164.50
-99 /escm/images/favicon.ico,2,7,5,9,9,9,5,9,0.00%,.0,.0,2.00
-sp_userlogin_46,2,2441,2288,2594,2594,2594,2288,2594,0.00%,.0,1.1,153.00
-324 /escm/customer/index,2,1346,668,2025,2025,2025,668,2025,0.00%,.0,.0,678.50
-381 /escm/customer/setSearchBy,2,24,21,27,27,27,21,27,0.00%,.0,.0,3.00
-374 /escm/images/favicon.ico,2,5,5,6,6,6,5,6,0.00%,.0,.0,0.50
-382 /escm/customer/listByCriteria,2,427,367,488,488,488,367,488,0.00%,.0,.0,60.50
-384 /escm/messages,2,14,14,14,14,14,14,14,0.00%,.0,.0,0.00
-385 /escm/customer/renderCustomerOrganizationDetails,2,1053,783,1324,1324,1324,783,1324,0.00%,.0,.1,270.50
-405 /escm/messages,2,14,11,17,17,17,11,17,0.00%,.0,.0,3.00
-406 /escm/messages,2,15,13,18,18,18,13,18,0.00%,.0,.0,2.50
-List_Organizations,2,3983,2930,5036,5036,5036,2930,5036,0.00%,.0,1.6,1053.00
-TOTAL,30,843,367,2288,2594,5036,5,5036,6.67%,.0,4.7,1161.27
+524 /escm/login/auth,2,666,611,722,722,722,611,722,0.00%,.0,.0,55.50
+Hit_the_portal_new,2,1294,1140,1448,1448,1448,1140,1448,0.00%,.0,.0,154.00
+540 /success.txt,2,42145,42129,42162,42162,42162,42129,42162,100.00%,.0,.0,16.50
+541 /escm/login/doAuth?id=loginform,2,5474,1807,9141,9141,9141,1807,9141,0.00%,.0,.0,3667.00
+543 /escm/,2,1196,951,1442,1442,1442,951,1442,0.00%,.0,.0,245.50
+545 /escm/dashboard/index,2,1045,904,1186,1186,1186,904,1186,0.00%,.0,.0,141.00
+546 /escm/dashboard/myAccountInfo,2,976,851,1102,1102,1102,851,1102,0.00%,.0,.0,125.50
+SP_user_login_46_new,2,52026,47379,56674,56674,56674,47379,56674,100.00%,.0,.0,4647.50
+598 /escm/customer/index,2,1569,1031,2107,2107,2107,1031,2107,0.00%,.0,.0,538.00
+600 /escm/customer/list,2,1096,849,1344,1344,1344,849,1344,0.00%,.0,.0,247.50
+650 /escm/customer/setSearchBy,2,65,31,100,100,100,31,100,0.00%,.0,.0,34.50
+652 /escm/images/sidebar-bg.jpg,2,22,9,35,35,35,9,35,0.00%,.0,.0,13.00
+654 /escm/messages,2,72,24,120,120,120,24,120,0.00%,.0,.0,48.00
+653 /escm/customer/listByCriteria,2,870,584,1157,1157,1157,584,1157,0.00%,.0,.0,286.50
+658 /escm/customer/renderCustomerOrganizationDetails,2,2646,1162,4130,4130,4130,1162,4130,0.00%,.0,.0,1484.00
+673 /escm/messages,2,23,17,30,30,30,17,30,0.00%,.0,.0,6.50
+674 /escm/messages,2,17,17,18,18,18,17,18,0.00%,.0,.0,0.50
+List_Organizations_without_cache,2,7788,4800,10776,10776,10776,4800,10776,0.00%,.0,.0,2988.00
+TOTAL,36,6610,1031,10776,42162,56674,9,56674,11.11%,.0,.1,14626.32

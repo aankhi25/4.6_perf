@@ -1,0 +1,7 @@
+sampler_label,aggregate_report_count,average,aggregate_report_median,aggregate_report_90%_line,aggregate_report_95%_line,aggregate_report_99%_line,aggregate_report_min,aggregate_report_max,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,aggregate_report_stddev
+473 /escm/login/doAuth?id=loginform,1,9869,9869,9869,9869,9869,9869,9869,0.00%,.1,1.0,0.00
+476 /escm/order/newOrder,1,1053,1053,1053,1053,1053,1053,1053,0.00%,.9,8.8,0.00
+519 /escm/order/listAllFeaturedOffers,1,6564,6564,6564,6564,6564,6564,6564,0.00%,.2,.8,0.00
+520 /escm/messages,1,121,121,121,121,121,121,121,0.00%,8.3,3.7,0.00
+new_org_user_login_catalog_landing_without_cache,1,19375,19375,19375,19375,19375,19375,19375,0.00%,.1,23.1,0.00
+TOTAL,5,7396,6564,9869,19375,19375,121,19375,0.00%,.1,7.9,6978.02

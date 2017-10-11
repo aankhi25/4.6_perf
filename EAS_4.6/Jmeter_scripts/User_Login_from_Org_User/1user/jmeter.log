@@ -1,0 +1,221 @@
+2017/09/22 16:52:12 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2017/09/22 16:52:12 INFO  - jmeter.JMeter: Loading user properties from: C:\Users\Administrator\Desktop\apache-jmeter-3.1\apache-jmeter-3.1\bin\user.properties 
+2017/09/22 16:52:12 INFO  - jmeter.JMeter: Loading system properties from: C:\Users\Administrator\Desktop\apache-jmeter-3.1\apache-jmeter-3.1\bin\system.properties 
+2017/09/22 16:52:12 INFO  - jmeter.JMeter: Copyright (c) 1998-2016 The Apache Software Foundation 
+2017/09/22 16:52:12 INFO  - jmeter.JMeter: Version 3.1 r1770033 
+2017/09/22 16:52:12 INFO  - jmeter.JMeter: java.version=1.7.0_60 
+2017/09/22 16:52:12 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2017/09/22 16:52:12 INFO  - jmeter.JMeter: os.name=Windows Server 2012 R2 
+2017/09/22 16:52:12 INFO  - jmeter.JMeter: os.arch=amd64 
+2017/09/22 16:52:12 INFO  - jmeter.JMeter: os.version=6.3 
+2017/09/22 16:52:12 INFO  - jmeter.JMeter: file.encoding=Cp1252 
+2017/09/22 16:52:12 INFO  - jmeter.JMeter: Max memory     =523763712 
+2017/09/22 16:52:12 INFO  - jmeter.JMeter: Available Processors =4 
+2017/09/22 16:52:12 INFO  - jmeter.JMeter: Default Locale=English (United States) 
+2017/09/22 16:52:12 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
+2017/09/22 16:52:12 INFO  - jmeter.JMeter: JMeterHome=C:\Users\Administrator\Desktop\apache-jmeter-3.1\apache-jmeter-3.1 
+2017/09/22 16:52:12 INFO  - jmeter.JMeter: user.dir  =C:\perf_project_git\EAS_4.6\Jmeter_scripts\User_Login_from_Org_User\1user 
+2017/09/22 16:52:12 INFO  - jmeter.JMeter: PWD       =C:\perf_project_git\EAS_4.6\Jmeter_scripts\User_Login_from_Org_User\1user 
+2017/09/22 16:52:12 INFO  - jmeter.JMeter: IP: 10.10.3.15 Name: ESCM-APP FullName: ESCM-APP 
+2017/09/22 16:52:12 INFO  - jmeter.services.FileServer: Default base='C:\perf_project_git\EAS_4.6\Jmeter_scripts\User_Login_from_Org_User\1user' 
+2017/09/22 16:52:12 INFO  - jmeter.services.FileServer: Set new base='C:\perf_project_git\EAS_4.6\Jmeter_scripts\User_Login_from_Org_User\1user' 
+2017/09/22 16:52:13 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2017/09/22 16:52:13 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2017/09/22 16:52:13 INFO  - jmeter.save.SaveService: Using SaveService properties version 3.1 
+2017/09/22 16:52:13 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2017/09/22 16:52:13 INFO  - jmeter.save.SaveService: Loading file: Login_from_org_user.jmx 
+2017/09/22 16:52:13 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/09/22 16:52:13 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/09/22 16:52:13 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/09/22 16:52:13 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/09/22 16:52:13 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2017/09/22 16:52:13 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser 
+2017/09/22 16:52:14 INFO  - jmeter.protocol.http.control.CacheManager: Will only cache the following methods: [GET] 
+2017/09/22 16:52:14 INFO  - jmeter.protocol.http.control.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_ 
+2017/09/22 16:52:15 INFO  - jmeter.JMeter: Creating summariser <summary> 
+2017/09/22 16:52:15 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2017/09/22 16:52:15 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2017/09/22 16:52:15 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2017/09/22 16:52:16 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2017/09/22 16:52:16 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2017/09/22 16:52:17 INFO  - kg.apc.jmeter.perfmon.PerfMonCollector: Can't connect TCP transport for host: /10.10.3.28:4444 java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at kg.apc.perfmon.client.TransportFactory.TCPInstance(TransportFactory.java:91)
+	at kg.apc.jmeter.perfmon.PerfMonCollector.getConnector(PerfMonCollector.java:243)
+	at kg.apc.jmeter.perfmon.PerfMonCollector.initiateConnector(PerfMonCollector.java:228)
+	at kg.apc.jmeter.perfmon.PerfMonCollector.initiateConnectors(PerfMonCollector.java:175)
+	at kg.apc.jmeter.perfmon.PerfMonCollector.testStarted(PerfMonCollector.java:126)
+	at org.apache.jmeter.reporters.ResultCollector.testStarted(ResultCollector.java:348)
+	at kg.apc.jmeter.vizualizers.CorrectedResultCollector.testStarted(CorrectedResultCollector.java:28)
+	at org.apache.jmeter.engine.StandardJMeterEngine.notifyTestListenersOfStart(StandardJMeterEngine.java:204)
+	at org.apache.jmeter.engine.StandardJMeterEngine.run(StandardJMeterEngine.java:325)
+	at java.lang.Thread.run(Unknown Source)
+
+2017/09/22 16:52:17 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Problems creating connector java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at kg.apc.perfmon.client.TransportFactory.TCPInstance(TransportFactory.java:91)
+	at kg.apc.jmeter.perfmon.PerfMonCollector.getConnector(PerfMonCollector.java:243)
+	at kg.apc.jmeter.perfmon.PerfMonCollector.initiateConnector(PerfMonCollector.java:228)
+	at kg.apc.jmeter.perfmon.PerfMonCollector.initiateConnectors(PerfMonCollector.java:175)
+	at kg.apc.jmeter.perfmon.PerfMonCollector.testStarted(PerfMonCollector.java:126)
+	at org.apache.jmeter.reporters.ResultCollector.testStarted(ResultCollector.java:348)
+	at kg.apc.jmeter.vizualizers.CorrectedResultCollector.testStarted(CorrectedResultCollector.java:28)
+	at org.apache.jmeter.engine.StandardJMeterEngine.notifyTestListenersOfStart(StandardJMeterEngine.java:204)
+	at org.apache.jmeter.engine.StandardJMeterEngine.run(StandardJMeterEngine.java:325)
+	at java.lang.Thread.run(Unknown Source)
+
+2017/09/22 16:52:17 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2017/09/22 16:52:17 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2017/09/22 16:52:17 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2017/09/22 16:52:17 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2017/09/22 16:52:17 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:18 INFO  - kg.apc.jmeter.perfmon.PerfMonCollector: Can't connect TCP transport for host: /10.10.3.28:4444 java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at kg.apc.perfmon.client.TransportFactory.TCPInstance(TransportFactory.java:91)
+	at kg.apc.jmeter.perfmon.PerfMonCollector.getConnector(PerfMonCollector.java:243)
+	at kg.apc.jmeter.perfmon.PerfMonCollector.initiateConnector(PerfMonCollector.java:228)
+	at kg.apc.jmeter.perfmon.PerfMonCollector.initiateConnectors(PerfMonCollector.java:175)
+	at kg.apc.jmeter.perfmon.PerfMonCollector.testStarted(PerfMonCollector.java:126)
+	at org.apache.jmeter.reporters.ResultCollector.testStarted(ResultCollector.java:348)
+	at kg.apc.jmeter.vizualizers.CorrectedResultCollector.testStarted(CorrectedResultCollector.java:28)
+	at org.apache.jmeter.engine.StandardJMeterEngine.notifyTestListenersOfStart(StandardJMeterEngine.java:204)
+	at org.apache.jmeter.engine.StandardJMeterEngine.run(StandardJMeterEngine.java:325)
+	at java.lang.Thread.run(Unknown Source)
+
+2017/09/22 16:52:18 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Problems creating connector java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at kg.apc.perfmon.client.TransportFactory.TCPInstance(TransportFactory.java:91)
+	at kg.apc.jmeter.perfmon.PerfMonCollector.getConnector(PerfMonCollector.java:243)
+	at kg.apc.jmeter.perfmon.PerfMonCollector.initiateConnector(PerfMonCollector.java:228)
+	at kg.apc.jmeter.perfmon.PerfMonCollector.initiateConnectors(PerfMonCollector.java:175)
+	at kg.apc.jmeter.perfmon.PerfMonCollector.testStarted(PerfMonCollector.java:126)
+	at org.apache.jmeter.reporters.ResultCollector.testStarted(ResultCollector.java:348)
+	at kg.apc.jmeter.vizualizers.CorrectedResultCollector.testStarted(CorrectedResultCollector.java:28)
+	at org.apache.jmeter.engine.StandardJMeterEngine.notifyTestListenersOfStart(StandardJMeterEngine.java:204)
+	at org.apache.jmeter.engine.StandardJMeterEngine.run(StandardJMeterEngine.java:325)
+	at java.lang.Thread.run(Unknown Source)
+
+2017/09/22 16:52:18 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:18 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:18 INFO  - jmeter.JMeter: Running test (1506079338778) 
+2017/09/22 16:52:19 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group 
+2017/09/22 16:52:19 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Thread Group. 
+2017/09/22 16:52:19 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2017/09/22 16:52:19 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 1 ramp-up 1 perThread 1000.0 delayedStart=false 
+2017/09/22 16:52:19 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2017/09/22 16:52:19 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2017/09/22 16:52:19 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-1 
+2017/09/22 16:52:19 INFO  - jmeter.services.FileServer: Stored: user.csv 
+2017/09/22 16:52:19 INFO  - jmeter.protocol.http.sampler.HTTPHCAbstractImpl: Local host = ESCM-APP 
+2017/09/22 16:52:19 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: HTTP request retry count = 0 
+2017/09/22 16:52:19 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:19 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:20 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:20 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:21 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:21 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:22 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:22 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:23 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:23 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:24 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:24 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:25 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:25 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:26 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:26 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:27 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:27 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:28 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:28 ERROR - kg.apc.jmeter.perfmon.PerfMonCollector: Perfmon plugin error: java.net.ConnectException: Connection refused: connect 
+2017/09/22 16:52:29 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-1 
+2017/09/22 16:52:29 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-1 
+2017/09/22 16:52:29 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2017/09/22 16:52:29 INFO  - jmeter.services.FileServer: Close: user.csv 
+2017/09/22 16:52:29 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/09/22 16:52:29 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/09/22 16:52:30 INFO  - kg.apc.jmeter.vizualizers.SynthesisReportGui: Saving CSV to C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\SynthesisReportGui.csv 
+2017/09/22 16:52:30 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\SynthesisReportGui by plugin:SynthesisReportGui 
+2017/09/22 16:52:30 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/09/22 16:52:30 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/09/22 16:52:30 WARN  - jorphan.gui.ObjectTableModel: Header count=13 but classes count=11 
+2017/09/22 16:52:30 WARN  - jorphan.gui.ObjectTableModel: Header count=13 but writeFunctor count=11 
+2017/09/22 16:52:30 INFO  - kg.apc.jmeter.vizualizers.AggregateReportGui: Saving CSV to C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\AggregateReportGui.csv 
+2017/09/22 16:52:30 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\AggregateReportGui by plugin:AggregateReportGui 
+2017/09/22 16:52:30 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/09/22 16:52:30 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/09/22 16:52:30 INFO  - kg.apc.charting.GraphPanelChart: Saving PNG to C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\ResponseTimesOverTime.png 
+2017/09/22 16:52:31 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\ResponseTimesOverTime by plugin:ResponseTimesOverTime 
+2017/09/22 16:52:31 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/09/22 16:52:31 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/09/22 16:52:32 INFO  - kg.apc.charting.GraphPanelChart: Saving PNG to C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\HitsPerSecond.png 
+2017/09/22 16:52:32 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\HitsPerSecond by plugin:HitsPerSecond 
+2017/09/22 16:52:32 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/09/22 16:52:32 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/09/22 16:52:32 INFO  - kg.apc.charting.GraphPanelChart: Saving PNG to C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\BytesThroughputOverTime.png 
+2017/09/22 16:52:32 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\BytesThroughputOverTime by plugin:BytesThroughputOverTime 
+2017/09/22 16:52:32 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/09/22 16:52:32 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/09/22 16:52:32 INFO  - kg.apc.charting.GraphPanelChart: Saving PNG to C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\LatenciesOverTime.png 
+2017/09/22 16:52:33 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\LatenciesOverTime by plugin:LatenciesOverTime 
+2017/09/22 16:52:33 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/09/22 16:52:33 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/09/22 16:52:33 INFO  - kg.apc.charting.GraphPanelChart: Saving PNG to C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\ResponseCodesPerSecond.png 
+2017/09/22 16:52:33 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\ResponseCodesPerSecond by plugin:ResponseCodesPerSecond 
+2017/09/22 16:52:33 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/09/22 16:52:33 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/09/22 16:52:33 INFO  - kg.apc.charting.GraphPanelChart: Saving PNG to C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\TransactionsPerSecond.png 
+2017/09/22 16:52:33 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\TransactionsPerSecond by plugin:TransactionsPerSecond 
+2017/09/22 16:52:33 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/09/22 16:52:33 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/09/22 16:52:34 INFO  - kg.apc.charting.GraphPanelChart: Saving PNG to C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\ResponseTimesDistribution.png 
+2017/09/22 16:52:34 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\ResponseTimesDistribution by plugin:ResponseTimesDistribution 
+2017/09/22 16:52:34 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/09/22 16:52:34 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/09/22 16:52:34 INFO  - kg.apc.charting.GraphPanelChart: Saving PNG to C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\ResponseTimesPercentiles.png 
+2017/09/22 16:52:34 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\ResponseTimesPercentiles by plugin:ResponseTimesPercentiles 
+2017/09/22 16:52:34 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/09/22 16:52:34 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/09/22 16:52:34 INFO  - kg.apc.charting.GraphPanelChart: Saving PNG to C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\ThreadsStateOverTime.png 
+2017/09/22 16:52:35 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\ThreadsStateOverTime by plugin:ThreadsStateOverTime 
+2017/09/22 16:52:35 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/09/22 16:52:35 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/09/22 16:52:35 INFO  - kg.apc.charting.GraphPanelChart: Saving PNG to C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\TimesVsThreads.png 
+2017/09/22 16:52:35 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\TimesVsThreads by plugin:TimesVsThreads 
+2017/09/22 16:52:35 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/09/22 16:52:35 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/09/22 16:52:35 INFO  - kg.apc.charting.GraphPanelChart: Saving PNG to C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\ThroughputVsThreads.png 
+2017/09/22 16:52:35 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\User_Login_from_Org_User\1user\JmeterResults\ThroughputVsThreads by plugin:ThroughputVsThreads 
+2017/09/22 16:52:35 INFO  - jmeter.reporters.Summariser: summary =     46 in 00:00:17 =    2.7/s Avg:   205 Min:    11 Max:  5201 Err:     0 (0.00%) 

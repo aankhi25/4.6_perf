@@ -1,0 +1,7 @@
+Label,# Samples,Average,Min,Max,90% Line,Std. Dev.,Error %,Throughput,Received KB/sec,Avg. Bytes
+473 /escm/login/doAuth?id=loginform,1,9869,9869,9869,9869,0.00,0.00%,.1,1.04,10557.0
+476 /escm/order/newOrder,1,1053,1053,1053,1053,0.00,0.00%,.9,8.81,9504.0
+519 /escm/order/listAllFeaturedOffers,1,6564,6564,6564,6564,0.00,0.00%,.2,0.77,5178.0
+520 /escm/messages,1,121,121,121,121,0.00,0.00%,8.3,3.72,461.0
+new_org_user_login_catalog_landing_without_cache,1,19375,19375,19375,19375,0.00,0.00%,.1,23.13,458808.0
+TOTAL,5,7396,121,19375,9869,6978.02,0.00%,.1,7.87,96901.6

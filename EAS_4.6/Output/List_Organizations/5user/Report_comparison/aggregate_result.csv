@@ -1,17 +1,1 @@
 sampler_label, benchmark_result, currentfile_result, status
-33 /escm/login/auth,558,159,PASS
-43 /escm/images/favicon.ico,10,13,FAIL
-Hit_the_portal,908,566,PASS
-65 /escm/login/doAuth?id=loginform,1440,1618,FAIL
-99 /escm/images/favicon.ico,5,10,FAIL
-sp_userlogin_46,2164,2414,FAIL
-324 /escm/customer/index,825,1053,FAIL
-381 /escm/customer/setSearchBy,24,20,PASS
-374 /escm/images/favicon.ico,5,6,FAIL
-382 /escm/customer/listByCriteria,363,300,PASS
-384 /escm/messages,14,11,PASS
-385 /escm/customer/renderCustomerOrganizationDetails,753,596,PASS
-405 /escm/messages,11,10,PASS
-406 /escm/messages,15,10,PASS
-List_Organizations,2994,3045,FAIL
-TOTAL,672,655,PASS

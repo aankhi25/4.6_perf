@@ -128,7 +128,7 @@ $(document).ready(function() {
     });
 
     // Creates APDEX table
-    createTable($("#apdexTable"), {"supportsControllersDiscrimination": true, "items": [{"isController": false, "data": [1.0, 500, 1500, "99 /escm/images/favicon.ico"]}, {"isController": true, "data": [0.0, 500, 1500, "sp_userlogin_46"]}, {"isController": false, "data": [0.5, 500, 1500, "65 /escm/login/doAuth?id=loginform"]}], "titles": ["Apdex", "T (Toleration threshold)  ", "F (Frustration threshold)", "Label"], "overall": {"isController": false, "data": [0.5, 500, 1500, "Total"]}}, function(index, item){
+    createTable($("#apdexTable"), {"supportsControllersDiscrimination": true, "items": [{"isController": false, "data": [0.5, 500, 1500, "676 /escm/login/doAuth?id=loginform"]}, {"isController": false, "data": [0.5, 500, 1500, "675 /escm/login/auth"]}, {"isController": true, "data": [0.0, 500, 1500, "SP_user_login_46_with_cache"]}, {"isController": false, "data": [0.5, 500, 1500, "680 /escm/dashboard/myAccountInfo"]}, {"isController": true, "data": [0.5, 500, 1500, "Hit_the_portal_with-cache"]}], "titles": ["Apdex", "T (Toleration threshold)  ", "F (Frustration threshold)", "Label"], "overall": {"isController": false, "data": [0.4, 500, 1500, "Total"]}}, function(index, item){
         switch(index){
             case 0:
                 item = item.toFixed(3);
@@ -142,7 +142,7 @@ $(document).ready(function() {
     }, [[0, 0]], 3);
 
     // Create statistics table
-    createTable($("#statisticsTable"), {"supportsControllersDiscrimination": true, "items": [{"isController": false, "data": ["99 /escm/images/favicon.ico", 1, 0, 0.0, 8.0, 8.0, 8.0, 8.0, 125.0, 23359.2529296875, 68.2373046875, 8, 8]}, {"isController": true, "data": ["sp_userlogin_46", 1, 0, 0.0, 2135.0, 2135.0, 2135.0, 2135.0, 0.468384074941452, 298.79107508782204, 12.403944672131148, 2135, 2135]}, {"isController": false, "data": ["65 /escm/login/doAuth?id=loginform", 1, 0, 0.0, 1500.0, 1500.0, 1500.0, 1500.0, 0.6666666666666666, 6.225260416666667, 1.873046875, 1500, 1500]}], "titles": ["Label", "#Samples", "KO", "Error %", "Average response time", "90th pct", "95th pct", "99th pct", "Throughput", "Received KB/sec", "Sent KB/sec", "Min", "Max"], "overall": {"isController": false, "data": ["Total", 2, 0, 0.0, 754.0, 1500.0, 1500.0, 1500.0, 1.3333333333333333, 130.80794270833334, 2.2369791666666665, 8, 1500]}}, function(index, item){
+    createTable($("#statisticsTable"), {"supportsControllersDiscrimination": true, "items": [{"isController": false, "data": ["676 /escm/login/doAuth?id=loginform", 1, 0, 0.0, 1306.0, 1306.0, 1306.0, 1306.0, 0.7656967840735069, 7.168686590735069, 2.4720640313935682, 1306, 1306]}, {"isController": false, "data": ["675 /escm/login/auth", 1, 0, 0.0, 518.0, 518.0, 518.0, 518.0, 1.9305019305019306, 11.26628861003861, 0.7522170608108107, 518, 518]}, {"isController": true, "data": ["SP_user_login_46_with_cache", 1, 0, 0.0, 2055.0, 2055.0, 2055.0, 2055.0, 0.48661800486618007, 8.56713807785888, 1.8780413625304135, 2055, 2055]}, {"isController": false, "data": ["680 /escm/dashboard/myAccountInfo", 1, 0, 0.0, 749.0, 749.0, 749.0, 749.0, 1.335113484646195, 11.00555949599466, 0.8422688584779706, 749, 749]}, {"isController": true, "data": ["Hit_the_portal_with-cache", 1, 0, 0.0, 518.0, 518.0, 518.0, 518.0, 1.9305019305019306, 11.26628861003861, 0.7522170608108107, 518, 518]}], "titles": ["Label", "#Samples", "KO", "Error %", "Average response time", "90th pct", "95th pct", "99th pct", "Throughput", "Received KB/sec", "Sent KB/sec", "Min", "Max"], "overall": {"isController": false, "data": ["Total", 3, 0, 0.0, 857.6666666666666, 1306.0, 1306.0, 1306.0, 2.297090352220521, 17.949009379785604, 3.2534635815467072, 518, 1306]}}, function(index, item){
         switch(index){
             // Errors pct
             case 3:
@@ -180,7 +180,7 @@ $(document).ready(function() {
     }, [[1, 1]]);
     
         // Create top5 errors by sampler
-    createTable($("#top5ErrorsBySamplerTable"), {"supportsControllersDiscrimination": true, "items": [{"isController": false, "data": []}, {"isController": true, "data": []}, {"isController": false, "data": []}], "titles": ["Sample", "#Samples", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors"], "overall": {"isController": false, "data": ["Total", 2, 0, null, null, null, null, null, null, null, null, null, null]}}, function(index, item){
+    createTable($("#top5ErrorsBySamplerTable"), {"supportsControllersDiscrimination": true, "items": [{"isController": false, "data": []}, {"isController": false, "data": []}, {"isController": true, "data": []}, {"isController": false, "data": []}, {"isController": true, "data": []}], "titles": ["Sample", "#Samples", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors"], "overall": {"isController": false, "data": ["Total", 3, 0, null, null, null, null, null, null, null, null, null, null]}}, function(index, item){
         return item;
     }, [[0, 0]], 0);
     

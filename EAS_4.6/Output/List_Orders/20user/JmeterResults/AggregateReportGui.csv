@@ -1,10 +1,15 @@
 sampler_label,aggregate_report_count,average,aggregate_report_median,aggregate_report_90%_line,aggregate_report_95%_line,aggregate_report_99%_line,aggregate_report_min,aggregate_report_max,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,aggregate_report_stddev
-65 /escm/login/doAuth?id=loginform,20,1914,1863,2645,2680,3093,1038,3093,0.00%,.3,3.0,572.41
-99 /escm/images/favicon.ico,20,23,15,37,50,105,6,105,0.00%,.3,62.2,22.07
-sp_userlogin_46,20,3039,2781,3795,3983,4268,1714,4268,0.00%,.3,198.5,738.61
-1 /escm/order/index,20,2186,1839,2710,3455,5875,1041,5875,0.00%,.3,5.7,1019.49
-12 /escm/order/showOrderDetail,20,4223,3061,8022,8457,8877,1856,8877,0.00%,.3,6.3,2260.89
-22 /escm/messages,20,31,14,44,52,257,8,257,0.00%,.3,.1,53.18
-23 /escm/recentItem,20,24,12,42,43,173,9,173,0.00%,.3,.1,35.88
-List_Orders,20,6792,5659,10831,11354,11840,3729,11840,0.00%,.3,46.2,2491.25
-TOTAL,160,2279,1810,5659,8347,10831,6,11840,0.00%,2.2,289.9,2581.95
+88 /escm/login/auth,20,182,103,319,459,696,40,696,0.00%,.3,1.9,166.80
+93 /escm/images/favicon.ico,20,11,9,16,17,44,5,44,0.00%,.3,62.2,8.32
+New_hit_the_portal_4.6,20,809,760,1194,1294,1822,423,1822,0.00%,.3,247.3,338.50
+158 /escm/login/doAuth?id=loginform,20,3017,1673,5792,6330,6507,981,6507,0.00%,.3,2.8,2066.04
+184 /escm/images/favicon.ico,20,8,4,27,27,28,2,28,0.00%,.3,.0,8.31
+new_SP_user_login_4.6,20,4406,3195,7661,7735,8010,1779,8010,0.00%,.3,175.3,2271.53
+1 /escm/order/index,20,3936,3539,6601,7276,8189,1212,8189,0.00%,.3,6.5,2286.25
+51 /escm/images/favicon.ico,20,9,4,19,24,32,2,32,0.00%,.3,.0,8.49
+56 /escm/images/sidebar-bg.jpg,20,8,5,15,18,37,3,37,0.00%,.3,.6,7.95
+59 /escm/order/showOrderDetail,20,5480,2307,14433,15142,16351,1326,16351,0.00%,.3,6.2,5198.90
+69 /escm/messages,20,13,11,23,23,26,8,26,0.00%,.3,.2,5.05
+70 /escm/recentItem,20,11,9,17,26,30,7,30,0.00%,.3,.1,6.34
+new_List_Orders,20,10834,8813,18655,18875,19570,4574,19570,0.00%,.3,209.6,5209.99
+TOTAL,260,2209,103,7164,9391,16696,2,19570,0.00%,3.7,656.6,3898.78

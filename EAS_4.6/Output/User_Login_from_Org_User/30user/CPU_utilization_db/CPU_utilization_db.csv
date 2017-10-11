@@ -1138,3 +1138,1334 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 12/06/2017 19:25,5253,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
 12/06/2017 19:25,34432,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
 12/06/2017 19:25,48545,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:36,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:37,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:37,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:37,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:37,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:37,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:37,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:37,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:37,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:37,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:37,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:37,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:37,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:37,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:37,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:39,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:40,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:40,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:40,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:54,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 18:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:59,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:59,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:59,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:59,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:59,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:59,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:59,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:59,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:59,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:59,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:59,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:59,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:59,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:59,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 19:59,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:07,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+21/09/2017 20:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:46,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:47,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:48,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:48,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:48,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:48,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:48,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:48,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:48,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:48,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:48,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:48,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:48,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:49,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:55,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:56,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:57,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 11:58,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:18,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:19,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:19,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:19,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:19,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:19,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:19,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:19,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:19,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:19,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:19,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:19,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:20,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 12:21,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:12,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:12,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:12,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:12,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:12,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:12,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:12,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:12,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:12,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:12,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:12,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:12,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:12,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:12,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:12,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:13,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:13,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:13,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:13,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:13,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:13,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:13,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:13,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:13,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:13,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:13,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:13,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:13,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:13,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:13,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:13,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:13,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:13,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:13,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:13,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:13,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:22,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 15:24,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:00,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:00,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:00,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:00,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:00,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:00,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:00,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:00,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:01,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:02,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:02,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:02,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:02,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:02,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:02,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:02,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:02,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:02,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:02,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:02,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:02,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:02,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:02,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:03,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:08,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:09,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:10,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 16:11,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:14,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:15,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:15,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:15,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:15,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:15,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:15,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:15,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:15,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:15,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:15,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:15,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:15,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:15,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:15,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:15,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:15,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:15,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:16,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:17,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:17,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:17,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:17,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:17,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:17,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:17,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:17,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+22/09/2017 20:17,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:31,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:31,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:31,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:31,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:31,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:31,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:31,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:31,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:31,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:32,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:33,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:33,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:33,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:33,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:33,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:33,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:33,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:33,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:33,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:33,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:33,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:33,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:33,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:33,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:33,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:33,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:33,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:33,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:33,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:34,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:34,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:34,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:34,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:34,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:34,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:34,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:34,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:34,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:34,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:34,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:34,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:34,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:34,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:34,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:34,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:34,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 11:34,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,0,0,0
+25/09/2017 13:24,17026,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:24,19138,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:24,31158,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:24,43254,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:24,53530,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:24,63405,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:24,62044,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:24,66595,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:24,56711,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:24,67418,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:24,67383,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:24,65119,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:24,69135,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:24,79735,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:24,70616,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:24,69097,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:24,72136,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:25,70749,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:25,81190,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:25,71878,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:25,74064,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:25,67448,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:25,77494,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:25,79554,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:25,82260,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:25,81920,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:25,78175,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:25,78316,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:25,75252,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:25,69900,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:25,67962,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:25,66783,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:25,49058,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:25,55032,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:25,42121,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:25,29768,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,12116,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,23412,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,39349,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,52321,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,58283,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,66853,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,57958,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,64574,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,61111,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,63937,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,66164,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,65830,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,71323,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,71050,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,73099,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,73225,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,68009,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,73542,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,71666,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,69120,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,71191,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,68799,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,71701,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,70565,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,71958,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,72182,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:26,68883,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:27,73975,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:27,69880,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:27,75918,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:27,68277,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:27,48456,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:27,64343,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:27,50286,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:27,41272,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:27,30858,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,12030,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,23735,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,33329,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,46541,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,59271,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,64274,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,70533,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,63347,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,69722,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,63312,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,67318,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,66266,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,69264,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,65297,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,69785,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,70458,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,72475,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,71301,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,66142,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,76203,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,68343,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,68409,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,72780,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,78797,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,75326,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,76587,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,75360,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,67129,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,51633,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,74993,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,65512,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,70572,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,68858,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,55164,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:55,35786,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:56,12003,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:56,21451,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:56,31975,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:56,44794,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:56,58657,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:56,61915,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:56,68873,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:56,65175,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:56,66084,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:56,69917,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:56,69431,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:56,68901,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,75807,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,67763,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,75099,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,72241,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,72568,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,72335,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,70220,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,75970,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,65568,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,73251,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,58880,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,37943,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,34333,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,30767,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,41315,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,39012,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,41215,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,30098,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,28400,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,35251,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,28734,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,53243,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,39915,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,65952,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,75439,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,76987,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,77485,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,59195,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0
+25/09/2017 13:57,53186,10.10.3.28 CPU,,,,,true,,0,0,0,0,0,0,0

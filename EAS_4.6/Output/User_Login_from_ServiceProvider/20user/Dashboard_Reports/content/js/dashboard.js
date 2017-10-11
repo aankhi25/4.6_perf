@@ -128,7 +128,7 @@ $(document).ready(function() {
     });
 
     // Creates APDEX table
-    createTable($("#apdexTable"), {"supportsControllersDiscrimination": true, "items": [{"isController": false, "data": [1.0, 500, 1500, "99 /escm/images/favicon.ico"]}, {"isController": true, "data": [0.0, 500, 1500, "sp_userlogin_46"]}, {"isController": false, "data": [0.0, 500, 1500, "65 /escm/login/doAuth?id=loginform"]}], "titles": ["Apdex", "T (Toleration threshold)  ", "F (Frustration threshold)", "Label"], "overall": {"isController": false, "data": [0.3333333333333333, 500, 1500, "Total"]}}, function(index, item){
+    createTable($("#apdexTable"), {"supportsControllersDiscrimination": true, "items": [{"isController": false, "data": [0.325, 500, 1500, "676 /escm/login/doAuth?id=loginform"]}, {"isController": false, "data": [0.975, 500, 1500, "675 /escm/login/auth"]}, {"isController": true, "data": [0.0, 500, 1500, "SP_user_login_46_with_cache"]}, {"isController": false, "data": [0.5, 500, 1500, "680 /escm/dashboard/myAccountInfo"]}, {"isController": true, "data": [0.975, 500, 1500, "Hit_the_portal_with-cache"]}], "titles": ["Apdex", "T (Toleration threshold)  ", "F (Frustration threshold)", "Label"], "overall": {"isController": false, "data": [0.555, 500, 1500, "Total"]}}, function(index, item){
         switch(index){
             case 0:
                 item = item.toFixed(3);
@@ -142,7 +142,7 @@ $(document).ready(function() {
     }, [[0, 0]], 3);
 
     // Create statistics table
-    createTable($("#statisticsTable"), {"supportsControllersDiscrimination": true, "items": [{"isController": false, "data": ["99 /escm/images/favicon.ico", 20, 0, 0.0, 9.15, 17.800000000000004, 18.95, 19.0, 1052.6315789473683, 196709.49835526317, 574.6299342105264, 5, 19]}, {"isController": true, "data": ["sp_userlogin_46", 20, 0, 0.0, 4162.3, 6775.000000000004, 7452.599999999999, 7480.0, 2.6737967914438503, 1705.9545506768047, 70.91044869652406, 2444, 7480]}, {"isController": false, "data": ["65 /escm/login/doAuth?id=loginform", 20, 0, 0.0, 3474.2000000000007, 6052.800000000003, 6740.15, 6768.0, 2.955082742316785, 27.91355574948286, 8.415059840425533, 1810, 6768]}], "titles": ["Label", "#Samples", "KO", "Error %", "Average response time", "90th pct", "95th pct", "99th pct", "Throughput", "Received KB/sec", "Sent KB/sec", "Min", "Max"], "overall": {"isController": false, "data": ["Total", 40, 0, 0.0, 1741.675, 4511.1, 6131.899999999993, 6768.0, 5.91016548463357, 580.1417573969416, 10.02823489213948, 5, 6768]}}, function(index, item){
+    createTable($("#statisticsTable"), {"supportsControllersDiscrimination": true, "items": [{"isController": false, "data": ["676 /escm/login/doAuth?id=loginform", 20, 0, 0.0, 1481.95, 1640.5, 1781.6999999999998, 1789.0, 0.32506582582973054, 3.043904964974157, 1.0656698997171927, 1323, 1789]}, {"isController": false, "data": ["675 /escm/login/auth", 20, 0, 0.0, 146.8, 323.5000000000001, 648.1999999999998, 665.0, 0.3315155232143745, 1.9347038737588886, 0.129174505627476, 65, 665]}, {"isController": true, "data": ["SP_user_login_46_with_cache", 20, 0, 0.0, 2556.55, 2894.1, 3031.0499999999997, 3038.0, 0.31874541803461576, 5.612643012104357, 1.246033113664616, 2304, 3038]}, {"isController": false, "data": ["680 /escm/dashboard/myAccountInfo", 20, 0, 0.0, 1074.6, 1256.3, 1279.8, 1281.0, 0.3264932987250437, 2.69180014630981, 0.20597135837536934, 921, 1281]}, {"isController": true, "data": ["Hit_the_portal_with-cache", 20, 0, 0.0, 146.8, 323.5000000000001, 648.1999999999998, 665.0, 0.3315155232143745, 1.9347038737588886, 0.129174505627476, 65, 665]}], "titles": ["Label", "#Samples", "KO", "Error %", "Average response time", "90th pct", "95th pct", "99th pct", "Throughput", "Received KB/sec", "Sent KB/sec", "Min", "Max"], "overall": {"isController": false, "data": ["Total", 60, 0, 0.0, 901.1166666666667, 1504.8, 1617.1, 1789.0, 0.9751974774891915, 7.621000039617397, 1.397402114553197, 65, 1789]}}, function(index, item){
         switch(index){
             // Errors pct
             case 3:
@@ -180,7 +180,7 @@ $(document).ready(function() {
     }, [[1, 1]]);
     
         // Create top5 errors by sampler
-    createTable($("#top5ErrorsBySamplerTable"), {"supportsControllersDiscrimination": true, "items": [{"isController": false, "data": []}, {"isController": true, "data": []}, {"isController": false, "data": []}], "titles": ["Sample", "#Samples", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors"], "overall": {"isController": false, "data": ["Total", 40, 0, null, null, null, null, null, null, null, null, null, null]}}, function(index, item){
+    createTable($("#top5ErrorsBySamplerTable"), {"supportsControllersDiscrimination": true, "items": [{"isController": false, "data": []}, {"isController": false, "data": []}, {"isController": true, "data": []}, {"isController": false, "data": []}, {"isController": true, "data": []}], "titles": ["Sample", "#Samples", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors"], "overall": {"isController": false, "data": ["Total", 60, 0, null, null, null, null, null, null, null, null, null, null]}}, function(index, item){
         return item;
     }, [[0, 0]], 0);
     

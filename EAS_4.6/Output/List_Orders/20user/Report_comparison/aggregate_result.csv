@@ -1,10 +1,1 @@
 sampler_label, benchmark_result, currentfile_result, status
-65 /escm/login/doAuth?id=loginform,1774,1914,FAIL
-99 /escm/images/favicon.ico,10,23,FAIL
-sp_userlogin_46,2631,3039,FAIL
-1 /escm/order/index,1307,2186,FAIL
-12 /escm/order/showOrderDetail,1971,4223,FAIL
-22 /escm/messages,18,31,FAIL
-23 /escm/recentItem,23,24,FAIL
-List_Orders,3556,6792,FAIL
-TOTAL,1411,2279,FAIL

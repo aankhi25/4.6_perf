@@ -1,5 +1,9 @@
 sampler_label,aggregate_report_count,average,aggregate_report_median,aggregate_report_90%_line,aggregate_report_95%_line,aggregate_report_99%_line,aggregate_report_min,aggregate_report_max,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,aggregate_report_stddev
-65 /escm/login/doAuth?id=loginform,10,1767,1367,2873,2873,3236,1116,3236,0.00%,3.1,29.2,710.56
-99 /escm/images/favicon.ico,10,9,9,12,12,20,5,20,0.00%,500.0,93437.0,3.94
-sp_userlogin_46,10,2375,1915,3556,3556,3924,1665,3924,0.00%,2.5,1625.9,751.76
-TOTAL,30,1384,1367,2873,3236,3924,5,3924,0.00%,7.6,2126.2,1167.41
+524 /escm/login/auth,10,428,275,677,677,1235,155,1235,0.00%,8.1,47.3,322.38
+Hit_the_portal_new,10,1453,1247,2107,2107,2297,853,2297,0.00%,4.4,2516.2,494.90
+541 /escm/login/doAuth?id=loginform,10,10141,10544,14220,14220,14302,4688,14302,0.00%,.7,6.5,3208.09
+543 /escm/,10,3249,3229,3659,3659,3903,2451,3903,0.00%,2.6,22.0,430.53
+545 /escm/dashboard/index,10,2533,2530,2734,2734,3066,2126,3066,0.00%,3.3,27.4,241.19
+546 /escm/dashboard/myAccountInfo,10,2589,2500,2960,2960,3275,2049,3275,0.00%,3.1,25.2,366.70
+SP_user_login_46_new,10,20677,20679,24850,24850,24970,15349,24970,0.00%,.4,134.8,3247.67
+TOTAL,70,5867,2617,18240,21389,24850,155,24970,0.00%,2.8,382.5,6937.85

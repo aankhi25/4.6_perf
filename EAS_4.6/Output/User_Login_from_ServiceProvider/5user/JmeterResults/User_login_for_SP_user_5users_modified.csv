@@ -1,16 +1,36 @@
 timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency
-28/07/2017 19:28,1404,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,9561,2927,2,2,605
-28/07/2017 19:28,1985,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-2,text,true,,9562,2877,3,3,234
-28/07/2017 19:28,8,99 /escm/images/favicon.ico,200,OK,Thread Group 1-1,bin,true,,191359,559,4,4,6
-28/07/2017 19:28,9,99 /escm/images/favicon.ico,200,OK,Thread Group 1-2,bin,true,,191359,559,4,4,8
-28/07/2017 19:28,3248,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-1,,true,,653228,27168,4,4,1088
-28/07/2017 19:28,2584,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-2,,true,,653229,27118,3,3,594
-28/07/2017 19:28,1723,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-3,text,true,,9564,2907,2,2,1108
-28/07/2017 19:28,927,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-4,text,true,,9560,2907,2,2,288
-28/07/2017 19:29,19,99 /escm/images/favicon.ico,200,OK,Thread Group 1-3,bin,true,,191359,559,3,3,6
-28/07/2017 19:29,5,99 /escm/images/favicon.ico,200,OK,Thread Group 1-4,bin,true,,191359,559,3,3,3
-28/07/2017 19:28,2274,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-3,,true,,653231,27148,3,3,1395
-28/07/2017 19:28,1471,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-4,,true,,653227,27148,2,2,580
-28/07/2017 19:29,802,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-5,text,true,,9561,2887,1,1,232
-28/07/2017 19:29,7,99 /escm/images/favicon.ico,200,OK,Thread Group 1-5,bin,true,,191359,559,1,1,4
-28/07/2017 19:29,1320,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-5,,true,,653228,27128,1,1,492
+10/10/2017 19:44,648,524 /escm/login/auth,200,OK,Thread Group 1-1,text,true,,5976,399,1,1,645
+10/10/2017 19:44,197,524 /escm/login/auth,200,OK,Thread Group 1-2,text,true,,5976,399,2,2,191
+10/10/2017 19:44,1601,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-1,,true,,591832,6620,2,2,1130
+10/10/2017 19:44,862,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-2,,true,,591832,6620,2,2,410
+10/10/2017 19:44,212,524 /escm/login/auth,200,OK,Thread Group 1-3,text,true,,5976,399,3,3,206
+10/10/2017 19:44,964,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-3,,true,,591832,6620,4,4,527
+10/10/2017 19:44,275,524 /escm/login/auth,200,OK,Thread Group 1-4,text,true,,5976,399,4,4,238
+10/10/2017 19:44,335,524 /escm/login/auth,200,OK,Thread Group 1-5,text,true,,5976,399,5,5,322
+10/10/2017 19:44,1835,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-4,,true,,591832,6620,5,5,811
+10/10/2017 19:44,1302,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-5,,true,,591832,6620,5,5,806
+10/10/2017 19:44,10060,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-2,text,true,,9588,3306,5,5,2571
+10/10/2017 19:44,6607,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-5,text,true,,9588,3378,5,5,743
+10/10/2017 19:44,10168,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,9588,3390,5,5,2709
+10/10/2017 19:44,7084,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-4,text,true,,9588,3354,5,5,785
+10/10/2017 19:44,8851,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-3,text,true,,9588,3342,5,5,1362
+10/10/2017 19:44,2064,543 /escm/,200,OK,Thread Group 1-3,text,true,,8773,1907,5,5,56
+10/10/2017 19:44,2390,543 /escm/,200,OK,Thread Group 1-5,text,true,,8773,1907,5,5,93
+10/10/2017 19:44,2436,543 /escm/,200,OK,Thread Group 1-4,text,true,,8773,1907,5,5,98
+10/10/2017 19:44,2457,543 /escm/,200,OK,Thread Group 1-1,text,true,,8773,1907,5,5,92
+10/10/2017 19:44,2642,543 /escm/,200,OK,Thread Group 1-2,text,true,,8773,1907,5,5,110
+10/10/2017 19:44,1486,545 /escm/dashboard/index,200,OK,Thread Group 1-3,text,true,,8613,1284,5,5,18
+10/10/2017 19:44,1547,545 /escm/dashboard/index,200,OK,Thread Group 1-5,text,true,,8613,1284,5,5,16
+10/10/2017 19:44,1488,545 /escm/dashboard/index,200,OK,Thread Group 1-1,text,true,,8613,1284,5,5,28
+10/10/2017 19:44,1561,545 /escm/dashboard/index,200,OK,Thread Group 1-4,text,true,,8613,1284,5,5,28
+10/10/2017 19:44,1627,545 /escm/dashboard/index,200,OK,Thread Group 1-2,text,true,,8613,1284,5,5,21
+10/10/2017 19:44,1484,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-3,text,true,,8445,646,5,5,1472
+10/10/2017 19:44,1485,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-1,text,true,,8445,646,5,5,1477
+10/10/2017 19:44,1620,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-5,text,true,,8445,646,5,5,1612
+10/10/2017 19:44,1718,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-4,text,true,,8445,646,5,5,1708
+10/10/2017 19:44,1553,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-2,text,true,,8445,646,5,5,1546
+10/10/2017 19:44,13521,SP_user_login_46_new,200,"Number of samples in transaction : 54, number of failing samples : 0",Thread Group 1-5,,true,,344755,36138,5,5,3525
+10/10/2017 19:44,15735,SP_user_login_46_new,200,"Number of samples in transaction : 54, number of failing samples : 0",Thread Group 1-3,,true,,344755,36102,4,4,4524
+10/10/2017 19:44,17074,SP_user_login_46_new,200,"Number of samples in transaction : 54, number of failing samples : 0",Thread Group 1-1,,true,,344755,36150,4,4,5535
+10/10/2017 19:44,13980,SP_user_login_46_new,200,"Number of samples in transaction : 54, number of failing samples : 0",Thread Group 1-4,,true,,344755,36114,3,3,3544
+10/10/2017 19:44,16982,SP_user_login_46_new,200,"Number of samples in transaction : 54, number of failing samples : 0",Thread Group 1-2,,true,,344755,36066,3,3,5150

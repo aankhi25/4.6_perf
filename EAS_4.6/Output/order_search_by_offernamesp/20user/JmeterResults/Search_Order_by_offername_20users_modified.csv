@@ -1,481 +1,441 @@
 timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,grpThreads,allThreads,URL,Filename,Latency,Hostname
-31/07/2017 18:16,724,33 /escm/login/auth,200,OK,Thread Group 1-1,text,true,,5226,1,1,http://10.10.3.16:8080/escm/login/auth,,721,ESCM-APP
-31/07/2017 18:16,9,43 /escm/images/favicon.ico,200,OK,Thread Group 1-1,bin,true,,191359,1,1,http://10.10.3.16:8080/escm/images/favicon.ico,,7,ESCM-APP
-31/07/2017 18:16,1005,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-1,,false,,692050,1,1,null,,878,ESCM-APP
-31/07/2017 18:16,80,33 /escm/login/auth,200,OK,Thread Group 1-2,text,true,,5226,2,2,http://10.10.3.16:8080/escm/login/auth,,78,ESCM-APP
-31/07/2017 18:16,7,43 /escm/images/favicon.ico,200,OK,Thread Group 1-2,bin,true,,191359,2,2,http://10.10.3.16:8080/escm/images/favicon.ico,,4,ESCM-APP
-31/07/2017 18:16,363,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-2,,false,,692050,2,2,null,,212,ESCM-APP
-31/07/2017 18:16,42,33 /escm/login/auth,200,OK,Thread Group 1-3,text,true,,5226,3,3,http://10.10.3.16:8080/escm/login/auth,,41,ESCM-APP
-31/07/2017 18:16,7,43 /escm/images/favicon.ico,200,OK,Thread Group 1-3,bin,true,,191359,3,3,http://10.10.3.16:8080/escm/images/favicon.ico,,5,ESCM-APP
-31/07/2017 18:16,327,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-3,,false,,692050,3,3,null,,192,ESCM-APP
-31/07/2017 18:16,43,33 /escm/login/auth,200,OK,Thread Group 1-4,text,true,,5226,4,4,http://10.10.3.16:8080/escm/login/auth,,42,ESCM-APP
-31/07/2017 18:16,10,43 /escm/images/favicon.ico,200,OK,Thread Group 1-4,bin,true,,191359,4,4,http://10.10.3.16:8080/escm/images/favicon.ico,,4,ESCM-APP
-31/07/2017 18:16,337,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-4,,false,,692050,4,4,null,,199,ESCM-APP
-31/07/2017 18:16,2113,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-2,text,true,,9478,4,4,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,763,ESCM-APP
-31/07/2017 18:16,2565,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,9478,4,4,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,307,ESCM-APP
-31/07/2017 18:16,4,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,125,4,4,http://10.10.3.16:8080/escm/images/favicon.ico,,0,ESCM-APP
-31/07/2017 18:16,4,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-2,,true,,125,4,4,http://10.10.3.16:8080/escm/images/favicon.ico,,0,ESCM-APP
-31/07/2017 18:16,44,33 /escm/login/auth,200,OK,Thread Group 1-5,text,true,,5226,5,5,http://10.10.3.16:8080/escm/login/auth,,42,ESCM-APP
-31/07/2017 18:16,6,43 /escm/images/favicon.ico,200,OK,Thread Group 1-5,bin,true,,191359,5,5,http://10.10.3.16:8080/escm/images/favicon.ico,,4,ESCM-APP
-31/07/2017 18:16,1836,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-3,text,true,,9477,5,5,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,666,ESCM-APP
-31/07/2017 18:16,3137,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-1,,true,,459948,5,5,null,,641,ESCM-APP
-31/07/2017 18:16,2721,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-2,,true,,459948,5,5,null,,1105,ESCM-APP
-31/07/2017 18:16,331,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-5,,false,,692050,5,5,null,,181,ESCM-APP
-31/07/2017 18:16,5,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-3,,true,,125,5,5,http://10.10.3.16:8080/escm/images/favicon.ico,,0,ESCM-APP
-31/07/2017 18:16,1484,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-4,text,true,,9478,5,5,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,434,ESCM-APP
-31/07/2017 18:16,2505,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-3,,true,,459947,5,5,null,,968,ESCM-APP
-31/07/2017 18:16,35,33 /escm/login/auth,200,OK,Thread Group 1-6,text,true,,5226,6,6,http://10.10.3.16:8080/escm/login/auth,,33,ESCM-APP
-31/07/2017 18:16,9,43 /escm/images/favicon.ico,200,OK,Thread Group 1-6,bin,true,,191359,6,6,http://10.10.3.16:8080/escm/images/favicon.ico,,5,ESCM-APP
-31/07/2017 18:16,3,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-4,,true,,125,6,6,http://10.10.3.16:8080/escm/images/favicon.ico,,0,ESCM-APP
-31/07/2017 18:16,323,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-6,,false,,692050,6,6,null,,176,ESCM-APP
-31/07/2017 18:16,2016,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-4,,true,,459948,6,6,null,,726,ESCM-APP
-31/07/2017 18:16,1661,1 /escm/order/index,200,OK,Thread Group 1-2,text,true,,19242,6,6,http://10.10.3.16:8080/escm/order/list,,8,ESCM-APP
-31/07/2017 18:16,1685,1 /escm/order/index,200,OK,Thread Group 1-1,text,true,,19246,6,6,http://10.10.3.16:8080/escm/order/list,,12,ESCM-APP
-31/07/2017 18:16,1016,1 /escm/order/index,200,OK,Thread Group 1-3,text,true,,19246,6,6,http://10.10.3.16:8080/escm/order/list,,7,ESCM-APP
-31/07/2017 18:16,215,33 /escm/login/auth,200,OK,Thread Group 1-7,text,true,,5226,7,7,http://10.10.3.16:8080/escm/login/auth,,213,ESCM-APP
-31/07/2017 18:16,182,12 /escm/order/showOrderDetail,404,Not Found,Thread Group 1-3,text,false,,1277,7,7,http://10.10.3.16:8080/escm/order/showOrderDetail,,182,ESCM-APP
-31/07/2017 18:16,252,12 /escm/order/showOrderDetail,404,Not Found,Thread Group 1-2,text,false,,1277,7,7,http://10.10.3.16:8080/escm/order/showOrderDetail,,252,ESCM-APP
-31/07/2017 18:16,252,12 /escm/order/showOrderDetail,404,Not Found,Thread Group 1-1,text,false,,1277,7,7,http://10.10.3.16:8080/escm/order/showOrderDetail,,252,ESCM-APP
-31/07/2017 18:16,17,22 /escm/messages,200,OK,Thread Group 1-3,text,true,,461,7,7,http://10.10.3.16:8080/escm/messages,,17,ESCM-APP
-31/07/2017 18:16,11,23 /escm/recentItem,200,OK,Thread Group 1-3,text,true,,341,7,7,http://10.10.3.16:8080/escm/recentItem,,10,ESCM-APP
-31/07/2017 18:16,9,22 /escm/messages,200,OK,Thread Group 1-2,text,true,,461,7,7,http://10.10.3.16:8080/escm/messages,,9,ESCM-APP
-31/07/2017 18:16,29,22 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,7,7,http://10.10.3.16:8080/escm/messages,,18,ESCM-APP
-31/07/2017 18:16,26,23 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,7,7,http://10.10.3.16:8080/escm/recentItem,,26,ESCM-APP
-31/07/2017 18:16,32,23 /escm/recentItem,200,OK,Thread Group 1-2,text,true,,341,7,7,http://10.10.3.16:8080/escm/recentItem,,31,ESCM-APP
-31/07/2017 18:16,6,43 /escm/images/favicon.ico,200,OK,Thread Group 1-7,bin,true,,191359,7,7,http://10.10.3.16:8080/escm/images/favicon.ico,,5,ESCM-APP
-31/07/2017 18:16,1418,List_Orders,,"Number of samples in transaction : 29, number of failing samples : 1",Thread Group 1-3,,false,,149257,7,7,null,,403,ESCM-APP
-31/07/2017 18:16,2146,List_Orders,,"Number of samples in transaction : 29, number of failing samples : 1",Thread Group 1-2,,false,,149253,7,7,null,,490,ESCM-APP
-31/07/2017 18:16,2147,List_Orders,,"Number of samples in transaction : 29, number of failing samples : 1",Thread Group 1-1,,false,,149257,7,7,null,,461,ESCM-APP
-31/07/2017 18:16,564,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-7,,false,,692050,7,7,null,,423,ESCM-APP
-31/07/2017 18:16,2528,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-5,text,true,,9474,7,7,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,236,ESCM-APP
-31/07/2017 18:16,1542,1 /escm/order/index,200,OK,Thread Group 1-4,text,true,,19246,7,7,http://10.10.3.16:8080/escm/order/list,,9,ESCM-APP
-31/07/2017 18:16,1741,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-6,text,true,,9475,7,7,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,267,ESCM-APP
-31/07/2017 18:16,27,12 /escm/order/showOrderDetail,404,Not Found,Thread Group 1-4,text,false,,1277,7,7,http://10.10.3.16:8080/escm/order/showOrderDetail,,27,ESCM-APP
-31/07/2017 18:16,673,104 /escm/order/searchOrder,200,OK,Thread Group 1-3,text,true,,4454,7,7,http://10.10.3.16:8080/escm/order/searchOrder,,672,ESCM-APP
-31/07/2017 18:16,7,22 /escm/messages,200,OK,Thread Group 1-4,text,true,,461,7,7,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:16,7,23 /escm/recentItem,200,OK,Thread Group 1-4,text,true,,341,7,7,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
-31/07/2017 18:16,1670,List_Orders,,"Number of samples in transaction : 29, number of failing samples : 1",Thread Group 1-4,,false,,149257,8,8,null,,134,ESCM-APP
-31/07/2017 18:16,54,33 /escm/login/auth,200,OK,Thread Group 1-8,text,true,,5226,8,8,http://10.10.3.16:8080/escm/login/auth,,51,ESCM-APP
-31/07/2017 18:16,5,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-5,,true,,125,8,8,http://10.10.3.16:8080/escm/images/favicon.ico,,0,ESCM-APP
-31/07/2017 18:16,7,43 /escm/images/favicon.ico,200,OK,Thread Group 1-8,bin,true,,191359,8,8,http://10.10.3.16:8080/escm/images/favicon.ico,,6,ESCM-APP
-31/07/2017 18:16,3,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-6,,true,,125,8,8,http://10.10.3.16:8080/escm/images/favicon.ico,,0,ESCM-APP
-31/07/2017 18:16,317,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-8,,false,,692050,8,8,null,,177,ESCM-APP
-31/07/2017 18:16,3089,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-5,,true,,459944,8,8,null,,538,ESCM-APP
-31/07/2017 18:16,2276,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-6,,true,,459945,8,8,null,,534,ESCM-APP
-31/07/2017 18:16,1106,105 /escm/order/searchOrder,200,OK,Thread Group 1-3,text,true,,4454,8,8,http://10.10.3.16:8080/escm/order/searchOrder,,1106,ESCM-APP
-31/07/2017 18:16,1784,104 /escm/order/searchOrder,200,OK,Thread Group 1-1,text,true,,4454,8,8,http://10.10.3.16:8080/escm/order/searchOrder,,1783,ESCM-APP
-31/07/2017 18:16,1065,104 /escm/order/searchOrder,200,OK,Thread Group 1-4,text,true,,4454,8,8,http://10.10.3.16:8080/escm/order/searchOrder,,1065,ESCM-APP
-31/07/2017 18:16,10,107 /escm/messages,200,OK,Thread Group 1-3,text,true,,461,9,9,http://10.10.3.16:8080/escm/messages,,10,ESCM-APP
-31/07/2017 18:16,8,109 /escm/messages,200,OK,Thread Group 1-3,text,true,,461,9,9,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:16,21,110 /escm/recentItem,200,OK,Thread Group 1-3,text,true,,341,9,9,http://10.10.3.16:8080/escm/recentItem,,20,ESCM-APP
-31/07/2017 18:16,7,111 /escm/recentItem,200,OK,Thread Group 1-3,text,true,,341,9,9,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
-31/07/2017 18:16,44,33 /escm/login/auth,200,OK,Thread Group 1-9,text,true,,5226,9,9,http://10.10.3.16:8080/escm/login/auth,,42,ESCM-APP
-31/07/2017 18:16,9,43 /escm/images/favicon.ico,200,OK,Thread Group 1-9,bin,true,,191359,9,9,http://10.10.3.16:8080/escm/images/favicon.ico,,4,ESCM-APP
-31/07/2017 18:16,177,105 /escm/order/searchOrder,200,OK,Thread Group 1-4,text,true,,4454,9,9,http://10.10.3.16:8080/escm/order/searchOrder,,176,ESCM-APP
-31/07/2017 18:16,1969,104 /escm/order/searchOrder,200,OK,Thread Group 1-2,text,true,,4454,9,9,http://10.10.3.16:8080/escm/order/searchOrder,,1964,ESCM-APP
-31/07/2017 18:16,181,105 /escm/order/searchOrder,200,OK,Thread Group 1-1,text,true,,4454,9,9,http://10.10.3.16:8080/escm/order/searchOrder,,180,ESCM-APP
-31/07/2017 18:16,8,107 /escm/messages,200,OK,Thread Group 1-4,text,true,,461,9,9,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:16,9,107 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,9,9,http://10.10.3.16:8080/escm/messages,,8,ESCM-APP
-31/07/2017 18:16,9,109 /escm/messages,200,OK,Thread Group 1-4,text,true,,461,9,9,http://10.10.3.16:8080/escm/messages,,8,ESCM-APP
-31/07/2017 18:16,9,109 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,9,9,http://10.10.3.16:8080/escm/messages,,8,ESCM-APP
-31/07/2017 18:16,7,110 /escm/recentItem,200,OK,Thread Group 1-4,text,true,,341,9,9,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
-31/07/2017 18:16,8,110 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,9,9,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
-31/07/2017 18:16,7,111 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,9,9,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
-31/07/2017 18:16,17,111 /escm/recentItem,200,OK,Thread Group 1-4,text,true,,341,9,9,http://10.10.3.16:8080/escm/recentItem,,17,ESCM-APP
-31/07/2017 18:16,318,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-9,,false,,692050,9,9,null,,188,ESCM-APP
-31/07/2017 18:16,47,33 /escm/login/auth,200,OK,Thread Group 1-10,text,true,,5226,10,10,http://10.10.3.16:8080/escm/login/auth,,43,ESCM-APP
-31/07/2017 18:16,7,43 /escm/images/favicon.ico,200,OK,Thread Group 1-10,bin,true,,191359,10,10,http://10.10.3.16:8080/escm/images/favicon.ico,,6,ESCM-APP
-31/07/2017 18:16,1409,105 /escm/order/searchOrder,200,OK,Thread Group 1-2,text,true,,4454,10,10,http://10.10.3.16:8080/escm/order/searchOrder,,1407,ESCM-APP
-31/07/2017 18:16,462,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-10,,false,,692050,10,10,null,,275,ESCM-APP
-31/07/2017 18:16,14,107 /escm/messages,200,OK,Thread Group 1-2,text,true,,461,10,10,http://10.10.3.16:8080/escm/messages,,14,ESCM-APP
-31/07/2017 18:16,10,109 /escm/messages,200,OK,Thread Group 1-2,text,true,,461,10,10,http://10.10.3.16:8080/escm/messages,,9,ESCM-APP
-31/07/2017 18:16,1425,106 /escm/order/showOrderDetail,200,OK,Thread Group 1-4,text,true,,21926,10,10,http://10.10.3.16:8080/escm/order/showOrderDetail,,1413,ESCM-APP
-31/07/2017 18:16,1450,106 /escm/order/showOrderDetail,200,OK,Thread Group 1-1,text,true,,21926,10,10,http://10.10.3.16:8080/escm/order/showOrderDetail,,1442,ESCM-APP
-31/07/2017 18:16,67,110 /escm/recentItem,200,OK,Thread Group 1-2,text,true,,341,10,10,http://10.10.3.16:8080/escm/recentItem,,67,ESCM-APP
-31/07/2017 18:16,9,111 /escm/recentItem,200,OK,Thread Group 1-2,text,true,,341,10,10,http://10.10.3.16:8080/escm/recentItem,,9,ESCM-APP
-31/07/2017 18:16,1676,106 /escm/order/showOrderDetail,200,OK,Thread Group 1-3,text,true,,21923,10,10,http://10.10.3.16:8080/escm/order/showOrderDetail,,1666,ESCM-APP
-31/07/2017 18:16,2421,1 /escm/order/index,200,OK,Thread Group 1-5,text,true,,19240,10,10,http://10.10.3.16:8080/escm/order/list,,10,ESCM-APP
-31/07/2017 18:16,68,12 /escm/order/showOrderDetail,404,Not Found,Thread Group 1-5,text,false,,1277,11,11,http://10.10.3.16:8080/escm/order/showOrderDetail,,68,ESCM-APP
-31/07/2017 18:16,67,33 /escm/login/auth,200,OK,Thread Group 1-11,text,true,,5226,11,11,http://10.10.3.16:8080/escm/login/auth,,67,ESCM-APP
-31/07/2017 18:16,11,22 /escm/messages,200,OK,Thread Group 1-5,text,true,,461,11,11,http://10.10.3.16:8080/escm/messages,,9,ESCM-APP
-31/07/2017 18:16,56,23 /escm/recentItem,200,OK,Thread Group 1-5,text,true,,341,11,11,http://10.10.3.16:8080/escm/recentItem,,55,ESCM-APP
-31/07/2017 18:16,5,43 /escm/images/favicon.ico,200,OK,Thread Group 1-11,bin,true,,191359,11,11,http://10.10.3.16:8080/escm/images/favicon.ico,,3,ESCM-APP
-31/07/2017 18:16,2879,List_Orders,,"Number of samples in transaction : 29, number of failing samples : 1",Thread Group 1-5,,false,,149251,11,11,null,,464,ESCM-APP
-31/07/2017 18:16,5016,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-7,text,true,,8258,12,12,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,292,ESCM-APP
-31/07/2017 18:16,3964,1 /escm/order/index,200,OK,Thread Group 1-6,text,true,,19241,12,12,http://10.10.3.16:8080/escm/order/list,,7,ESCM-APP
-31/07/2017 18:16,337,33 /escm/login/auth,200,OK,Thread Group 1-12,text,true,,5226,12,12,http://10.10.3.16:8080/escm/login/auth,,331,ESCM-APP
-31/07/2017 18:16,1472,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-11,,false,,692050,12,12,null,,561,ESCM-APP
-31/07/2017 18:16,3232,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-9,text,true,,9468,12,12,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,614,ESCM-APP
-31/07/2017 18:16,57,43 /escm/images/favicon.ico,200,OK,Thread Group 1-12,bin,true,,191359,12,12,http://10.10.3.16:8080/escm/images/favicon.ico,,37,ESCM-APP
-31/07/2017 18:16,103,12 /escm/order/showOrderDetail,404,Not Found,Thread Group 1-6,text,false,,1277,12,12,http://10.10.3.16:8080/escm/order/showOrderDetail,,103,ESCM-APP
-31/07/2017 18:16,4610,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-8,text,true,,9467,12,12,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,850,ESCM-APP
-31/07/2017 18:16,2308,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-10,text,true,,9468,12,12,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,340,ESCM-APP
-31/07/2017 18:16,1723,104 /escm/order/searchOrder,200,OK,Thread Group 1-5,text,true,,4454,13,13,http://10.10.3.16:8080/escm/order/searchOrder,,1722,ESCM-APP
-31/07/2017 18:16,22,22 /escm/messages,200,OK,Thread Group 1-6,text,true,,461,13,13,http://10.10.3.16:8080/escm/messages,,21,ESCM-APP
-31/07/2017 18:16,2317,108 /escm/order/showOrderDetail,200,OK,Thread Group 1-3,text,true,,21926,13,13,http://10.10.3.16:8080/escm/order/showOrderDetail,,2314,ESCM-APP
-31/07/2017 18:16,17,23 /escm/recentItem,200,OK,Thread Group 1-6,text,true,,341,13,13,http://10.10.3.16:8080/escm/recentItem,,16,ESCM-APP
-31/07/2017 18:16,22,113 /escm/messages,200,OK,Thread Group 1-3,text,true,,461,13,13,http://10.10.3.16:8080/escm/messages,,22,ESCM-APP
-31/07/2017 18:16,13,114 /escm/messages,200,OK,Thread Group 1-3,text,true,,461,13,13,http://10.10.3.16:8080/escm/messages,,13,ESCM-APP
-31/07/2017 18:16,128,33 /escm/login/auth,200,OK,Thread Group 1-13,text,true,,5226,13,13,http://10.10.3.16:8080/escm/login/auth,,127,ESCM-APP
-31/07/2017 18:16,23,115 /escm/recentItem,200,OK,Thread Group 1-3,text,true,,341,13,13,http://10.10.3.16:8080/escm/recentItem,,22,ESCM-APP
-31/07/2017 18:16,12,116 /escm/recentItem,200,OK,Thread Group 1-3,text,true,,341,13,13,http://10.10.3.16:8080/escm/recentItem,,11,ESCM-APP
-31/07/2017 18:16,5910,order_search_by_offername,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-3,,true,,70277,13,13,null,,5886,ESCM-APP
-31/07/2017 18:16,152,105 /escm/order/searchOrder,200,OK,Thread Group 1-5,text,true,,4454,12,12,http://10.10.3.16:8080/escm/order/searchOrder,,151,ESCM-APP
-31/07/2017 18:16,4653,List_Orders,,"Number of samples in transaction : 29, number of failing samples : 1",Thread Group 1-6,,false,,149252,12,12,null,,692,ESCM-APP
-31/07/2017 18:16,10,107 /escm/messages,200,OK,Thread Group 1-5,text,true,,461,12,12,http://10.10.3.16:8080/escm/messages,,10,ESCM-APP
-31/07/2017 18:16,13,109 /escm/messages,200,OK,Thread Group 1-5,text,true,,461,12,12,http://10.10.3.16:8080/escm/messages,,13,ESCM-APP
-31/07/2017 18:16,30,110 /escm/recentItem,200,OK,Thread Group 1-5,text,true,,341,12,12,http://10.10.3.16:8080/escm/recentItem,,29,ESCM-APP
-31/07/2017 18:16,19,111 /escm/recentItem,200,OK,Thread Group 1-5,text,true,,341,12,12,http://10.10.3.16:8080/escm/recentItem,,19,ESCM-APP
-31/07/2017 18:16,1140,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-12,,false,,692050,12,12,null,,821,ESCM-APP
-31/07/2017 18:16,13,43 /escm/images/favicon.ico,200,OK,Thread Group 1-13,bin,true,,191359,12,12,http://10.10.3.16:8080/escm/images/favicon.ico,,6,ESCM-APP
-31/07/2017 18:16,233,104 /escm/order/searchOrder,200,OK,Thread Group 1-6,text,true,,4454,12,12,http://10.10.3.16:8080/escm/order/searchOrder,,231,ESCM-APP
-31/07/2017 18:16,28,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-9,,true,,125,12,12,http://10.10.3.16:8080/escm/images/favicon.ico,,0,ESCM-APP
-31/07/2017 18:16,18,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-7,,true,,125,12,12,http://10.10.3.16:8080/escm/images/favicon.ico,,0,ESCM-APP
-31/07/2017 18:16,2890,106 /escm/order/showOrderDetail,200,OK,Thread Group 1-2,text,true,,21925,12,12,http://10.10.3.16:8080/escm/order/showOrderDetail,,2883,ESCM-APP
-31/07/2017 18:16,591,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-13,,false,,692050,12,12,null,,406,ESCM-APP
-31/07/2017 18:16,219,105 /escm/order/searchOrder,200,OK,Thread Group 1-6,text,true,,4454,12,12,http://10.10.3.16:8080/escm/order/searchOrder,,218,ESCM-APP
-31/07/2017 18:16,96,107 /escm/messages,200,OK,Thread Group 1-6,text,true,,461,12,12,http://10.10.3.16:8080/escm/messages,,96,ESCM-APP
-31/07/2017 18:16,3,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-10,,true,,125,12,12,http://10.10.3.16:8080/escm/images/favicon.ico,,0,ESCM-APP
-31/07/2017 18:16,9,109 /escm/messages,200,OK,Thread Group 1-6,text,true,,461,12,12,http://10.10.3.16:8080/escm/messages,,8,ESCM-APP
-31/07/2017 18:16,16,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-8,,true,,125,12,12,http://10.10.3.16:8080/escm/images/favicon.ico,,0,ESCM-APP
-31/07/2017 18:16,52,110 /escm/recentItem,200,OK,Thread Group 1-6,text,true,,341,12,12,http://10.10.3.16:8080/escm/recentItem,,52,ESCM-APP
-31/07/2017 18:16,8,111 /escm/recentItem,200,OK,Thread Group 1-6,text,true,,341,12,12,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
-31/07/2017 18:16,4442,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-9,,true,,459938,12,12,null,,1399,ESCM-APP
-31/07/2017 18:16,6451,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-7,,true,,458728,12,12,null,,1291,ESCM-APP
-31/07/2017 18:16,3338,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-10,,true,,459938,12,12,null,,1090,ESCM-APP
-31/07/2017 18:16,3349,108 /escm/order/showOrderDetail,200,OK,Thread Group 1-4,text,true,,21925,12,12,http://10.10.3.16:8080/escm/order/showOrderDetail,,3345,ESCM-APP
-31/07/2017 18:16,3345,108 /escm/order/showOrderDetail,200,OK,Thread Group 1-1,text,true,,21923,12,12,http://10.10.3.16:8080/escm/order/showOrderDetail,,3337,ESCM-APP
-31/07/2017 18:16,13,113 /escm/messages,200,OK,Thread Group 1-4,text,true,,461,12,12,http://10.10.3.16:8080/escm/messages,,9,ESCM-APP
-31/07/2017 18:16,5709,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-8,,true,,459937,12,12,null,,1630,ESCM-APP
-31/07/2017 18:16,19,114 /escm/messages,200,OK,Thread Group 1-4,text,true,,461,13,13,http://10.10.3.16:8080/escm/messages,,19,ESCM-APP
-31/07/2017 18:16,10,113 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,13,13,http://10.10.3.16:8080/escm/messages,,10,ESCM-APP
-31/07/2017 18:16,11,115 /escm/recentItem,200,OK,Thread Group 1-4,text,true,,341,13,13,http://10.10.3.16:8080/escm/recentItem,,10,ESCM-APP
-31/07/2017 18:16,12,114 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,13,13,http://10.10.3.16:8080/escm/messages,,12,ESCM-APP
-31/07/2017 18:16,8,116 /escm/recentItem,200,OK,Thread Group 1-4,text,true,,341,13,13,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
-31/07/2017 18:16,8,115 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,13,13,http://10.10.3.16:8080/escm/recentItem,,8,ESCM-APP
-31/07/2017 18:16,6120,order_search_by_offername,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-4,,true,,70279,13,13,null,,6091,ESCM-APP
-31/07/2017 18:16,8,116 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,12,12,http://10.10.3.16:8080/escm/recentItem,,8,ESCM-APP
-31/07/2017 18:16,6848,order_search_by_offername,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-1,,true,,70277,12,12,null,,6823,ESCM-APP
-31/07/2017 18:16,41,33 /escm/login/auth,200,OK,Thread Group 1-14,text,true,,5226,12,12,http://10.10.3.16:8080/escm/login/auth,,40,ESCM-APP
-31/07/2017 18:16,5,43 /escm/images/favicon.ico,200,OK,Thread Group 1-14,bin,true,,191359,11,11,http://10.10.3.16:8080/escm/images/favicon.ico,,3,ESCM-APP
-31/07/2017 18:16,372,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-14,,false,,692050,11,11,null,,214,ESCM-APP
-31/07/2017 18:16,1593,106 /escm/order/showOrderDetail,200,OK,Thread Group 1-5,text,true,,21922,11,11,http://10.10.3.16:8080/escm/order/showOrderDetail,,1587,ESCM-APP
-31/07/2017 18:16,2507,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-11,text,true,,9473,11,11,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,346,ESCM-APP
-31/07/2017 18:16,47,33 /escm/login/auth,200,OK,Thread Group 1-15,text,true,,5226,12,12,http://10.10.3.16:8080/escm/login/auth,,42,ESCM-APP
-31/07/2017 18:16,5,43 /escm/images/favicon.ico,200,OK,Thread Group 1-15,bin,true,,191359,12,12,http://10.10.3.16:8080/escm/images/favicon.ico,,3,ESCM-APP
-31/07/2017 18:16,331,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-15,,false,,692050,12,12,null,,189,ESCM-APP
-31/07/2017 18:16,3,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-11,,true,,125,12,12,http://10.10.3.16:8080/escm/images/favicon.ico,,0,ESCM-APP
-31/07/2017 18:16,3022,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-11,,true,,459943,12,12,null,,618,ESCM-APP
-31/07/2017 18:16,37,33 /escm/login/auth,200,OK,Thread Group 1-16,text,true,,5226,13,13,http://10.10.3.16:8080/escm/login/auth,,36,ESCM-APP
-31/07/2017 18:16,5,43 /escm/images/favicon.ico,200,OK,Thread Group 1-16,bin,true,,191359,13,13,http://10.10.3.16:8080/escm/images/favicon.ico,,3,ESCM-APP
-31/07/2017 18:16,2304,1 /escm/order/index,200,OK,Thread Group 1-10,text,true,,19247,13,13,http://10.10.3.16:8080/escm/order/list,,16,ESCM-APP
-31/07/2017 18:16,289,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-16,,false,,692050,13,13,null,,158,ESCM-APP
-31/07/2017 18:16,304,12 /escm/order/showOrderDetail,404,Not Found,Thread Group 1-10,text,false,,1277,13,13,http://10.10.3.16:8080/escm/order/showOrderDetail,,304,ESCM-APP
-31/07/2017 18:16,7,22 /escm/messages,200,OK,Thread Group 1-10,text,true,,461,13,13,http://10.10.3.16:8080/escm/messages,,6,ESCM-APP
-31/07/2017 18:16,6,23 /escm/recentItem,200,OK,Thread Group 1-10,text,true,,341,13,13,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:16,2688,List_Orders,,"Number of samples in transaction : 29, number of failing samples : 1",Thread Group 1-10,,false,,149258,13,13,null,,399,ESCM-APP
-31/07/2017 18:16,3063,106 /escm/order/showOrderDetail,200,OK,Thread Group 1-6,text,true,,21924,13,13,http://10.10.3.16:8080/escm/order/showOrderDetail,,3056,ESCM-APP
-31/07/2017 18:16,3267,108 /escm/order/showOrderDetail,200,OK,Thread Group 1-2,text,true,,21924,13,13,http://10.10.3.16:8080/escm/order/showOrderDetail,,3258,ESCM-APP
-31/07/2017 18:16,12,113 /escm/messages,200,OK,Thread Group 1-2,text,true,,461,13,13,http://10.10.3.16:8080/escm/messages,,12,ESCM-APP
-31/07/2017 18:16,7,114 /escm/messages,200,OK,Thread Group 1-2,text,true,,461,13,13,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:16,7,115 /escm/recentItem,200,OK,Thread Group 1-2,text,true,,341,13,13,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:16,8,116 /escm/recentItem,200,OK,Thread Group 1-2,text,true,,341,13,13,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
-31/07/2017 18:16,9690,order_search_by_offername,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-2,,true,,70277,13,13,null,,9660,ESCM-APP
-31/07/2017 18:16,44,33 /escm/login/auth,200,OK,Thread Group 1-17,text,true,,5226,13,13,http://10.10.3.16:8080/escm/login/auth,,43,ESCM-APP
-31/07/2017 18:16,2234,108 /escm/order/showOrderDetail,200,OK,Thread Group 1-5,text,true,,21926,13,13,http://10.10.3.16:8080/escm/order/showOrderDetail,,2229,ESCM-APP
-31/07/2017 18:16,8,113 /escm/messages,200,OK,Thread Group 1-5,text,true,,461,13,13,http://10.10.3.16:8080/escm/messages,,8,ESCM-APP
-31/07/2017 18:16,7,114 /escm/messages,200,OK,Thread Group 1-5,text,true,,461,13,13,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:16,7,115 /escm/recentItem,200,OK,Thread Group 1-5,text,true,,341,13,13,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
-31/07/2017 18:16,8,116 /escm/recentItem,200,OK,Thread Group 1-5,text,true,,341,13,13,http://10.10.3.16:8080/escm/recentItem,,8,ESCM-APP
-31/07/2017 18:16,5844,order_search_by_offername,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-5,,true,,70276,13,13,null,,5827,ESCM-APP
-31/07/2017 18:16,4,43 /escm/images/favicon.ico,200,OK,Thread Group 1-17,bin,true,,191359,12,12,http://10.10.3.16:8080/escm/images/favicon.ico,,3,ESCM-APP
-31/07/2017 18:16,300,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-17,,false,,692050,12,12,null,,165,ESCM-APP
-31/07/2017 18:16,3559,1 /escm/order/index,200,OK,Thread Group 1-8,text,true,,19235,12,12,http://10.10.3.16:8080/escm/order/list,,11,ESCM-APP
-31/07/2017 18:16,26,12 /escm/order/showOrderDetail,404,Not Found,Thread Group 1-8,text,false,,1277,12,12,http://10.10.3.16:8080/escm/order/showOrderDetail,,25,ESCM-APP
-31/07/2017 18:16,7,22 /escm/messages,200,OK,Thread Group 1-8,text,true,,461,12,12,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:16,8,23 /escm/recentItem,200,OK,Thread Group 1-8,text,true,,341,12,12,http://10.10.3.16:8080/escm/recentItem,,8,ESCM-APP
-31/07/2017 18:16,3696,List_Orders,,"Number of samples in transaction : 29, number of failing samples : 1",Thread Group 1-8,,false,,149246,12,12,null,,147,ESCM-APP
-31/07/2017 18:16,4166,1 /escm/order/index,200,OK,Thread Group 1-9,text,true,,19235,12,12,http://10.10.3.16:8080/escm/order/list,,11,ESCM-APP
-31/07/2017 18:16,4248,1 /escm/order/index,200,OK,Thread Group 1-7,text,true,,19254,13,13,http://10.10.3.16:8080/escm/order/list,,10,ESCM-APP
-31/07/2017 18:16,42,12 /escm/order/showOrderDetail,404,Not Found,Thread Group 1-9,text,false,,1277,13,13,http://10.10.3.16:8080/escm/order/showOrderDetail,,42,ESCM-APP
-31/07/2017 18:16,9,22 /escm/messages,200,OK,Thread Group 1-9,text,true,,461,13,13,http://10.10.3.16:8080/escm/messages,,9,ESCM-APP
-31/07/2017 18:16,9,23 /escm/recentItem,200,OK,Thread Group 1-9,text,true,,341,13,13,http://10.10.3.16:8080/escm/recentItem,,9,ESCM-APP
-31/07/2017 18:16,23,12 /escm/order/showOrderDetail,404,Not Found,Thread Group 1-7,text,false,,1277,13,13,http://10.10.3.16:8080/escm/order/showOrderDetail,,23,ESCM-APP
-31/07/2017 18:16,4326,List_Orders,,"Number of samples in transaction : 29, number of failing samples : 1",Thread Group 1-9,,false,,149246,13,13,null,,170,ESCM-APP
-31/07/2017 18:16,8,22 /escm/messages,200,OK,Thread Group 1-7,text,true,,461,13,13,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:16,6,23 /escm/recentItem,200,OK,Thread Group 1-7,text,true,,341,13,13,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:16,4358,List_Orders,,"Number of samples in transaction : 29, number of failing samples : 1",Thread Group 1-7,,false,,149265,13,13,null,,118,ESCM-APP
-31/07/2017 18:16,240,33 /escm/login/auth,200,OK,Thread Group 1-18,text,true,,5226,13,13,http://10.10.3.16:8080/escm/login/auth,,237,ESCM-APP
-31/07/2017 18:16,6,43 /escm/images/favicon.ico,200,OK,Thread Group 1-18,bin,true,,191359,13,13,http://10.10.3.16:8080/escm/images/favicon.ico,,5,ESCM-APP
-31/07/2017 18:16,519,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-18,,false,,692050,13,13,null,,369,ESCM-APP
-31/07/2017 18:16,1095,104 /escm/order/searchOrder,200,OK,Thread Group 1-8,text,true,,4454,13,13,http://10.10.3.16:8080/escm/order/searchOrder,,1093,ESCM-APP
-31/07/2017 18:16,77,33 /escm/login/auth,200,OK,Thread Group 1-19,text,true,,5226,14,14,http://10.10.3.16:8080/escm/login/auth,,74,ESCM-APP
-31/07/2017 18:16,5,43 /escm/images/favicon.ico,200,OK,Thread Group 1-19,bin,true,,191359,14,14,http://10.10.3.16:8080/escm/images/favicon.ico,,3,ESCM-APP
-31/07/2017 18:16,316,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-19,,false,,692050,14,14,null,,181,ESCM-APP
-31/07/2017 18:16,2841,104 /escm/order/searchOrder,200,OK,Thread Group 1-10,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,2840,ESCM-APP
-31/07/2017 18:16,1312,104 /escm/order/searchOrder,200,OK,Thread Group 1-7,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,1312,ESCM-APP
-31/07/2017 18:16,1349,104 /escm/order/searchOrder,200,OK,Thread Group 1-9,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,1348,ESCM-APP
-31/07/2017 18:16,740,105 /escm/order/searchOrder,200,OK,Thread Group 1-8,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,739,ESCM-APP
-31/07/2017 18:16,12,107 /escm/messages,200,OK,Thread Group 1-8,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,12,ESCM-APP
-31/07/2017 18:16,8,109 /escm/messages,200,OK,Thread Group 1-8,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,8,ESCM-APP
-31/07/2017 18:16,11,110 /escm/recentItem,200,OK,Thread Group 1-8,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,11,ESCM-APP
-31/07/2017 18:16,15,111 /escm/recentItem,200,OK,Thread Group 1-8,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,15,ESCM-APP
-31/07/2017 18:16,2903,108 /escm/order/showOrderDetail,200,OK,Thread Group 1-6,text,true,,21924,14,14,http://10.10.3.16:8080/escm/order/showOrderDetail,,2899,ESCM-APP
-31/07/2017 18:16,198,105 /escm/order/searchOrder,200,OK,Thread Group 1-9,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,197,ESCM-APP
-31/07/2017 18:16,207,105 /escm/order/searchOrder,200,OK,Thread Group 1-7,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,206,ESCM-APP
-31/07/2017 18:16,9,113 /escm/messages,200,OK,Thread Group 1-6,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,9,ESCM-APP
-31/07/2017 18:16,4266,1 /escm/order/index,200,OK,Thread Group 1-11,text,true,,19242,14,14,http://10.10.3.16:8080/escm/order/list,,9,ESCM-APP
-31/07/2017 18:16,12,107 /escm/messages,200,OK,Thread Group 1-9,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,12,ESCM-APP
-31/07/2017 18:16,11,114 /escm/messages,200,OK,Thread Group 1-6,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,10,ESCM-APP
-31/07/2017 18:16,13,107 /escm/messages,200,OK,Thread Group 1-7,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,13,ESCM-APP
-31/07/2017 18:16,13,109 /escm/messages,200,OK,Thread Group 1-9,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,13,ESCM-APP
-31/07/2017 18:16,9,115 /escm/recentItem,200,OK,Thread Group 1-6,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,9,ESCM-APP
-31/07/2017 18:16,10,109 /escm/messages,200,OK,Thread Group 1-7,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,10,ESCM-APP
-31/07/2017 18:16,243,105 /escm/order/searchOrder,200,OK,Thread Group 1-10,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,242,ESCM-APP
-31/07/2017 18:16,8,110 /escm/recentItem,200,OK,Thread Group 1-9,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
-31/07/2017 18:16,8,116 /escm/recentItem,200,OK,Thread Group 1-6,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,8,ESCM-APP
-31/07/2017 18:16,10,110 /escm/recentItem,200,OK,Thread Group 1-7,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,10,ESCM-APP
-31/07/2017 18:16,10,107 /escm/messages,200,OK,Thread Group 1-10,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,9,ESCM-APP
-31/07/2017 18:16,7,111 /escm/recentItem,200,OK,Thread Group 1-9,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
-31/07/2017 18:16,6650,order_search_by_offername,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-6,,true,,70276,14,14,null,,6627,ESCM-APP
-31/07/2017 18:16,9,111 /escm/recentItem,200,OK,Thread Group 1-7,text,true,,341,13,13,http://10.10.3.16:8080/escm/recentItem,,8,ESCM-APP
-31/07/2017 18:16,6,109 /escm/messages,200,OK,Thread Group 1-10,text,true,,461,13,13,http://10.10.3.16:8080/escm/messages,,6,ESCM-APP
-31/07/2017 18:16,7,110 /escm/recentItem,200,OK,Thread Group 1-10,text,true,,341,13,13,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
-31/07/2017 18:16,7,111 /escm/recentItem,200,OK,Thread Group 1-10,text,true,,341,13,13,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:16,35,12 /escm/order/showOrderDetail,404,Not Found,Thread Group 1-11,text,false,,1277,13,13,http://10.10.3.16:8080/escm/order/showOrderDetail,,35,ESCM-APP
-31/07/2017 18:16,7,22 /escm/messages,200,OK,Thread Group 1-11,text,true,,461,13,13,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:16,9,23 /escm/recentItem,200,OK,Thread Group 1-11,text,true,,341,13,13,http://10.10.3.16:8080/escm/recentItem,,9,ESCM-APP
-31/07/2017 18:16,4410,List_Orders,,"Number of samples in transaction : 29, number of failing samples : 1",Thread Group 1-11,,false,,149253,13,13,null,,151,ESCM-APP
-31/07/2017 18:16,50,33 /escm/login/auth,200,OK,Thread Group 1-20,text,true,,5226,14,14,http://10.10.3.16:8080/escm/login/auth,,49,ESCM-APP
-31/07/2017 18:16,176,104 /escm/order/searchOrder,200,OK,Thread Group 1-11,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,175,ESCM-APP
-31/07/2017 18:16,8,43 /escm/images/favicon.ico,200,OK,Thread Group 1-20,bin,true,,191359,14,14,http://10.10.3.16:8080/escm/images/favicon.ico,,5,ESCM-APP
-31/07/2017 18:16,172,105 /escm/order/searchOrder,200,OK,Thread Group 1-11,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,171,ESCM-APP
-31/07/2017 18:16,12,107 /escm/messages,200,OK,Thread Group 1-11,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,12,ESCM-APP
-31/07/2017 18:16,12,109 /escm/messages,200,OK,Thread Group 1-11,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,11,ESCM-APP
-31/07/2017 18:16,6,110 /escm/recentItem,200,OK,Thread Group 1-11,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:16,12,111 /escm/recentItem,200,OK,Thread Group 1-11,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,12,ESCM-APP
-31/07/2017 18:16,351,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-20,,false,,692050,14,14,null,,199,ESCM-APP
-31/07/2017 18:16,8322,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-13,text,true,,9494,14,14,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,1253,ESCM-APP
-31/07/2017 18:17,4,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-13,,true,,125,14,14,http://10.10.3.16:8080/escm/images/favicon.ico,,0,ESCM-APP
-31/07/2017 18:16,8845,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-13,,true,,459964,14,14,null,,1548,ESCM-APP
-31/07/2017 18:16,8981,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-14,text,true,,9487,14,14,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,1277,ESCM-APP
-31/07/2017 18:16,4063,106 /escm/order/showOrderDetail,200,OK,Thread Group 1-8,text,true,,21924,14,14,http://10.10.3.16:8080/escm/order/showOrderDetail,,4060,ESCM-APP
-31/07/2017 18:16,3897,106 /escm/order/showOrderDetail,200,OK,Thread Group 1-9,text,true,,21925,14,14,http://10.10.3.16:8080/escm/order/showOrderDetail,,3894,ESCM-APP
-31/07/2017 18:16,3374,106 /escm/order/showOrderDetail,200,OK,Thread Group 1-11,text,true,,21924,14,14,http://10.10.3.16:8080/escm/order/showOrderDetail,,3364,ESCM-APP
-31/07/2017 18:16,3934,106 /escm/order/showOrderDetail,200,OK,Thread Group 1-10,text,true,,21926,14,14,http://10.10.3.16:8080/escm/order/showOrderDetail,,3932,ESCM-APP
-31/07/2017 18:17,7,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-14,,true,,125,14,14,http://10.10.3.16:8080/escm/images/favicon.ico,,0,ESCM-APP
-31/07/2017 18:16,4032,106 /escm/order/showOrderDetail,200,OK,Thread Group 1-7,text,true,,21927,14,14,http://10.10.3.16:8080/escm/order/showOrderDetail,,4021,ESCM-APP
-31/07/2017 18:16,9811,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-14,,true,,459957,14,14,null,,1748,ESCM-APP
-31/07/2017 18:16,8407,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-16,text,true,,9471,14,14,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,1091,ESCM-APP
-31/07/2017 18:16,11514,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-12,text,true,,9475,14,14,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,561,ESCM-APP
-31/07/2017 18:17,13,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-16,,true,,125,14,14,http://10.10.3.16:8080/escm/images/favicon.ico,,0,ESCM-APP
-31/07/2017 18:17,2,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-12,,true,,125,14,14,http://10.10.3.16:8080/escm/images/favicon.ico,,0,ESCM-APP
-31/07/2017 18:16,9407,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-16,,true,,459941,14,14,null,,1562,ESCM-APP
-31/07/2017 18:16,12727,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-12,,true,,459945,14,14,null,,1156,ESCM-APP
-31/07/2017 18:16,11109,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-15,text,true,,8251,14,14,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,2073,ESCM-APP
-31/07/2017 18:16,7209,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-19,text,true,,9488,14,14,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,1135,ESCM-APP
-31/07/2017 18:16,9482,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-17,text,true,,9488,14,14,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,2454,ESCM-APP
-31/07/2017 18:16,8267,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-18,text,true,,9488,14,14,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,1241,ESCM-APP
-31/07/2017 18:17,9,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-15,,true,,125,14,14,http://10.10.3.16:8080/escm/images/favicon.ico,,0,ESCM-APP
-31/07/2017 18:17,3,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-19,,true,,125,14,14,http://10.10.3.16:8080/escm/images/favicon.ico,,0,ESCM-APP
-31/07/2017 18:17,4,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-17,,true,,125,14,14,http://10.10.3.16:8080/escm/images/favicon.ico,,0,ESCM-APP
-31/07/2017 18:17,2,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-18,,true,,125,14,14,http://10.10.3.16:8080/escm/images/favicon.ico,,0,ESCM-APP
-31/07/2017 18:16,8343,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-19,,true,,459958,14,14,null,,1747,ESCM-APP
-31/07/2017 18:17,5370,1 /escm/order/index,200,OK,Thread Group 1-13,text,true,,19239,14,14,http://10.10.3.16:8080/escm/order/list,,8,ESCM-APP
-31/07/2017 18:16,9226,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-18,,true,,459958,14,14,null,,1830,ESCM-APP
-31/07/2017 18:16,12666,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-15,,true,,458721,14,14,null,,3215,ESCM-APP
-31/07/2017 18:16,10680,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-17,,true,,459958,14,14,null,,3052,ESCM-APP
-31/07/2017 18:17,308,12 /escm/order/showOrderDetail,404,Not Found,Thread Group 1-13,text,false,,1277,14,14,http://10.10.3.16:8080/escm/order/showOrderDetail,,308,ESCM-APP
-31/07/2017 18:17,11,22 /escm/messages,200,OK,Thread Group 1-13,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,10,ESCM-APP
-31/07/2017 18:17,12,23 /escm/recentItem,200,OK,Thread Group 1-13,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,12,ESCM-APP
-31/07/2017 18:17,5877,List_Orders,,"Number of samples in transaction : 29, number of failing samples : 1",Thread Group 1-13,,false,,149250,14,14,null,,510,ESCM-APP
-31/07/2017 18:16,8317,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-20,text,true,,9460,14,14,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,3645,ESCM-APP
-31/07/2017 18:17,10,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-20,,true,,125,14,14,http://10.10.3.16:8080/escm/images/favicon.ico,,0,ESCM-APP
-31/07/2017 18:16,9278,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-20,,true,,459930,14,14,null,,3991,ESCM-APP
-31/07/2017 18:17,2776,104 /escm/order/searchOrder,200,OK,Thread Group 1-13,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,2776,ESCM-APP
-31/07/2017 18:17,6112,1 /escm/order/index,200,OK,Thread Group 1-16,text,true,,19235,14,14,http://10.10.3.16:8080/escm/order/list,,12,ESCM-APP
-31/07/2017 18:17,153,12 /escm/order/showOrderDetail,404,Not Found,Thread Group 1-16,text,false,,1277,14,14,http://10.10.3.16:8080/escm/order/showOrderDetail,,153,ESCM-APP
-31/07/2017 18:17,10,22 /escm/messages,200,OK,Thread Group 1-16,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,9,ESCM-APP
-31/07/2017 18:17,7,23 /escm/recentItem,200,OK,Thread Group 1-16,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
-31/07/2017 18:17,6548,List_Orders,,"Number of samples in transaction : 29, number of failing samples : 1",Thread Group 1-16,,false,,149246,14,14,null,,445,ESCM-APP
-31/07/2017 18:17,8281,1 /escm/order/index,200,OK,Thread Group 1-14,text,true,,19253,14,14,http://10.10.3.16:8080/escm/order/list,,18,ESCM-APP
-31/07/2017 18:17,45,12 /escm/order/showOrderDetail,404,Not Found,Thread Group 1-14,text,false,,1277,14,14,http://10.10.3.16:8080/escm/order/showOrderDetail,,45,ESCM-APP
-31/07/2017 18:17,24,22 /escm/messages,200,OK,Thread Group 1-14,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,24,ESCM-APP
-31/07/2017 18:17,7,23 /escm/recentItem,200,OK,Thread Group 1-14,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
-31/07/2017 18:17,8586,List_Orders,,"Number of samples in transaction : 29, number of failing samples : 1",Thread Group 1-14,,false,,149264,14,14,null,,319,ESCM-APP
-31/07/2017 18:17,7157,1 /escm/order/index,200,OK,Thread Group 1-12,text,true,,19243,14,14,http://10.10.3.16:8080/escm/order/list,,9,ESCM-APP
-31/07/2017 18:17,5454,1 /escm/order/index,200,OK,Thread Group 1-19,text,true,,19252,14,14,http://10.10.3.16:8080/escm/order/list,,24,ESCM-APP
-31/07/2017 18:17,288,12 /escm/order/showOrderDetail,404,Not Found,Thread Group 1-12,text,false,,1277,14,14,http://10.10.3.16:8080/escm/order/showOrderDetail,,288,ESCM-APP
-31/07/2017 18:17,9,22 /escm/messages,200,OK,Thread Group 1-12,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,8,ESCM-APP
-31/07/2017 18:17,372,12 /escm/order/showOrderDetail,404,Not Found,Thread Group 1-19,text,false,,1277,14,14,http://10.10.3.16:8080/escm/order/showOrderDetail,,372,ESCM-APP
-31/07/2017 18:17,8,23 /escm/recentItem,200,OK,Thread Group 1-12,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,8,ESCM-APP
-31/07/2017 18:17,40,22 /escm/messages,200,OK,Thread Group 1-19,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,40,ESCM-APP
-31/07/2017 18:17,9,23 /escm/recentItem,200,OK,Thread Group 1-19,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,9,ESCM-APP
-31/07/2017 18:17,7814,List_Orders,,"Number of samples in transaction : 29, number of failing samples : 1",Thread Group 1-12,,false,,149254,14,14,null,,664,ESCM-APP
-31/07/2017 18:17,6099,List_Orders,,"Number of samples in transaction : 29, number of failing samples : 1",Thread Group 1-19,,false,,149263,14,14,null,,668,ESCM-APP
-31/07/2017 18:17,6199,1 /escm/order/index,200,OK,Thread Group 1-18,text,true,,19252,14,14,http://10.10.3.16:8080/escm/order/list,,10,ESCM-APP
-31/07/2017 18:17,1982,104 /escm/order/searchOrder,200,OK,Thread Group 1-16,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,1980,ESCM-APP
-31/07/2017 18:17,193,12 /escm/order/showOrderDetail,404,Not Found,Thread Group 1-18,text,false,,1277,14,14,http://10.10.3.16:8080/escm/order/showOrderDetail,,193,ESCM-APP
-31/07/2017 18:17,3294,105 /escm/order/searchOrder,200,OK,Thread Group 1-13,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,3293,ESCM-APP
-31/07/2017 18:17,8,22 /escm/messages,200,OK,Thread Group 1-18,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:17,9,107 /escm/messages,200,OK,Thread Group 1-13,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,9,ESCM-APP
-31/07/2017 18:17,7,109 /escm/messages,200,OK,Thread Group 1-13,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:17,13,23 /escm/recentItem,200,OK,Thread Group 1-18,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,13,ESCM-APP
-31/07/2017 18:17,8,110 /escm/recentItem,200,OK,Thread Group 1-13,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,8,ESCM-APP
-31/07/2017 18:17,7,111 /escm/recentItem,200,OK,Thread Group 1-13,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
-31/07/2017 18:17,6512,1 /escm/order/index,200,OK,Thread Group 1-15,text,true,,19247,14,14,http://10.10.3.16:8080/escm/order/list,,9,ESCM-APP
-31/07/2017 18:17,6662,List_Orders,,"Number of samples in transaction : 29, number of failing samples : 1",Thread Group 1-18,,false,,149263,14,14,null,,471,ESCM-APP
-31/07/2017 18:17,6657,1 /escm/order/index,200,OK,Thread Group 1-17,text,true,,19252,14,14,http://10.10.3.16:8080/escm/order/list,,8,ESCM-APP
-31/07/2017 18:17,214,12 /escm/order/showOrderDetail,404,Not Found,Thread Group 1-17,text,false,,1277,14,14,http://10.10.3.16:8080/escm/order/showOrderDetail,,214,ESCM-APP
-31/07/2017 18:17,346,12 /escm/order/showOrderDetail,404,Not Found,Thread Group 1-15,text,false,,1277,14,14,http://10.10.3.16:8080/escm/order/showOrderDetail,,346,ESCM-APP
-31/07/2017 18:17,1123,104 /escm/order/searchOrder,200,OK,Thread Group 1-12,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,1123,ESCM-APP
-31/07/2017 18:17,8,22 /escm/messages,200,OK,Thread Group 1-17,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:17,10,22 /escm/messages,200,OK,Thread Group 1-15,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,10,ESCM-APP
-31/07/2017 18:17,11,23 /escm/recentItem,200,OK,Thread Group 1-17,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,10,ESCM-APP
-31/07/2017 18:17,11,23 /escm/recentItem,200,OK,Thread Group 1-15,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,10,ESCM-APP
-31/07/2017 18:17,5363,1 /escm/order/index,200,OK,Thread Group 1-20,text,true,,19240,14,14,http://10.10.3.16:8080/escm/order/list,,8,ESCM-APP
-31/07/2017 18:17,7013,List_Orders,,"Number of samples in transaction : 29, number of failing samples : 1",Thread Group 1-15,,false,,149258,14,14,null,,508,ESCM-APP
-31/07/2017 18:17,7019,List_Orders,,"Number of samples in transaction : 29, number of failing samples : 1",Thread Group 1-17,,false,,149263,14,14,null,,364,ESCM-APP
-31/07/2017 18:17,2218,104 /escm/order/searchOrder,200,OK,Thread Group 1-14,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,2217,ESCM-APP
-31/07/2017 18:17,230,12 /escm/order/showOrderDetail,404,Not Found,Thread Group 1-20,text,false,,1277,14,14,http://10.10.3.16:8080/escm/order/showOrderDetail,,230,ESCM-APP
-31/07/2017 18:17,8,22 /escm/messages,200,OK,Thread Group 1-20,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,8,ESCM-APP
-31/07/2017 18:17,7,23 /escm/recentItem,200,OK,Thread Group 1-20,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:17,5704,List_Orders,,"Number of samples in transaction : 29, number of failing samples : 1",Thread Group 1-20,,false,,149251,14,14,null,,346,ESCM-APP
-31/07/2017 18:17,1982,104 /escm/order/searchOrder,200,OK,Thread Group 1-19,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,1982,ESCM-APP
-31/07/2017 18:17,1379,104 /escm/order/searchOrder,200,OK,Thread Group 1-18,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,1379,ESCM-APP
-31/07/2017 18:17,2241,105 /escm/order/searchOrder,200,OK,Thread Group 1-16,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,2240,ESCM-APP
-31/07/2017 18:17,9,107 /escm/messages,200,OK,Thread Group 1-16,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,9,ESCM-APP
-31/07/2017 18:17,8,109 /escm/messages,200,OK,Thread Group 1-16,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:17,9,110 /escm/recentItem,200,OK,Thread Group 1-16,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,8,ESCM-APP
-31/07/2017 18:17,7,111 /escm/recentItem,200,OK,Thread Group 1-16,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
-31/07/2017 18:17,1708,105 /escm/order/searchOrder,200,OK,Thread Group 1-12,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,1707,ESCM-APP
-31/07/2017 18:17,10,107 /escm/messages,200,OK,Thread Group 1-12,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,10,ESCM-APP
-31/07/2017 18:17,9,109 /escm/messages,200,OK,Thread Group 1-12,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,9,ESCM-APP
-31/07/2017 18:17,6,110 /escm/recentItem,200,OK,Thread Group 1-12,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:17,1661,104 /escm/order/searchOrder,200,OK,Thread Group 1-17,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,1660,ESCM-APP
-31/07/2017 18:17,9,111 /escm/recentItem,200,OK,Thread Group 1-12,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,9,ESCM-APP
-31/07/2017 18:17,1675,104 /escm/order/searchOrder,200,OK,Thread Group 1-15,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,1671,ESCM-APP
-31/07/2017 18:17,1645,105 /escm/order/searchOrder,200,OK,Thread Group 1-14,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,1644,ESCM-APP
-31/07/2017 18:17,8,107 /escm/messages,200,OK,Thread Group 1-14,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:17,7,109 /escm/messages,200,OK,Thread Group 1-14,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,6,ESCM-APP
-31/07/2017 18:17,7,110 /escm/recentItem,200,OK,Thread Group 1-14,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:17,6,111 /escm/recentItem,200,OK,Thread Group 1-14,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,5,ESCM-APP
-31/07/2017 18:17,1371,104 /escm/order/searchOrder,200,OK,Thread Group 1-20,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,1370,ESCM-APP
-31/07/2017 18:17,970,105 /escm/order/searchOrder,200,OK,Thread Group 1-19,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,969,ESCM-APP
-31/07/2017 18:17,7,107 /escm/messages,200,OK,Thread Group 1-19,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:17,965,105 /escm/order/searchOrder,200,OK,Thread Group 1-18,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,965,ESCM-APP
-31/07/2017 18:17,8,109 /escm/messages,200,OK,Thread Group 1-19,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,8,ESCM-APP
-31/07/2017 18:17,9,107 /escm/messages,200,OK,Thread Group 1-18,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,9,ESCM-APP
-31/07/2017 18:17,7,110 /escm/recentItem,200,OK,Thread Group 1-19,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:17,6,111 /escm/recentItem,200,OK,Thread Group 1-19,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:17,11,109 /escm/messages,200,OK,Thread Group 1-18,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,11,ESCM-APP
-31/07/2017 18:17,21,110 /escm/recentItem,200,OK,Thread Group 1-18,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,21,ESCM-APP
-31/07/2017 18:17,8,111 /escm/recentItem,200,OK,Thread Group 1-18,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,8,ESCM-APP
-31/07/2017 18:17,239,105 /escm/order/searchOrder,200,OK,Thread Group 1-17,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,238,ESCM-APP
-31/07/2017 18:17,8,107 /escm/messages,200,OK,Thread Group 1-17,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:17,8,109 /escm/messages,200,OK,Thread Group 1-17,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,8,ESCM-APP
-31/07/2017 18:17,11,110 /escm/recentItem,200,OK,Thread Group 1-17,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,11,ESCM-APP
-31/07/2017 18:17,8,111 /escm/recentItem,200,OK,Thread Group 1-17,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,8,ESCM-APP
-31/07/2017 18:17,308,105 /escm/order/searchOrder,200,OK,Thread Group 1-20,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,307,ESCM-APP
-31/07/2017 18:17,371,105 /escm/order/searchOrder,200,OK,Thread Group 1-15,text,true,,4454,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,370,ESCM-APP
-31/07/2017 18:17,9,107 /escm/messages,200,OK,Thread Group 1-20,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,9,ESCM-APP
-31/07/2017 18:17,8,109 /escm/messages,200,OK,Thread Group 1-20,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,8,ESCM-APP
-31/07/2017 18:17,16,107 /escm/messages,200,OK,Thread Group 1-15,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,12,ESCM-APP
-31/07/2017 18:17,7,110 /escm/recentItem,200,OK,Thread Group 1-20,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
-31/07/2017 18:17,9,109 /escm/messages,200,OK,Thread Group 1-15,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,8,ESCM-APP
-31/07/2017 18:17,7,111 /escm/recentItem,200,OK,Thread Group 1-20,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
-31/07/2017 18:17,9,110 /escm/recentItem,200,OK,Thread Group 1-15,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,9,ESCM-APP
-31/07/2017 18:17,7,111 /escm/recentItem,200,OK,Thread Group 1-15,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
-31/07/2017 18:17,13533,108 /escm/order/showOrderDetail,200,OK,Thread Group 1-8,text,true,,21926,14,14,http://10.10.3.16:8080/escm/order/showOrderDetail,,13527,ESCM-APP
-31/07/2017 18:17,13473,108 /escm/order/showOrderDetail,200,OK,Thread Group 1-10,text,true,,21926,14,14,http://10.10.3.16:8080/escm/order/showOrderDetail,,13470,ESCM-APP
-31/07/2017 18:17,7,113 /escm/messages,200,OK,Thread Group 1-8,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:17,7,113 /escm/messages,200,OK,Thread Group 1-10,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:17,10,114 /escm/messages,200,OK,Thread Group 1-8,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,9,ESCM-APP
-31/07/2017 18:17,9,114 /escm/messages,200,OK,Thread Group 1-10,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,9,ESCM-APP
-31/07/2017 18:17,5,115 /escm/recentItem,200,OK,Thread Group 1-8,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,5,ESCM-APP
-31/07/2017 18:17,13,115 /escm/recentItem,200,OK,Thread Group 1-10,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,12,ESCM-APP
-31/07/2017 18:17,9,116 /escm/recentItem,200,OK,Thread Group 1-8,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,9,ESCM-APP
-31/07/2017 18:17,9,116 /escm/recentItem,200,OK,Thread Group 1-10,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,9,ESCM-APP
-31/07/2017 18:16,19531,order_search_by_offername,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-8,,true,,70278,14,14,null,,19509,ESCM-APP
-31/07/2017 18:16,20576,order_search_by_offername,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-10,,true,,70280,13,13,null,,20562,ESCM-APP
-31/07/2017 18:17,13459,108 /escm/order/showOrderDetail,200,OK,Thread Group 1-7,text,true,,21925,12,12,http://10.10.3.16:8080/escm/order/showOrderDetail,,13456,ESCM-APP
-31/07/2017 18:17,10,113 /escm/messages,200,OK,Thread Group 1-7,text,true,,461,12,12,http://10.10.3.16:8080/escm/messages,,10,ESCM-APP
-31/07/2017 18:17,6,114 /escm/messages,200,OK,Thread Group 1-7,text,true,,461,12,12,http://10.10.3.16:8080/escm/messages,,6,ESCM-APP
-31/07/2017 18:17,6,115 /escm/recentItem,200,OK,Thread Group 1-7,text,true,,341,12,12,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:17,6,116 /escm/recentItem,200,OK,Thread Group 1-7,text,true,,341,12,12,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:16,19092,order_search_by_offername,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-7,,true,,70280,12,12,null,,19072,ESCM-APP
-31/07/2017 18:17,13658,108 /escm/order/showOrderDetail,200,OK,Thread Group 1-9,text,true,,21923,11,11,http://10.10.3.16:8080/escm/order/showOrderDetail,,13644,ESCM-APP
-31/07/2017 18:17,7,113 /escm/messages,200,OK,Thread Group 1-9,text,true,,461,11,11,http://10.10.3.16:8080/escm/messages,,6,ESCM-APP
-31/07/2017 18:17,6,114 /escm/messages,200,OK,Thread Group 1-9,text,true,,461,11,11,http://10.10.3.16:8080/escm/messages,,6,ESCM-APP
-31/07/2017 18:17,5,115 /escm/recentItem,200,OK,Thread Group 1-9,text,true,,341,11,11,http://10.10.3.16:8080/escm/recentItem,,5,ESCM-APP
-31/07/2017 18:17,6,116 /escm/recentItem,200,OK,Thread Group 1-9,text,true,,341,11,11,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:16,19183,order_search_by_offername,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-9,,true,,70276,11,11,null,,19159,ESCM-APP
-31/07/2017 18:17,13778,108 /escm/order/showOrderDetail,200,OK,Thread Group 1-11,text,true,,21926,10,10,http://10.10.3.16:8080/escm/order/showOrderDetail,,13774,ESCM-APP
-31/07/2017 18:17,8,113 /escm/messages,200,OK,Thread Group 1-11,text,true,,461,10,10,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:17,6,114 /escm/messages,200,OK,Thread Group 1-11,text,true,,461,10,10,http://10.10.3.16:8080/escm/messages,,6,ESCM-APP
-31/07/2017 18:17,8,115 /escm/recentItem,200,OK,Thread Group 1-11,text,true,,341,10,10,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
-31/07/2017 18:17,6,116 /escm/recentItem,200,OK,Thread Group 1-11,text,true,,341,10,10,http://10.10.3.16:8080/escm/recentItem,,5,ESCM-APP
-31/07/2017 18:16,17579,order_search_by_offername,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-11,,true,,70278,10,10,null,,17557,ESCM-APP
-31/07/2017 18:17,4109,106 /escm/order/showOrderDetail,200,OK,Thread Group 1-13,text,true,,21923,9,9,http://10.10.3.16:8080/escm/order/showOrderDetail,,4106,ESCM-APP
-31/07/2017 18:17,1679,106 /escm/order/showOrderDetail,200,OK,Thread Group 1-18,text,true,,21924,9,9,http://10.10.3.16:8080/escm/order/showOrderDetail,,1677,ESCM-APP
-31/07/2017 18:17,1479,106 /escm/order/showOrderDetail,200,OK,Thread Group 1-15,text,true,,21927,9,9,http://10.10.3.16:8080/escm/order/showOrderDetail,,1475,ESCM-APP
-31/07/2017 18:17,1985,106 /escm/order/showOrderDetail,200,OK,Thread Group 1-16,text,true,,21925,9,9,http://10.10.3.16:8080/escm/order/showOrderDetail,,1977,ESCM-APP
-31/07/2017 18:17,1752,106 /escm/order/showOrderDetail,200,OK,Thread Group 1-19,text,true,,21924,9,9,http://10.10.3.16:8080/escm/order/showOrderDetail,,1745,ESCM-APP
-31/07/2017 18:17,1919,106 /escm/order/showOrderDetail,200,OK,Thread Group 1-14,text,true,,21926,9,9,http://10.10.3.16:8080/escm/order/showOrderDetail,,1910,ESCM-APP
-31/07/2017 18:17,2113,106 /escm/order/showOrderDetail,200,OK,Thread Group 1-12,text,true,,21925,9,9,http://10.10.3.16:8080/escm/order/showOrderDetail,,2106,ESCM-APP
-31/07/2017 18:17,2020,106 /escm/order/showOrderDetail,200,OK,Thread Group 1-17,text,true,,21927,9,9,http://10.10.3.16:8080/escm/order/showOrderDetail,,2011,ESCM-APP
-31/07/2017 18:17,1987,106 /escm/order/showOrderDetail,200,OK,Thread Group 1-20,text,true,,21926,9,9,http://10.10.3.16:8080/escm/order/showOrderDetail,,1983,ESCM-APP
-31/07/2017 18:17,1501,108 /escm/order/showOrderDetail,200,OK,Thread Group 1-16,text,true,,21926,9,9,http://10.10.3.16:8080/escm/order/showOrderDetail,,1498,ESCM-APP
-31/07/2017 18:17,1534,108 /escm/order/showOrderDetail,200,OK,Thread Group 1-13,text,true,,21925,9,9,http://10.10.3.16:8080/escm/order/showOrderDetail,,1531,ESCM-APP
-31/07/2017 18:17,1551,108 /escm/order/showOrderDetail,200,OK,Thread Group 1-19,text,true,,21926,9,9,http://10.10.3.16:8080/escm/order/showOrderDetail,,1547,ESCM-APP
-31/07/2017 18:17,65,113 /escm/messages,200,OK,Thread Group 1-16,text,true,,461,9,9,http://10.10.3.16:8080/escm/messages,,63,ESCM-APP
-31/07/2017 18:17,6,113 /escm/messages,200,OK,Thread Group 1-19,text,true,,461,9,9,http://10.10.3.16:8080/escm/messages,,6,ESCM-APP
-31/07/2017 18:17,74,113 /escm/messages,200,OK,Thread Group 1-13,text,true,,461,9,9,http://10.10.3.16:8080/escm/messages,,72,ESCM-APP
-31/07/2017 18:17,1603,108 /escm/order/showOrderDetail,200,OK,Thread Group 1-15,text,true,,21924,9,9,http://10.10.3.16:8080/escm/order/showOrderDetail,,1599,ESCM-APP
-31/07/2017 18:17,11,114 /escm/messages,200,OK,Thread Group 1-19,text,true,,461,9,9,http://10.10.3.16:8080/escm/messages,,11,ESCM-APP
-31/07/2017 18:17,8,114 /escm/messages,200,OK,Thread Group 1-13,text,true,,461,9,9,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:17,30,114 /escm/messages,200,OK,Thread Group 1-16,text,true,,461,9,9,http://10.10.3.16:8080/escm/messages,,26,ESCM-APP
-31/07/2017 18:17,13,115 /escm/recentItem,200,OK,Thread Group 1-19,text,true,,341,9,9,http://10.10.3.16:8080/escm/recentItem,,13,ESCM-APP
-31/07/2017 18:17,9,115 /escm/recentItem,200,OK,Thread Group 1-13,text,true,,341,9,9,http://10.10.3.16:8080/escm/recentItem,,9,ESCM-APP
-31/07/2017 18:17,10,113 /escm/messages,200,OK,Thread Group 1-15,text,true,,461,9,9,http://10.10.3.16:8080/escm/messages,,10,ESCM-APP
-31/07/2017 18:17,7,115 /escm/recentItem,200,OK,Thread Group 1-16,text,true,,341,9,9,http://10.10.3.16:8080/escm/recentItem,,7,ESCM-APP
-31/07/2017 18:17,6,116 /escm/recentItem,200,OK,Thread Group 1-13,text,true,,341,9,9,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:17,11852,order_search_by_offername,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-13,,true,,70276,9,9,null,,11839,ESCM-APP
-31/07/2017 18:17,33,114 /escm/messages,200,OK,Thread Group 1-15,text,true,,461,8,8,http://10.10.3.16:8080/escm/messages,,33,ESCM-APP
-31/07/2017 18:17,33,116 /escm/recentItem,200,OK,Thread Group 1-16,text,true,,341,8,8,http://10.10.3.16:8080/escm/recentItem,,33,ESCM-APP
-31/07/2017 18:17,40,116 /escm/recentItem,200,OK,Thread Group 1-19,text,true,,341,8,8,http://10.10.3.16:8080/escm/recentItem,,40,ESCM-APP
-31/07/2017 18:17,7944,order_search_by_offername,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-16,,true,,70279,8,8,null,,7860,ESCM-APP
-31/07/2017 18:17,6367,order_search_by_offername,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-19,,true,,70278,7,7,null,,6349,ESCM-APP
-31/07/2017 18:17,13,115 /escm/recentItem,200,OK,Thread Group 1-15,text,true,,341,6,6,http://10.10.3.16:8080/escm/recentItem,,13,ESCM-APP
-31/07/2017 18:17,6,116 /escm/recentItem,200,OK,Thread Group 1-15,text,true,,341,6,6,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:17,5242,order_search_by_offername,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-15,,true,,70279,6,6,null,,5221,ESCM-APP
-31/07/2017 18:17,1710,108 /escm/order/showOrderDetail,200,OK,Thread Group 1-18,text,true,,21926,5,5,http://10.10.3.16:8080/escm/order/showOrderDetail,,1700,ESCM-APP
-31/07/2017 18:17,9,113 /escm/messages,200,OK,Thread Group 1-18,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,,9,ESCM-APP
-31/07/2017 18:17,11,114 /escm/messages,200,OK,Thread Group 1-18,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,,11,ESCM-APP
-31/07/2017 18:17,6,115 /escm/recentItem,200,OK,Thread Group 1-18,text,true,,341,5,5,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:17,6,116 /escm/recentItem,200,OK,Thread Group 1-18,text,true,,341,5,5,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:17,5828,order_search_by_offername,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-18,,true,,70278,5,5,null,,5813,ESCM-APP
-31/07/2017 18:17,1553,108 /escm/order/showOrderDetail,200,OK,Thread Group 1-12,text,true,,21926,4,4,http://10.10.3.16:8080/escm/order/showOrderDetail,,1548,ESCM-APP
-31/07/2017 18:17,7,113 /escm/messages,200,OK,Thread Group 1-12,text,true,,461,4,4,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:17,8,114 /escm/messages,200,OK,Thread Group 1-12,text,true,,461,4,4,http://10.10.3.16:8080/escm/messages,,8,ESCM-APP
-31/07/2017 18:17,6,115 /escm/recentItem,200,OK,Thread Group 1-12,text,true,,341,4,4,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:17,10,116 /escm/recentItem,200,OK,Thread Group 1-12,text,true,,341,4,4,http://10.10.3.16:8080/escm/recentItem,,9,ESCM-APP
-31/07/2017 18:17,6583,order_search_by_offername,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-12,,true,,70279,4,4,null,,6566,ESCM-APP
-31/07/2017 18:17,1759,108 /escm/order/showOrderDetail,200,OK,Thread Group 1-14,text,true,,21924,3,3,http://10.10.3.16:8080/escm/order/showOrderDetail,,1752,ESCM-APP
-31/07/2017 18:17,7,113 /escm/messages,200,OK,Thread Group 1-14,text,true,,461,3,3,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:17,9,114 /escm/messages,200,OK,Thread Group 1-14,text,true,,461,3,3,http://10.10.3.16:8080/escm/messages,,9,ESCM-APP
-31/07/2017 18:17,6,115 /escm/recentItem,200,OK,Thread Group 1-14,text,true,,341,3,3,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:17,6,116 /escm/recentItem,200,OK,Thread Group 1-14,text,true,,341,3,3,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:17,7606,order_search_by_offername,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-14,,true,,70278,3,3,null,,7581,ESCM-APP
-31/07/2017 18:17,1481,108 /escm/order/showOrderDetail,200,OK,Thread Group 1-17,text,true,,21923,2,2,http://10.10.3.16:8080/escm/order/showOrderDetail,,1475,ESCM-APP
-31/07/2017 18:17,7,113 /escm/messages,200,OK,Thread Group 1-17,text,true,,461,2,2,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:17,7,114 /escm/messages,200,OK,Thread Group 1-17,text,true,,461,2,2,http://10.10.3.16:8080/escm/messages,,7,ESCM-APP
-31/07/2017 18:17,6,115 /escm/recentItem,200,OK,Thread Group 1-17,text,true,,341,2,2,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:17,7,116 /escm/recentItem,200,OK,Thread Group 1-17,text,true,,341,2,2,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:17,5472,order_search_by_offername,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-17,,true,,70278,2,2,null,,5450,ESCM-APP
-31/07/2017 18:17,1449,108 /escm/order/showOrderDetail,200,OK,Thread Group 1-20,text,true,,21925,1,1,http://10.10.3.16:8080/escm/order/showOrderDetail,,1443,ESCM-APP
-31/07/2017 18:17,7,113 /escm/messages,200,OK,Thread Group 1-20,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,,6,ESCM-APP
-31/07/2017 18:17,6,114 /escm/messages,200,OK,Thread Group 1-20,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,,6,ESCM-APP
-31/07/2017 18:17,6,115 /escm/recentItem,200,OK,Thread Group 1-20,text,true,,341,1,1,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:17,6,116 /escm/recentItem,200,OK,Thread Group 1-20,text,true,,341,1,1,http://10.10.3.16:8080/escm/recentItem,,6,ESCM-APP
-31/07/2017 18:17,5180,order_search_by_offername,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-20,,true,,70279,1,1,null,,5165,ESCM-APP
+03/10/2017 11:31,656,524 /escm/login/auth,200,OK,Thread Group 1-1,text,true,,5976,2,2,http://10.10.3.16:8080/escm/login/auth,,652,ESCM-APP
+03/10/2017 11:31,135,524 /escm/login/auth,200,OK,Thread Group 1-2,text,true,,5976,2,2,http://10.10.3.16:8080/escm/login/auth,,125,ESCM-APP
+03/10/2017 11:31,1574,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-1,,true,,591832,3,3,null,,1112,ESCM-APP
+03/10/2017 11:31,958,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-2,,true,,591832,3,3,null,,502,ESCM-APP
+03/10/2017 11:31,129,524 /escm/login/auth,200,OK,Thread Group 1-3,text,true,,5976,3,3,http://10.10.3.16:8080/escm/login/auth,,124,ESCM-APP
+03/10/2017 11:31,701,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-3,,true,,591832,3,3,null,,312,ESCM-APP
+03/10/2017 11:31,161,524 /escm/login/auth,200,OK,Thread Group 1-4,text,true,,5976,4,4,http://10.10.3.16:8080/escm/login/auth,,156,ESCM-APP
+03/10/2017 11:31,650,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-4,,true,,591832,4,4,null,,332,ESCM-APP
+03/10/2017 11:31,172,524 /escm/login/auth,200,OK,Thread Group 1-5,text,true,,5976,5,5,http://10.10.3.16:8080/escm/login/auth,,165,ESCM-APP
+03/10/2017 11:31,671,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-5,,true,,591832,5,5,null,,353,ESCM-APP
+03/10/2017 11:31,112,524 /escm/login/auth,200,OK,Thread Group 1-6,text,true,,5976,6,6,http://10.10.3.16:8080/escm/login/auth,,106,ESCM-APP
+03/10/2017 11:31,593,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-6,,true,,591832,6,6,null,,302,ESCM-APP
+03/10/2017 11:31,174,524 /escm/login/auth,200,OK,Thread Group 1-7,text,true,,5976,7,7,http://10.10.3.16:8080/escm/login/auth,,172,ESCM-APP
+03/10/2017 11:31,616,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-7,,true,,591832,7,7,null,,374,ESCM-APP
+03/10/2017 11:31,118,524 /escm/login/auth,200,OK,Thread Group 1-8,text,true,,5976,8,8,http://10.10.3.16:8080/escm/login/auth,,114,ESCM-APP
+03/10/2017 11:31,549,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-8,,true,,591832,8,8,null,,313,ESCM-APP
+03/10/2017 11:31,106,524 /escm/login/auth,200,OK,Thread Group 1-9,text,true,,5976,9,9,http://10.10.3.16:8080/escm/login/auth,,104,ESCM-APP
+03/10/2017 11:31,645,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-9,,true,,591832,9,9,null,,275,ESCM-APP
+03/10/2017 11:31,144,524 /escm/login/auth,200,OK,Thread Group 1-10,text,true,,5976,10,10,http://10.10.3.16:8080/escm/login/auth,,143,ESCM-APP
+03/10/2017 11:31,552,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-10,,true,,591832,10,10,null,,322,ESCM-APP
+03/10/2017 11:31,105,524 /escm/login/auth,200,OK,Thread Group 1-11,text,true,,5976,11,11,http://10.10.3.16:8080/escm/login/auth,,102,ESCM-APP
+03/10/2017 11:31,494,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-11,,true,,591832,11,11,null,,278,ESCM-APP
+03/10/2017 11:31,273,524 /escm/login/auth,200,OK,Thread Group 1-12,text,true,,5976,12,12,http://10.10.3.16:8080/escm/login/auth,,270,ESCM-APP
+03/10/2017 11:31,704,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-12,,true,,591832,12,12,null,,463,ESCM-APP
+03/10/2017 11:31,95,524 /escm/login/auth,200,OK,Thread Group 1-13,text,true,,5976,13,13,http://10.10.3.16:8080/escm/login/auth,,92,ESCM-APP
+03/10/2017 11:31,490,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-13,,true,,591832,13,13,null,,266,ESCM-APP
+03/10/2017 11:31,113,524 /escm/login/auth,200,OK,Thread Group 1-14,text,true,,5976,14,14,http://10.10.3.16:8080/escm/login/auth,,111,ESCM-APP
+03/10/2017 11:31,519,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-14,,true,,591832,14,14,null,,277,ESCM-APP
+03/10/2017 11:31,142,524 /escm/login/auth,200,OK,Thread Group 1-15,text,true,,5976,15,15,http://10.10.3.16:8080/escm/login/auth,,139,ESCM-APP
+03/10/2017 11:31,535,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-15,,true,,591832,15,15,null,,306,ESCM-APP
+03/10/2017 11:31,92,524 /escm/login/auth,200,OK,Thread Group 1-16,text,true,,5976,16,16,http://10.10.3.16:8080/escm/login/auth,,89,ESCM-APP
+03/10/2017 11:31,527,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-16,,true,,591832,16,16,null,,273,ESCM-APP
+03/10/2017 11:31,102,524 /escm/login/auth,200,OK,Thread Group 1-17,text,true,,5976,17,17,http://10.10.3.16:8080/escm/login/auth,,99,ESCM-APP
+03/10/2017 11:31,486,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-17,,true,,591832,17,17,null,,257,ESCM-APP
+03/10/2017 11:31,129,524 /escm/login/auth,200,OK,Thread Group 1-18,text,true,,5976,18,18,http://10.10.3.16:8080/escm/login/auth,,127,ESCM-APP
+03/10/2017 11:31,551,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-18,,true,,591832,18,18,null,,318,ESCM-APP
+03/10/2017 11:31,91,524 /escm/login/auth,200,OK,Thread Group 1-19,text,true,,5976,19,19,http://10.10.3.16:8080/escm/login/auth,,88,ESCM-APP
+03/10/2017 11:31,494,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-19,,true,,591832,19,19,null,,270,ESCM-APP
+03/10/2017 11:31,142,524 /escm/login/auth,200,OK,Thread Group 1-20,text,true,,5976,20,20,http://10.10.3.16:8080/escm/login/auth,,140,ESCM-APP
+03/10/2017 11:31,519,Hit_the_portal_new,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-20,,true,,591832,20,20,null,,302,ESCM-APP
+03/10/2017 11:31,42227,540 /success.txt,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-1,text,false,,2206,20,20,http://detectportal.firefox.com:8080/success.txt,,0,ESCM-APP
+03/10/2017 11:31,42227,540 /success.txt,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-2,text,false,,2206,20,20,http://detectportal.firefox.com:8080/success.txt,,0,ESCM-APP
+03/10/2017 11:31,42009,540 /success.txt,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-3,text,false,,2206,20,20,http://detectportal.firefox.com:8080/success.txt,,0,ESCM-APP
+03/10/2017 11:31,42012,540 /success.txt,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-4,text,false,,2206,20,20,http://detectportal.firefox.com:8080/success.txt,,0,ESCM-APP
+03/10/2017 11:31,42001,540 /success.txt,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-5,text,false,,2206,20,20,http://detectportal.firefox.com:8080/success.txt,,0,ESCM-APP
+03/10/2017 11:31,42008,540 /success.txt,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-6,text,false,,2206,20,20,http://detectportal.firefox.com:8080/success.txt,,0,ESCM-APP
+03/10/2017 11:31,42001,540 /success.txt,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-7,text,false,,2206,20,20,http://detectportal.firefox.com:8080/success.txt,,0,ESCM-APP
+03/10/2017 11:31,42000,540 /success.txt,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-8,text,false,,2206,20,20,http://detectportal.firefox.com:8080/success.txt,,0,ESCM-APP
+03/10/2017 11:31,42003,540 /success.txt,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-9,text,false,,2206,20,20,http://detectportal.firefox.com:8080/success.txt,,0,ESCM-APP
+03/10/2017 11:31,42004,540 /success.txt,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-10,text,false,,2206,20,20,http://detectportal.firefox.com:8080/success.txt,,0,ESCM-APP
+03/10/2017 11:31,42008,540 /success.txt,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-11,text,false,,2206,20,20,http://detectportal.firefox.com:8080/success.txt,,0,ESCM-APP
+03/10/2017 11:31,42008,540 /success.txt,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-12,text,false,,2206,20,20,http://detectportal.firefox.com:8080/success.txt,,0,ESCM-APP
+03/10/2017 11:31,42004,540 /success.txt,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-13,text,false,,2206,20,20,http://detectportal.firefox.com:8080/success.txt,,0,ESCM-APP
+03/10/2017 11:31,42000,540 /success.txt,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-14,text,false,,2206,20,20,http://detectportal.firefox.com:8080/success.txt,,0,ESCM-APP
+03/10/2017 11:31,42012,540 /success.txt,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-15,text,false,,2206,20,20,http://detectportal.firefox.com:8080/success.txt,,0,ESCM-APP
+03/10/2017 11:31,9302,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-6,text,true,,8383,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,755,ESCM-APP
+03/10/2017 11:31,12880,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-2,text,true,,8383,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,3226,ESCM-APP
+03/10/2017 11:31,13053,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,8383,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,3250,ESCM-APP
+03/10/2017 11:31,10963,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-5,text,true,,8383,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,827,ESCM-APP
+03/10/2017 11:31,42014,540 /success.txt,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-16,text,false,,2206,20,20,http://detectportal.firefox.com:8080/success.txt,,0,ESCM-APP
+03/10/2017 11:31,12688,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-4,text,true,,9602,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,1884,ESCM-APP
+03/10/2017 11:31,14048,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-3,text,true,,8383,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,2780,ESCM-APP
+03/10/2017 11:31,42018,540 /success.txt,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-17,text,false,,2206,20,20,http://detectportal.firefox.com:8080/success.txt,,0,ESCM-APP
+03/10/2017 11:31,42004,540 /success.txt,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-18,text,false,,2206,20,20,http://detectportal.firefox.com:8080/success.txt,,0,ESCM-APP
+03/10/2017 11:32,8852,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-10,text,true,,9619,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,795,ESCM-APP
+03/10/2017 11:31,42005,540 /success.txt,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-19,text,false,,2206,20,20,http://detectportal.firefox.com:8080/success.txt,,0,ESCM-APP
+03/10/2017 11:32,12316,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-7,text,true,,9623,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,506,ESCM-APP
+03/10/2017 11:32,11726,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-8,text,true,,9623,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,1631,ESCM-APP
+03/10/2017 11:31,42006,540 /success.txt,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-20,text,false,,2206,20,20,http://detectportal.firefox.com:8080/success.txt,,0,ESCM-APP
+03/10/2017 11:32,11259,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-9,text,true,,9619,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,924,ESCM-APP
+03/10/2017 11:32,4816,543 /escm/,200,OK,Thread Group 1-1,text,true,,8778,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,37,ESCM-APP
+03/10/2017 11:32,9622,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-11,text,true,,9619,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,848,ESCM-APP
+03/10/2017 11:32,5686,543 /escm/,200,OK,Thread Group 1-6,text,true,,8778,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,38,ESCM-APP
+03/10/2017 11:32,5297,543 /escm/,200,OK,Thread Group 1-5,text,true,,8778,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,45,ESCM-APP
+03/10/2017 11:32,6513,543 /escm/,200,OK,Thread Group 1-2,text,true,,8778,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,120,ESCM-APP
+03/10/2017 11:32,9939,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-12,text,true,,9619,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,817,ESCM-APP
+03/10/2017 11:32,5642,543 /escm/,200,OK,Thread Group 1-4,text,true,,8781,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,35,ESCM-APP
+03/10/2017 11:32,6146,543 /escm/,200,OK,Thread Group 1-3,text,true,,8778,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,42,ESCM-APP
+03/10/2017 11:32,10212,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-13,text,true,,9623,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,455,ESCM-APP
+03/10/2017 11:32,9493,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-15,text,true,,9619,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,366,ESCM-APP
+03/10/2017 11:32,10526,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-14,text,true,,9619,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,428,ESCM-APP
+03/10/2017 11:32,9151,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-16,text,true,,9619,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,400,ESCM-APP
+03/10/2017 11:32,5653,545 /escm/dashboard/index,200,OK,Thread Group 1-1,text,true,,8618,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,17,ESCM-APP
+03/10/2017 11:32,9247,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-17,text,true,,9624,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,380,ESCM-APP
+03/10/2017 11:32,5438,545 /escm/dashboard/index,200,OK,Thread Group 1-6,text,true,,8618,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,14,ESCM-APP
+03/10/2017 11:32,5195,545 /escm/dashboard/index,200,OK,Thread Group 1-5,text,true,,8618,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,22,ESCM-APP
+03/10/2017 11:32,5131,545 /escm/dashboard/index,200,OK,Thread Group 1-2,text,true,,8618,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,16,ESCM-APP
+03/10/2017 11:32,4915,545 /escm/dashboard/index,200,OK,Thread Group 1-4,text,true,,8625,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,18,ESCM-APP
+03/10/2017 11:32,8590,543 /escm/,200,OK,Thread Group 1-10,text,true,,8808,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,29,ESCM-APP
+03/10/2017 11:32,4567,545 /escm/dashboard/index,200,OK,Thread Group 1-3,text,true,,8621,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,27,ESCM-APP
+03/10/2017 11:32,9567,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-18,text,true,,9619,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,473,ESCM-APP
+03/10/2017 11:32,9084,543 /escm/,200,OK,Thread Group 1-7,text,true,,8808,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,37,ESCM-APP
+03/10/2017 11:32,9320,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-19,text,true,,9623,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,371,ESCM-APP
+03/10/2017 11:32,9170,543 /escm/,200,OK,Thread Group 1-8,text,true,,8808,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,36,ESCM-APP
+03/10/2017 11:32,8965,541 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-20,text,true,,9623,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,355,ESCM-APP
+03/10/2017 11:32,8502,543 /escm/,200,OK,Thread Group 1-11,text,true,,8808,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,33,ESCM-APP
+03/10/2017 11:32,8989,543 /escm/,200,OK,Thread Group 1-9,text,true,,8808,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,39,ESCM-APP
+03/10/2017 11:32,7900,543 /escm/,200,OK,Thread Group 1-12,text,true,,8812,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,28,ESCM-APP
+03/10/2017 11:32,7299,543 /escm/,200,OK,Thread Group 1-13,text,true,,8811,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,30,ESCM-APP
+03/10/2017 11:32,4713,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-1,text,true,,8450,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,4709,ESCM-APP
+03/10/2017 11:32,4771,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-5,text,true,,8453,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,4766,ESCM-APP
+03/10/2017 11:32,4811,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-6,text,true,,8453,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,4806,ESCM-APP
+03/10/2017 11:32,5168,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-2,text,true,,8453,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,5161,ESCM-APP
+03/10/2017 11:31,69253,SP_user_login_46_new,,"Number of samples in transaction : 55, number of failing samples : 1",Thread Group 1-5,,false,,345774,20,20,null,,6424,ESCM-APP
+03/10/2017 11:31,68193,SP_user_login_46_new,,"Number of samples in transaction : 55, number of failing samples : 1",Thread Group 1-6,,false,,345774,20,20,null,,6364,ESCM-APP
+03/10/2017 11:31,71875,SP_user_login_46_new,,"Number of samples in transaction : 55, number of failing samples : 1",Thread Group 1-1,,false,,345771,20,20,null,,9195,ESCM-APP
+03/10/2017 11:32,5193,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-4,text,true,,8457,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,5172,ESCM-APP
+03/10/2017 11:32,5455,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-3,text,true,,8456,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,5442,ESCM-APP
+03/10/2017 11:32,8637,543 /escm/,200,OK,Thread Group 1-15,text,true,,8809,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,29,ESCM-APP
+03/10/2017 11:32,8676,543 /escm/,200,OK,Thread Group 1-14,text,true,,8809,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,30,ESCM-APP
+03/10/2017 11:31,73602,SP_user_login_46_new,,"Number of samples in transaction : 55, number of failing samples : 1",Thread Group 1-2,,false,,345774,20,20,null,,10012,ESCM-APP
+03/10/2017 11:31,72148,SP_user_login_46_new,,"Number of samples in transaction : 55, number of failing samples : 1",Thread Group 1-4,,false,,347007,20,20,null,,8628,ESCM-APP
+03/10/2017 11:31,73579,SP_user_login_46_new,,"Number of samples in transaction : 55, number of failing samples : 1",Thread Group 1-3,,false,,345780,20,20,null,,9401,ESCM-APP
+03/10/2017 11:32,9371,543 /escm/,200,OK,Thread Group 1-17,text,true,,8812,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,29,ESCM-APP
+03/10/2017 11:32,10473,543 /escm/,200,OK,Thread Group 1-16,text,true,,8809,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,36,ESCM-APP
+03/10/2017 11:32,10161,543 /escm/,200,OK,Thread Group 1-19,text,true,,8812,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,32,ESCM-APP
+03/10/2017 11:32,11277,545 /escm/dashboard/index,200,OK,Thread Group 1-10,text,true,,8652,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,16,ESCM-APP
+03/10/2017 11:32,11389,543 /escm/,200,OK,Thread Group 1-18,text,true,,8815,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,63,ESCM-APP
+03/10/2017 11:32,10439,543 /escm/,200,OK,Thread Group 1-20,text,true,,8808,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,33,ESCM-APP
+03/10/2017 11:32,9680,545 /escm/dashboard/index,200,OK,Thread Group 1-12,text,true,,8648,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,15,ESCM-APP
+03/10/2017 11:32,10541,545 /escm/dashboard/index,200,OK,Thread Group 1-11,text,true,,8648,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,14,ESCM-APP
+03/10/2017 11:32,11440,545 /escm/dashboard/index,200,OK,Thread Group 1-7,text,true,,8652,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,15,ESCM-APP
+03/10/2017 11:32,11709,545 /escm/dashboard/index,200,OK,Thread Group 1-8,text,true,,8652,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,12,ESCM-APP
+03/10/2017 11:32,11307,545 /escm/dashboard/index,200,OK,Thread Group 1-9,text,true,,8648,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,13,ESCM-APP
+03/10/2017 11:32,5684,545 /escm/dashboard/index,200,OK,Thread Group 1-17,text,true,,8606,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,155,ESCM-APP
+03/10/2017 11:32,11386,545 /escm/dashboard/index,200,OK,Thread Group 1-13,text,true,,8648,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,13,ESCM-APP
+03/10/2017 11:32,9360,545 /escm/dashboard/index,200,OK,Thread Group 1-15,text,true,,8648,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,118,ESCM-APP
+03/10/2017 11:32,9436,545 /escm/dashboard/index,200,OK,Thread Group 1-14,text,true,,8648,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,58,ESCM-APP
+03/10/2017 11:32,8689,545 /escm/dashboard/index,200,OK,Thread Group 1-16,text,true,,7436,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,203,ESCM-APP
+03/10/2017 11:32,13214,777 /escm/order/index,200,OK,Thread Group 1-1,text,true,,22214,20,20,http://10.10.3.16:8080/escm/order/list,,1321,ESCM-APP
+03/10/2017 11:32,10841,777 /escm/order/index,200,OK,Thread Group 1-3,text,true,,22214,20,20,http://10.10.3.16:8080/escm/order/list,,16,ESCM-APP
+03/10/2017 11:32,13225,777 /escm/order/index,200,OK,Thread Group 1-6,text,true,,22204,20,20,http://10.10.3.16:8080/escm/order/list,,1189,ESCM-APP
+03/10/2017 11:32,11423,777 /escm/order/index,200,OK,Thread Group 1-4,text,true,,22219,20,20,http://10.10.3.16:8080/escm/order/list,,52,ESCM-APP
+03/10/2017 11:32,8204,545 /escm/dashboard/index,200,OK,Thread Group 1-19,text,true,,8648,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,15,ESCM-APP
+03/10/2017 11:32,5487,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-17,text,true,,8438,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,5486,ESCM-APP
+03/10/2017 11:32,13222,777 /escm/order/index,200,OK,Thread Group 1-2,text,true,,22214,20,20,http://10.10.3.16:8080/escm/order/list,,30,ESCM-APP
+03/10/2017 11:32,15430,777 /escm/order/index,200,OK,Thread Group 1-5,text,true,,22214,20,20,http://10.10.3.16:8080/escm/order/list,,1188,ESCM-APP
+03/10/2017 11:31,72787,SP_user_login_46_new,,"Number of samples in transaction : 55, number of failing samples : 1",Thread Group 1-17,,false,,347022,20,20,null,,6872,ESCM-APP
+03/10/2017 11:32,8493,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-7,text,true,,8480,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,8485,ESCM-APP
+03/10/2017 11:32,8550,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-11,text,true,,8480,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,8547,ESCM-APP
+03/10/2017 11:32,9465,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-10,text,true,,8480,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,9460,ESCM-APP
+03/10/2017 11:32,9044,545 /escm/dashboard/index,200,OK,Thread Group 1-20,text,true,,8648,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,14,ESCM-APP
+03/10/2017 11:31,79842,SP_user_login_46_new,,"Number of samples in transaction : 55, number of failing samples : 1",Thread Group 1-11,,false,,347097,20,20,null,,9932,ESCM-APP
+03/10/2017 11:31,80816,SP_user_login_46_new,,"Number of samples in transaction : 55, number of failing samples : 1",Thread Group 1-10,,false,,347101,20,20,null,,10744,ESCM-APP
+03/10/2017 11:31,84031,SP_user_login_46_new,,"Number of samples in transaction : 55, number of failing samples : 1",Thread Group 1-7,,false,,347105,20,20,null,,9527,ESCM-APP
+03/10/2017 11:32,10090,545 /escm/dashboard/index,200,OK,Thread Group 1-18,text,true,,8648,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,14,ESCM-APP
+03/10/2017 11:32,8736,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-9,text,true,,8480,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,8733,ESCM-APP
+03/10/2017 11:31,83017,SP_user_login_46_new,,"Number of samples in transaction : 55, number of failing samples : 1",Thread Group 1-9,,false,,347097,20,20,null,,10292,ESCM-APP
+03/10/2017 11:32,10473,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-12,text,true,,8480,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,10422,ESCM-APP
+03/10/2017 11:32,9628,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-8,text,true,,8480,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,9624,ESCM-APP
+03/10/2017 11:31,80579,SP_user_login_46_new,,"Number of samples in transaction : 55, number of failing samples : 1",Thread Group 1-12,,false,,347101,20,20,null,,11723,ESCM-APP
+03/10/2017 11:32,8823,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-13,text,true,,8480,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,8807,ESCM-APP
+03/10/2017 11:31,84849,SP_user_login_46_new,,"Number of samples in transaction : 55, number of failing samples : 1",Thread Group 1-8,,false,,347105,20,20,null,,11718,ESCM-APP
+03/10/2017 11:31,80253,SP_user_login_46_new,,"Number of samples in transaction : 55, number of failing samples : 1",Thread Group 1-13,,false,,347104,20,20,null,,9700,ESCM-APP
+03/10/2017 11:32,9920,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-15,text,true,,8480,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,9916,ESCM-APP
+03/10/2017 11:32,10113,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-14,text,true,,8480,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,10110,ESCM-APP
+03/10/2017 11:31,80030,SP_user_login_46_new,,"Number of samples in transaction : 55, number of failing samples : 1",Thread Group 1-15,,false,,347098,20,20,null,,10870,ESCM-APP
+03/10/2017 11:31,81275,SP_user_login_46_new,,"Number of samples in transaction : 55, number of failing samples : 1",Thread Group 1-14,,false,,347098,20,20,null,,11004,ESCM-APP
+03/10/2017 11:32,7545,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-19,text,true,,8441,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,7516,ESCM-APP
+03/10/2017 11:32,8952,779 /escm/order/list,200,OK,Thread Group 1-6,text,true,,22054,20,20,http://10.10.3.16:8080/escm/order/list,,8942,ESCM-APP
+03/10/2017 11:32,29,783 /escm/images/sidebar-bg.jpg,200,OK,Thread Group 1-6,bin,true,,1703,20,20,http://10.10.3.16:8080/escm/images/sidebar-bg.jpg,,29,ESCM-APP
+03/10/2017 11:32,9333,779 /escm/order/list,200,OK,Thread Group 1-3,text,true,,22059,20,20,http://10.10.3.16:8080/escm/order/list,,9324,ESCM-APP
+03/10/2017 11:32,5,783 /escm/images/sidebar-bg.jpg,200,OK,Thread Group 1-3,bin,true,,1703,20,20,http://10.10.3.16:8080/escm/images/sidebar-bg.jpg,,5,ESCM-APP
+03/10/2017 11:32,10461,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-16,text,true,,8480,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,10460,ESCM-APP
+03/10/2017 11:32,9400,779 /escm/order/list,200,OK,Thread Group 1-4,text,true,,22064,20,20,http://10.10.3.16:8080/escm/order/list,,9395,ESCM-APP
+03/10/2017 11:32,5,783 /escm/images/sidebar-bg.jpg,200,OK,Thread Group 1-4,bin,true,,1703,20,20,http://10.10.3.16:8080/escm/images/sidebar-bg.jpg,,5,ESCM-APP
+03/10/2017 11:31,77873,SP_user_login_46_new,,"Number of samples in transaction : 55, number of failing samples : 1",Thread Group 1-19,,false,,347066,20,20,null,,8404,ESCM-APP
+03/10/2017 11:32,6599,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-20,text,true,,8436,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,6592,ESCM-APP
+03/10/2017 11:31,81880,SP_user_login_46_new,,"Number of samples in transaction : 55, number of failing samples : 1",Thread Group 1-16,,false,,345886,20,20,null,,12010,ESCM-APP
+03/10/2017 11:32,10972,779 /escm/order/list,200,OK,Thread Group 1-1,text,true,,22059,20,20,http://10.10.3.16:8080/escm/order/list,,10963,ESCM-APP
+03/10/2017 11:32,6,783 /escm/images/sidebar-bg.jpg,200,OK,Thread Group 1-1,bin,true,,1703,20,20,http://10.10.3.16:8080/escm/images/sidebar-bg.jpg,,6,ESCM-APP
+03/10/2017 11:32,7526,546 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-18,text,true,,8435,20,20,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,7520,ESCM-APP
+03/10/2017 11:31,78609,SP_user_login_46_new,,"Number of samples in transaction : 55, number of failing samples : 1",Thread Group 1-20,,false,,347057,20,20,null,,8401,ESCM-APP
+03/10/2017 11:31,81721,SP_user_login_46_new,,"Number of samples in transaction : 55, number of failing samples : 1",Thread Group 1-18,,false,,347059,20,20,null,,9057,ESCM-APP
+03/10/2017 11:32,11851,779 /escm/order/list,200,OK,Thread Group 1-2,text,true,,22054,20,20,http://10.10.3.16:8080/escm/order/list,,11845,ESCM-APP
+03/10/2017 11:32,7,783 /escm/images/sidebar-bg.jpg,200,OK,Thread Group 1-2,bin,true,,1703,20,20,http://10.10.3.16:8080/escm/images/sidebar-bg.jpg,,7,ESCM-APP
+03/10/2017 11:32,11648,777 /escm/order/index,200,OK,Thread Group 1-17,text,true,,22205,20,20,http://10.10.3.16:8080/escm/order/list,,19,ESCM-APP
+03/10/2017 11:32,13254,779 /escm/order/list,200,OK,Thread Group 1-5,text,true,,22059,20,20,http://10.10.3.16:8080/escm/order/list,,13249,ESCM-APP
+03/10/2017 11:32,11889,777 /escm/order/index,200,OK,Thread Group 1-10,text,true,,22203,20,20,http://10.10.3.16:8080/escm/order/list,,17,ESCM-APP
+03/10/2017 11:32,7,783 /escm/images/sidebar-bg.jpg,200,OK,Thread Group 1-5,bin,true,,1703,20,20,http://10.10.3.16:8080/escm/images/sidebar-bg.jpg,,7,ESCM-APP
+03/10/2017 11:32,11245,777 /escm/order/index,200,OK,Thread Group 1-9,text,true,,22205,20,20,http://10.10.3.16:8080/escm/order/list,,15,ESCM-APP
+03/10/2017 11:32,7101,785 /escm/order/showOrderDetail,200,OK,Thread Group 1-4,text,true,,22383,20,20,http://10.10.3.16:8080/escm/order/showOrderDetail,,7095,ESCM-APP
+03/10/2017 11:32,7756,785 /escm/order/showOrderDetail,200,OK,Thread Group 1-3,text,true,,22384,20,20,http://10.10.3.16:8080/escm/order/showOrderDetail,,7751,ESCM-APP
+03/10/2017 11:32,6067,785 /escm/order/showOrderDetail,200,OK,Thread Group 1-1,text,true,,22384,20,20,http://10.10.3.16:8080/escm/order/showOrderDetail,,6059,ESCM-APP
+03/10/2017 11:32,8025,785 /escm/order/showOrderDetail,200,OK,Thread Group 1-6,text,true,,22385,20,20,http://10.10.3.16:8080/escm/order/showOrderDetail,,8019,ESCM-APP
+03/10/2017 11:32,90,796 /escm/messages,200,OK,Thread Group 1-3,text,true,,461,20,20,http://10.10.3.16:8080/escm/messages,,89,ESCM-APP
+03/10/2017 11:32,147,796 /escm/messages,200,OK,Thread Group 1-6,text,true,,461,20,20,http://10.10.3.16:8080/escm/messages,,146,ESCM-APP
+03/10/2017 11:32,170,796 /escm/messages,200,OK,Thread Group 1-4,text,true,,461,20,20,http://10.10.3.16:8080/escm/messages,,168,ESCM-APP
+03/10/2017 11:32,92,796 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,20,20,http://10.10.3.16:8080/escm/messages,,92,ESCM-APP
+03/10/2017 11:32,57,797 /escm/recentItem,200,OK,Thread Group 1-4,text,true,,341,20,20,http://10.10.3.16:8080/escm/recentItem,,57,ESCM-APP
+03/10/2017 11:32,93,797 /escm/recentItem,200,OK,Thread Group 1-6,text,true,,341,20,20,http://10.10.3.16:8080/escm/recentItem,,92,ESCM-APP
+03/10/2017 11:32,74,797 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,20,20,http://10.10.3.16:8080/escm/recentItem,,74,ESCM-APP
+03/10/2017 11:32,103,797 /escm/recentItem,200,OK,Thread Group 1-3,text,true,,341,20,20,http://10.10.3.16:8080/escm/recentItem,,103,ESCM-APP
+03/10/2017 11:32,4262,785 /escm/order/showOrderDetail,200,OK,Thread Group 1-2,text,true,,22385,20,20,http://10.10.3.16:8080/escm/order/showOrderDetail,,4258,ESCM-APP
+03/10/2017 11:32,31112,List_orders_without_cache_4.6,200,"Number of samples in transaction : 27, number of failing samples : 0",Thread Group 1-6,,true,,226780,20,20,null,,19049,ESCM-APP
+03/10/2017 11:32,31112,List_orders_without_cache_4.6,200,"Number of samples in transaction : 27, number of failing samples : 0",Thread Group 1-1,,true,,226794,20,20,null,,19193,ESCM-APP
+03/10/2017 11:32,29264,List_orders_without_cache_4.6,200,"Number of samples in transaction : 27, number of failing samples : 0",Thread Group 1-4,,true,,226803,20,20,null,,17874,ESCM-APP
+03/10/2017 11:32,28732,List_orders_without_cache_4.6,200,"Number of samples in transaction : 27, number of failing samples : 0",Thread Group 1-3,,true,,226794,20,20,null,,17890,ESCM-APP
+03/10/2017 11:32,53,796 /escm/messages,200,OK,Thread Group 1-2,text,true,,461,20,20,http://10.10.3.16:8080/escm/messages,,53,ESCM-APP
+03/10/2017 11:32,22,797 /escm/recentItem,200,OK,Thread Group 1-2,text,true,,341,20,20,http://10.10.3.16:8080/escm/recentItem,,22,ESCM-APP
+03/10/2017 11:32,29738,List_orders_without_cache_4.6,200,"Number of samples in transaction : 27, number of failing samples : 0",Thread Group 1-2,,true,,226790,20,20,null,,16530,ESCM-APP
+03/10/2017 11:32,796,807 /escm/order/searchOrder,200,OK,Thread Group 1-6,text,true,,4268,20,20,http://10.10.3.16:8080/escm/order/searchOrder,,795,ESCM-APP
+03/10/2017 11:32,16,809 /escm/messages,200,OK,Thread Group 1-6,text,true,,461,20,20,http://10.10.3.16:8080/escm/messages,,16,ESCM-APP
+03/10/2017 11:32,879,807 /escm/order/searchOrder,200,OK,Thread Group 1-4,text,true,,4268,20,20,http://10.10.3.16:8080/escm/order/searchOrder,,878,ESCM-APP
+03/10/2017 11:32,84,810 /escm/recentItem,200,OK,Thread Group 1-6,text,true,,341,20,20,http://10.10.3.16:8080/escm/recentItem,,83,ESCM-APP
+03/10/2017 11:32,898,807 /escm/order/searchOrder,200,OK,Thread Group 1-1,text,true,,4268,20,20,http://10.10.3.16:8080/escm/order/searchOrder,,896,ESCM-APP
+03/10/2017 11:32,45,809 /escm/messages,200,OK,Thread Group 1-4,text,true,,461,20,20,http://10.10.3.16:8080/escm/messages,,45,ESCM-APP
+03/10/2017 11:32,12,810 /escm/recentItem,200,OK,Thread Group 1-4,text,true,,341,20,20,http://10.10.3.16:8080/escm/recentItem,,12,ESCM-APP
+03/10/2017 11:32,589,807 /escm/order/searchOrder,200,OK,Thread Group 1-2,text,true,,4268,20,20,http://10.10.3.16:8080/escm/order/searchOrder,,588,ESCM-APP
+03/10/2017 11:32,969,807 /escm/order/searchOrder,200,OK,Thread Group 1-3,text,true,,4268,20,20,http://10.10.3.16:8080/escm/order/searchOrder,,919,ESCM-APP
+03/10/2017 11:32,25,809 /escm/messages,200,OK,Thread Group 1-2,text,true,,461,20,20,http://10.10.3.16:8080/escm/messages,,24,ESCM-APP
+03/10/2017 11:32,92,809 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,20,20,http://10.10.3.16:8080/escm/messages,,91,ESCM-APP
+03/10/2017 11:32,37,809 /escm/messages,200,OK,Thread Group 1-3,text,true,,461,20,20,http://10.10.3.16:8080/escm/messages,,36,ESCM-APP
+03/10/2017 11:32,21,810 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,20,20,http://10.10.3.16:8080/escm/recentItem,,21,ESCM-APP
+03/10/2017 11:32,34,810 /escm/recentItem,200,OK,Thread Group 1-2,text,true,,341,20,20,http://10.10.3.16:8080/escm/recentItem,,34,ESCM-APP
+03/10/2017 11:32,18,810 /escm/recentItem,200,OK,Thread Group 1-3,text,true,,341,20,20,http://10.10.3.16:8080/escm/recentItem,,18,ESCM-APP
+03/10/2017 11:32,4502,785 /escm/order/showOrderDetail,200,OK,Thread Group 1-5,text,true,,22383,20,20,http://10.10.3.16:8080/escm/order/showOrderDetail,,4496,ESCM-APP
+03/10/2017 11:32,60,796 /escm/messages,200,OK,Thread Group 1-5,text,true,,461,20,20,http://10.10.3.16:8080/escm/messages,,57,ESCM-APP
+03/10/2017 11:32,127,797 /escm/recentItem,200,OK,Thread Group 1-5,text,true,,341,20,20,http://10.10.3.16:8080/escm/recentItem,,127,ESCM-APP
+03/10/2017 11:32,33816,List_orders_without_cache_4.6,200,"Number of samples in transaction : 27, number of failing samples : 0",Thread Group 1-5,,true,,226793,20,20,null,,19556,ESCM-APP
+03/10/2017 11:32,469,807 /escm/order/searchOrder,200,OK,Thread Group 1-5,text,true,,4268,20,20,http://10.10.3.16:8080/escm/order/searchOrder,,468,ESCM-APP
+03/10/2017 11:32,26,809 /escm/messages,200,OK,Thread Group 1-5,text,true,,461,20,20,http://10.10.3.16:8080/escm/messages,,24,ESCM-APP
+03/10/2017 11:32,11,810 /escm/recentItem,200,OK,Thread Group 1-5,text,true,,341,20,20,http://10.10.3.16:8080/escm/recentItem,,11,ESCM-APP
+03/10/2017 11:32,3004,808 /escm/order/showOrderDetail,200,OK,Thread Group 1-4,text,true,,22383,20,20,http://10.10.3.16:8080/escm/order/showOrderDetail,,2999,ESCM-APP
+03/10/2017 11:32,2980,808 /escm/order/showOrderDetail,200,OK,Thread Group 1-2,text,true,,22383,20,20,http://10.10.3.16:8080/escm/order/showOrderDetail,,2976,ESCM-APP
+03/10/2017 11:33,43,812 /escm/messages,200,OK,Thread Group 1-4,text,true,,461,20,20,http://10.10.3.16:8080/escm/messages,,43,ESCM-APP
+03/10/2017 11:33,16,813 /escm/recentItem,200,OK,Thread Group 1-4,text,true,,341,20,20,http://10.10.3.16:8080/escm/recentItem,,15,ESCM-APP
+03/10/2017 11:32,4056,order_search_by_offer_name_without_cache_4.6,200,"Number of samples in transaction : 9, number of failing samples : 0",Thread Group 1-4,,true,,47111,20,20,null,,4049,ESCM-APP
+03/10/2017 11:33,28,812 /escm/messages,200,OK,Thread Group 1-2,text,true,,461,19,19,http://10.10.3.16:8080/escm/messages,,26,ESCM-APP
+03/10/2017 11:33,12,813 /escm/recentItem,200,OK,Thread Group 1-2,text,true,,341,19,19,http://10.10.3.16:8080/escm/recentItem,,11,ESCM-APP
+03/10/2017 11:32,3709,order_search_by_offer_name_without_cache_4.6,200,"Number of samples in transaction : 9, number of failing samples : 0",Thread Group 1-2,,true,,47111,19,19,null,,3699,ESCM-APP
+03/10/2017 11:32,3206,808 /escm/order/showOrderDetail,200,OK,Thread Group 1-6,text,true,,22383,18,18,http://10.10.3.16:8080/escm/order/showOrderDetail,,3196,ESCM-APP
+03/10/2017 11:33,14,812 /escm/messages,200,OK,Thread Group 1-6,text,true,,461,18,18,http://10.10.3.16:8080/escm/messages,,13,ESCM-APP
+03/10/2017 11:33,21,813 /escm/recentItem,200,OK,Thread Group 1-6,text,true,,341,18,18,http://10.10.3.16:8080/escm/recentItem,,21,ESCM-APP
+03/10/2017 11:32,4190,order_search_by_offer_name_without_cache_4.6,200,"Number of samples in transaction : 9, number of failing samples : 0",Thread Group 1-6,,true,,47111,18,18,null,,4177,ESCM-APP
+03/10/2017 11:32,3459,808 /escm/order/showOrderDetail,200,OK,Thread Group 1-1,text,true,,22386,17,17,http://10.10.3.16:8080/escm/order/showOrderDetail,,3435,ESCM-APP
+03/10/2017 11:33,35,812 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,17,17,http://10.10.3.16:8080/escm/messages,,34,ESCM-APP
+03/10/2017 11:33,38,813 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,17,17,http://10.10.3.16:8080/escm/recentItem,,36,ESCM-APP
+03/10/2017 11:32,4592,order_search_by_offer_name_without_cache_4.6,200,"Number of samples in transaction : 9, number of failing samples : 0",Thread Group 1-1,,true,,47114,17,17,null,,4562,ESCM-APP
+03/10/2017 11:32,4088,808 /escm/order/showOrderDetail,200,OK,Thread Group 1-3,text,true,,22383,16,16,http://10.10.3.16:8080/escm/order/showOrderDetail,,4080,ESCM-APP
+03/10/2017 11:33,85,812 /escm/messages,200,OK,Thread Group 1-3,text,true,,461,16,16,http://10.10.3.16:8080/escm/messages,,85,ESCM-APP
+03/10/2017 11:33,90,813 /escm/recentItem,200,OK,Thread Group 1-3,text,true,,341,16,16,http://10.10.3.16:8080/escm/recentItem,,90,ESCM-APP
+03/10/2017 11:32,5323,order_search_by_offer_name_without_cache_4.6,200,"Number of samples in transaction : 9, number of failing samples : 0",Thread Group 1-3,,true,,47111,16,16,null,,5263,ESCM-APP
+03/10/2017 11:32,20122,777 /escm/order/index,200,OK,Thread Group 1-11,text,true,,22235,15,15,http://10.10.3.16:8080/escm/order/list,,15,ESCM-APP
+03/10/2017 11:32,20396,777 /escm/order/index,200,OK,Thread Group 1-7,text,true,,22235,15,15,http://10.10.3.16:8080/escm/order/list,,23,ESCM-APP
+03/10/2017 11:32,18816,777 /escm/order/index,200,OK,Thread Group 1-8,text,true,,22235,15,15,http://10.10.3.16:8080/escm/order/list,,12,ESCM-APP
+03/10/2017 11:33,3059,808 /escm/order/showOrderDetail,200,OK,Thread Group 1-5,text,true,,22384,15,15,http://10.10.3.16:8080/escm/order/showOrderDetail,,3054,ESCM-APP
+03/10/2017 11:33,11,812 /escm/messages,200,OK,Thread Group 1-5,text,true,,461,15,15,http://10.10.3.16:8080/escm/messages,,11,ESCM-APP
+03/10/2017 11:33,13,813 /escm/recentItem,200,OK,Thread Group 1-5,text,true,,341,15,15,http://10.10.3.16:8080/escm/recentItem,,10,ESCM-APP
+03/10/2017 11:32,3612,order_search_by_offer_name_without_cache_4.6,200,"Number of samples in transaction : 9, number of failing samples : 0",Thread Group 1-5,,true,,47112,15,15,null,,3601,ESCM-APP
+03/10/2017 11:32,19150,777 /escm/order/index,200,OK,Thread Group 1-12,text,true,,22235,14,14,http://10.10.3.16:8080/escm/order/list,,16,ESCM-APP
+03/10/2017 11:32,18828,777 /escm/order/index,200,OK,Thread Group 1-13,text,true,,22235,14,14,http://10.10.3.16:8080/escm/order/list,,12,ESCM-APP
+03/10/2017 11:32,15686,777 /escm/order/index,200,OK,Thread Group 1-19,text,true,,22208,14,14,http://10.10.3.16:8080/escm/order/list,,18,ESCM-APP
+03/10/2017 11:32,9925,779 /escm/order/list,200,OK,Thread Group 1-10,text,true,,22048,14,14,http://10.10.3.16:8080/escm/order/list,,9918,ESCM-APP
+03/10/2017 11:33,9,783 /escm/images/sidebar-bg.jpg,200,OK,Thread Group 1-10,bin,true,,1703,14,14,http://10.10.3.16:8080/escm/images/sidebar-bg.jpg,,9,ESCM-APP
+03/10/2017 11:32,14859,777 /escm/order/index,200,OK,Thread Group 1-16,text,true,,22235,14,14,http://10.10.3.16:8080/escm/order/list,,22,ESCM-APP
+03/10/2017 11:32,14213,777 /escm/order/index,200,OK,Thread Group 1-20,text,true,,22201,14,14,http://10.10.3.16:8080/escm/order/list,,65,ESCM-APP
+03/10/2017 11:32,12404,779 /escm/order/list,200,OK,Thread Group 1-17,text,true,,22050,14,14,http://10.10.3.16:8080/escm/order/list,,12400,ESCM-APP
+03/10/2017 11:33,8,783 /escm/images/sidebar-bg.jpg,200,OK,Thread Group 1-17,bin,true,,1703,14,14,http://10.10.3.16:8080/escm/images/sidebar-bg.jpg,,8,ESCM-APP
+03/10/2017 11:32,14509,777 /escm/order/index,200,OK,Thread Group 1-18,text,true,,22202,14,14,http://10.10.3.16:8080/escm/order/list,,52,ESCM-APP
+03/10/2017 11:32,19547,777 /escm/order/index,200,OK,Thread Group 1-15,text,true,,22235,14,14,http://10.10.3.16:8080/escm/order/list,,15,ESCM-APP
+03/10/2017 11:33,1837,785 /escm/order/showOrderDetail,200,OK,Thread Group 1-10,text,true,,22386,14,14,http://10.10.3.16:8080/escm/order/showOrderDetail,,1832,ESCM-APP
+03/10/2017 11:32,19434,777 /escm/order/index,200,OK,Thread Group 1-14,text,true,,22235,14,14,http://10.10.3.16:8080/escm/order/list,,25,ESCM-APP
+03/10/2017 11:33,33,796 /escm/messages,200,OK,Thread Group 1-10,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,29,ESCM-APP
+03/10/2017 11:33,18,797 /escm/recentItem,200,OK,Thread Group 1-10,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,17,ESCM-APP
+03/10/2017 11:32,23914,List_orders_without_cache_4.6,200,"Number of samples in transaction : 27, number of failing samples : 0",Thread Group 1-10,,true,,226774,14,14,null,,12024,ESCM-APP
+03/10/2017 11:32,11742,779 /escm/order/list,200,OK,Thread Group 1-9,text,true,,22050,14,14,http://10.10.3.16:8080/escm/order/list,,11728,ESCM-APP
+03/10/2017 11:33,4,783 /escm/images/sidebar-bg.jpg,200,OK,Thread Group 1-9,bin,true,,1703,14,14,http://10.10.3.16:8080/escm/images/sidebar-bg.jpg,,4,ESCM-APP
+03/10/2017 11:33,434,807 /escm/order/searchOrder,200,OK,Thread Group 1-10,text,true,,4268,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,434,ESCM-APP
+03/10/2017 11:33,16,809 /escm/messages,200,OK,Thread Group 1-10,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,15,ESCM-APP
+03/10/2017 11:33,16,810 /escm/recentItem,200,OK,Thread Group 1-10,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,15,ESCM-APP
+03/10/2017 11:33,1966,785 /escm/order/showOrderDetail,200,OK,Thread Group 1-17,text,true,,22382,14,14,http://10.10.3.16:8080/escm/order/showOrderDetail,,1954,ESCM-APP
+03/10/2017 11:33,14,796 /escm/messages,200,OK,Thread Group 1-17,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,13,ESCM-APP
+03/10/2017 11:33,17,797 /escm/recentItem,200,OK,Thread Group 1-17,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,16,ESCM-APP
+03/10/2017 11:32,26507,List_orders_without_cache_4.6,200,"Number of samples in transaction : 27, number of failing samples : 0",Thread Group 1-17,,true,,226774,14,14,null,,14858,ESCM-APP
+03/10/2017 11:33,714,807 /escm/order/searchOrder,200,OK,Thread Group 1-17,text,true,,4268,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,712,ESCM-APP
+03/10/2017 11:33,20,809 /escm/messages,200,OK,Thread Group 1-17,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,20,ESCM-APP
+03/10/2017 11:33,13,810 /escm/recentItem,200,OK,Thread Group 1-17,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,12,ESCM-APP
+03/10/2017 11:33,6194,779 /escm/order/list,200,OK,Thread Group 1-11,text,true,,22063,14,14,http://10.10.3.16:8080/escm/order/list,,6189,ESCM-APP
+03/10/2017 11:33,5,783 /escm/images/sidebar-bg.jpg,200,OK,Thread Group 1-11,bin,true,,1703,14,14,http://10.10.3.16:8080/escm/images/sidebar-bg.jpg,,5,ESCM-APP
+03/10/2017 11:33,2623,785 /escm/order/showOrderDetail,200,OK,Thread Group 1-9,text,true,,22384,14,14,http://10.10.3.16:8080/escm/order/showOrderDetail,,2618,ESCM-APP
+03/10/2017 11:33,15,796 /escm/messages,200,OK,Thread Group 1-9,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,14,ESCM-APP
+03/10/2017 11:33,13,797 /escm/recentItem,200,OK,Thread Group 1-9,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,12,ESCM-APP
+03/10/2017 11:32,25764,List_orders_without_cache_4.6,200,"Number of samples in transaction : 27, number of failing samples : 0",Thread Group 1-9,,true,,226776,14,14,null,,14511,ESCM-APP
+03/10/2017 11:33,221,807 /escm/order/searchOrder,200,OK,Thread Group 1-9,text,true,,4268,14,14,http://10.10.3.16:8080/escm/order/searchOrder,,220,ESCM-APP
+03/10/2017 11:33,16,809 /escm/messages,200,OK,Thread Group 1-9,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,15,ESCM-APP
+03/10/2017 11:33,11,810 /escm/recentItem,200,OK,Thread Group 1-9,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,11,ESCM-APP
+03/10/2017 11:33,5545,779 /escm/order/list,200,OK,Thread Group 1-20,text,true,,22046,14,14,http://10.10.3.16:8080/escm/order/list,,5523,ESCM-APP
+03/10/2017 11:33,9,783 /escm/images/sidebar-bg.jpg,200,OK,Thread Group 1-20,bin,true,,1703,14,14,http://10.10.3.16:8080/escm/images/sidebar-bg.jpg,,9,ESCM-APP
+03/10/2017 11:33,3241,808 /escm/order/showOrderDetail,200,OK,Thread Group 1-10,text,true,,22384,14,14,http://10.10.3.16:8080/escm/order/showOrderDetail,,3234,ESCM-APP
+03/10/2017 11:33,13,812 /escm/messages,200,OK,Thread Group 1-10,text,true,,461,14,14,http://10.10.3.16:8080/escm/messages,,12,ESCM-APP
+03/10/2017 11:33,12,813 /escm/recentItem,200,OK,Thread Group 1-10,text,true,,341,14,14,http://10.10.3.16:8080/escm/recentItem,,11,ESCM-APP
+03/10/2017 11:33,3751,order_search_by_offer_name_without_cache_4.6,200,"Number of samples in transaction : 9, number of failing samples : 0",Thread Group 1-10,,true,,47112,14,14,null,,3740,ESCM-APP
+03/10/2017 11:33,1839,808 /escm/order/showOrderDetail,200,OK,Thread Group 1-17,text,true,,22380,13,13,http://10.10.3.16:8080/escm/order/showOrderDetail,,1833,ESCM-APP
+03/10/2017 11:33,13,812 /escm/messages,200,OK,Thread Group 1-17,text,true,,461,13,13,http://10.10.3.16:8080/escm/messages,,13,ESCM-APP
+03/10/2017 11:33,16,813 /escm/recentItem,200,OK,Thread Group 1-17,text,true,,341,13,13,http://10.10.3.16:8080/escm/recentItem,,15,ESCM-APP
+03/10/2017 11:33,2637,order_search_by_offer_name_without_cache_4.6,200,"Number of samples in transaction : 9, number of failing samples : 0",Thread Group 1-17,,true,,47108,13,13,null,,2627,ESCM-APP
+03/10/2017 11:33,1804,785 /escm/order/showOrderDetail,200,OK,Thread Group 1-11,text,true,,22384,12,12,http://10.10.3.16:8080/escm/order/showOrderDetail,,1799,ESCM-APP
+03/10/2017 11:33,18,796 /escm/messages,200,OK,Thread Group 1-11,text,true,,461,12,12,http://10.10.3.16:8080/escm/messages,,18,ESCM-APP
+03/10/2017 11:33,23,797 /escm/recentItem,200,OK,Thread Group 1-11,text,true,,341,12,12,http://10.10.3.16:8080/escm/recentItem,,21,ESCM-APP
+03/10/2017 11:32,28295,List_orders_without_cache_4.6,200,"Number of samples in transaction : 27, number of failing samples : 0",Thread Group 1-11,,true,,226819,12,12,null,,8172,ESCM-APP
+03/10/2017 11:33,249,807 /escm/order/searchOrder,200,OK,Thread Group 1-11,text,true,,4268,12,12,http://10.10.3.16:8080/escm/order/searchOrder,,248,ESCM-APP
+03/10/2017 11:33,31,809 /escm/messages,200,OK,Thread Group 1-11,text,true,,461,12,12,http://10.10.3.16:8080/escm/messages,,31,ESCM-APP
+03/10/2017 11:33,12,810 /escm/recentItem,200,OK,Thread Group 1-11,text,true,,341,12,12,http://10.10.3.16:8080/escm/recentItem,,12,ESCM-APP
+03/10/2017 11:33,7010,779 /escm/order/list,200,OK,Thread Group 1-19,text,true,,22053,12,12,http://10.10.3.16:8080/escm/order/list,,7004,ESCM-APP
+03/10/2017 11:33,4,783 /escm/images/sidebar-bg.jpg,200,OK,Thread Group 1-19,bin,true,,1703,12,12,http://10.10.3.16:8080/escm/images/sidebar-bg.jpg,,4,ESCM-APP
+03/10/2017 11:33,8384,779 /escm/order/list,200,OK,Thread Group 1-7,text,true,,22080,12,12,http://10.10.3.16:8080/escm/order/list,,8380,ESCM-APP
+03/10/2017 11:33,5,783 /escm/images/sidebar-bg.jpg,200,OK,Thread Group 1-7,bin,true,,1703,12,12,http://10.10.3.16:8080/escm/images/sidebar-bg.jpg,,5,ESCM-APP
+03/10/2017 11:33,2138,808 /escm/order/showOrderDetail,200,OK,Thread Group 1-9,text,true,,22385,12,12,http://10.10.3.16:8080/escm/order/showOrderDetail,,2131,ESCM-APP
+03/10/2017 11:33,24,812 /escm/messages,200,OK,Thread Group 1-9,text,true,,461,12,12,http://10.10.3.16:8080/escm/messages,,24,ESCM-APP
+03/10/2017 11:33,13,813 /escm/recentItem,200,OK,Thread Group 1-9,text,true,,341,12,12,http://10.10.3.16:8080/escm/recentItem,,12,ESCM-APP
+03/10/2017 11:33,2446,order_search_by_offer_name_without_cache_4.6,200,"Number of samples in transaction : 9, number of failing samples : 0",Thread Group 1-9,,true,,47113,12,12,null,,2436,ESCM-APP
+03/10/2017 11:33,2207,785 /escm/order/showOrderDetail,200,OK,Thread Group 1-20,text,true,,22383,11,11,http://10.10.3.16:8080/escm/order/showOrderDetail,,2161,ESCM-APP
+03/10/2017 11:33,9232,779 /escm/order/list,200,OK,Thread Group 1-8,text,true,,22080,11,11,http://10.10.3.16:8080/escm/order/list,,9226,ESCM-APP
+03/10/2017 11:33,4,783 /escm/images/sidebar-bg.jpg,200,OK,Thread Group 1-8,bin,true,,1703,11,11,http://10.10.3.16:8080/escm/images/sidebar-bg.jpg,,4,ESCM-APP
+03/10/2017 11:33,26,796 /escm/messages,200,OK,Thread Group 1-20,text,true,,461,11,11,http://10.10.3.16:8080/escm/messages,,25,ESCM-APP
+03/10/2017 11:33,12,797 /escm/recentItem,200,OK,Thread Group 1-20,text,true,,341,11,11,http://10.10.3.16:8080/escm/recentItem,,11,ESCM-APP
+03/10/2017 11:32,22242,List_orders_without_cache_4.6,200,"Number of samples in transaction : 27, number of failing samples : 0",Thread Group 1-20,,true,,226767,11,11,null,,8023,ESCM-APP
+03/10/2017 11:33,9265,779 /escm/order/list,200,OK,Thread Group 1-12,text,true,,22080,11,11,http://10.10.3.16:8080/escm/order/list,,9261,ESCM-APP
+03/10/2017 11:33,12,783 /escm/images/sidebar-bg.jpg,200,OK,Thread Group 1-12,bin,true,,1703,11,11,http://10.10.3.16:8080/escm/images/sidebar-bg.jpg,,12,ESCM-APP
+03/10/2017 11:33,6820,779 /escm/order/list,200,OK,Thread Group 1-18,text,true,,22047,11,11,http://10.10.3.16:8080/escm/order/list,,6812,ESCM-APP
+03/10/2017 11:33,332,807 /escm/order/searchOrder,200,OK,Thread Group 1-20,text,true,,4268,11,11,http://10.10.3.16:8080/escm/order/searchOrder,,332,ESCM-APP
+03/10/2017 11:33,16,783 /escm/images/sidebar-bg.jpg,200,OK,Thread Group 1-18,bin,true,,1703,11,11,http://10.10.3.16:8080/escm/images/sidebar-bg.jpg,,16,ESCM-APP
+03/10/2017 11:33,22,809 /escm/messages,200,OK,Thread Group 1-20,text,true,,461,11,11,http://10.10.3.16:8080/escm/messages,,22,ESCM-APP
+03/10/2017 11:33,20,810 /escm/recentItem,200,OK,Thread Group 1-20,text,true,,341,11,11,http://10.10.3.16:8080/escm/recentItem,,20,ESCM-APP
+03/10/2017 11:33,6946,779 /escm/order/list,200,OK,Thread Group 1-14,text,true,,22080,11,11,http://10.10.3.16:8080/escm/order/list,,6939,ESCM-APP
+03/10/2017 11:33,9649,779 /escm/order/list,200,OK,Thread Group 1-13,text,true,,22080,11,11,http://10.10.3.16:8080/escm/order/list,,9644,ESCM-APP
+03/10/2017 11:33,15,783 /escm/images/sidebar-bg.jpg,200,OK,Thread Group 1-14,bin,true,,1703,11,11,http://10.10.3.16:8080/escm/images/sidebar-bg.jpg,,14,ESCM-APP
+03/10/2017 11:33,9172,779 /escm/order/list,200,OK,Thread Group 1-16,text,true,,22080,11,11,http://10.10.3.16:8080/escm/order/list,,9153,ESCM-APP
+03/10/2017 11:33,12,783 /escm/images/sidebar-bg.jpg,200,OK,Thread Group 1-13,bin,true,,1703,11,11,http://10.10.3.16:8080/escm/images/sidebar-bg.jpg,,12,ESCM-APP
+03/10/2017 11:33,7390,779 /escm/order/list,200,OK,Thread Group 1-15,text,true,,22080,11,11,http://10.10.3.16:8080/escm/order/list,,7385,ESCM-APP
+03/10/2017 11:33,8,783 /escm/images/sidebar-bg.jpg,200,OK,Thread Group 1-15,bin,true,,1703,11,11,http://10.10.3.16:8080/escm/images/sidebar-bg.jpg,,8,ESCM-APP
+03/10/2017 11:33,21,783 /escm/images/sidebar-bg.jpg,200,OK,Thread Group 1-16,bin,true,,1703,11,11,http://10.10.3.16:8080/escm/images/sidebar-bg.jpg,,21,ESCM-APP
+03/10/2017 11:33,2602,785 /escm/order/showOrderDetail,200,OK,Thread Group 1-7,text,true,,22385,11,11,http://10.10.3.16:8080/escm/order/showOrderDetail,,2599,ESCM-APP
+03/10/2017 11:33,2870,785 /escm/order/showOrderDetail,200,OK,Thread Group 1-19,text,true,,22385,11,11,http://10.10.3.16:8080/escm/order/showOrderDetail,,2866,ESCM-APP
+03/10/2017 11:33,37,796 /escm/messages,200,OK,Thread Group 1-7,text,true,,461,11,11,http://10.10.3.16:8080/escm/messages,,37,ESCM-APP
+03/10/2017 11:33,16,797 /escm/recentItem,200,OK,Thread Group 1-7,text,true,,341,11,11,http://10.10.3.16:8080/escm/recentItem,,14,ESCM-APP
+03/10/2017 11:33,29,796 /escm/messages,200,OK,Thread Group 1-19,text,true,,461,11,11,http://10.10.3.16:8080/escm/messages,,28,ESCM-APP
+03/10/2017 11:33,35,797 /escm/recentItem,200,OK,Thread Group 1-19,text,true,,341,11,11,http://10.10.3.16:8080/escm/recentItem,,34,ESCM-APP
+03/10/2017 11:32,31706,List_orders_without_cache_4.6,200,"Number of samples in transaction : 27, number of failing samples : 0",Thread Group 1-7,,true,,226837,11,11,null,,11315,ESCM-APP
+03/10/2017 11:32,25800,List_orders_without_cache_4.6,200,"Number of samples in transaction : 27, number of failing samples : 0",Thread Group 1-19,,true,,226783,11,11,null,,10116,ESCM-APP
+03/10/2017 11:33,3361,808 /escm/order/showOrderDetail,200,OK,Thread Group 1-11,text,true,,22383,11,11,http://10.10.3.16:8080/escm/order/showOrderDetail,,3357,ESCM-APP
+03/10/2017 11:33,11,812 /escm/messages,200,OK,Thread Group 1-11,text,true,,461,11,11,http://10.10.3.16:8080/escm/messages,,11,ESCM-APP
+03/10/2017 11:33,11,813 /escm/recentItem,200,OK,Thread Group 1-11,text,true,,341,11,11,http://10.10.3.16:8080/escm/recentItem,,10,ESCM-APP
+03/10/2017 11:33,3710,order_search_by_offer_name_without_cache_4.6,200,"Number of samples in transaction : 9, number of failing samples : 0",Thread Group 1-11,,true,,47111,11,11,null,,3703,ESCM-APP
+03/10/2017 11:33,2479,807 /escm/order/searchOrder,200,OK,Thread Group 1-7,text,true,,4268,10,10,http://10.10.3.16:8080/escm/order/searchOrder,,2478,ESCM-APP
+03/10/2017 11:33,19,809 /escm/messages,200,OK,Thread Group 1-7,text,true,,461,10,10,http://10.10.3.16:8080/escm/messages,,19,ESCM-APP
+03/10/2017 11:33,28,810 /escm/recentItem,200,OK,Thread Group 1-7,text,true,,341,10,10,http://10.10.3.16:8080/escm/recentItem,,27,ESCM-APP
+03/10/2017 11:33,2802,807 /escm/order/searchOrder,200,OK,Thread Group 1-19,text,true,,4268,10,10,http://10.10.3.16:8080/escm/order/searchOrder,,2801,ESCM-APP
+03/10/2017 11:33,20,809 /escm/messages,200,OK,Thread Group 1-19,text,true,,461,10,10,http://10.10.3.16:8080/escm/messages,,19,ESCM-APP
+03/10/2017 11:33,10,810 /escm/recentItem,200,OK,Thread Group 1-19,text,true,,341,10,10,http://10.10.3.16:8080/escm/recentItem,,10,ESCM-APP
+03/10/2017 11:33,9006,785 /escm/order/showOrderDetail,200,OK,Thread Group 1-12,text,true,,22383,10,10,http://10.10.3.16:8080/escm/order/showOrderDetail,,8997,ESCM-APP
+03/10/2017 11:33,14,796 /escm/messages,200,OK,Thread Group 1-12,text,true,,461,10,10,http://10.10.3.16:8080/escm/messages,,14,ESCM-APP
+03/10/2017 11:33,13,797 /escm/recentItem,200,OK,Thread Group 1-12,text,true,,341,10,10,http://10.10.3.16:8080/escm/recentItem,,12,ESCM-APP
+03/10/2017 11:32,37775,List_orders_without_cache_4.6,200,"Number of samples in transaction : 27, number of failing samples : 0",Thread Group 1-12,,true,,226835,10,10,null,,18625,ESCM-APP
+03/10/2017 11:33,861,807 /escm/order/searchOrder,200,OK,Thread Group 1-12,text,true,,4268,10,10,http://10.10.3.16:8080/escm/order/searchOrder,,859,ESCM-APP
+03/10/2017 11:33,17,809 /escm/messages,200,OK,Thread Group 1-12,text,true,,461,10,10,http://10.10.3.16:8080/escm/messages,,17,ESCM-APP
+03/10/2017 11:33,12,810 /escm/recentItem,200,OK,Thread Group 1-12,text,true,,341,10,10,http://10.10.3.16:8080/escm/recentItem,,11,ESCM-APP
+03/10/2017 11:33,10692,785 /escm/order/showOrderDetail,200,OK,Thread Group 1-8,text,true,,22383,10,10,http://10.10.3.16:8080/escm/order/showOrderDetail,,10688,ESCM-APP
+03/10/2017 11:33,12,796 /escm/messages,200,OK,Thread Group 1-8,text,true,,461,10,10,http://10.10.3.16:8080/escm/messages,,12,ESCM-APP
+03/10/2017 11:33,12,797 /escm/recentItem,200,OK,Thread Group 1-8,text,true,,341,10,10,http://10.10.3.16:8080/escm/recentItem,,12,ESCM-APP
+03/10/2017 11:32,38911,List_orders_without_cache_4.6,200,"Number of samples in transaction : 27, number of failing samples : 0",Thread Group 1-8,,true,,226835,10,10,null,,20091,ESCM-APP
+03/10/2017 11:33,10709,808 /escm/order/showOrderDetail,200,OK,Thread Group 1-20,text,true,,22385,10,10,http://10.10.3.16:8080/escm/order/showOrderDetail,,10706,ESCM-APP
+03/10/2017 11:33,10611,785 /escm/order/showOrderDetail,200,OK,Thread Group 1-18,text,true,,22385,10,10,http://10.10.3.16:8080/escm/order/showOrderDetail,,10607,ESCM-APP
+03/10/2017 11:33,15,812 /escm/messages,200,OK,Thread Group 1-20,text,true,,461,10,10,http://10.10.3.16:8080/escm/messages,,14,ESCM-APP
+03/10/2017 11:33,33,813 /escm/recentItem,200,OK,Thread Group 1-20,text,true,,341,10,10,http://10.10.3.16:8080/escm/recentItem,,32,ESCM-APP
+03/10/2017 11:33,11153,order_search_by_offer_name_without_cache_4.6,200,"Number of samples in transaction : 9, number of failing samples : 0",Thread Group 1-20,,true,,47113,10,10,null,,11148,ESCM-APP
+03/10/2017 11:33,475,807 /escm/order/searchOrder,200,OK,Thread Group 1-8,text,true,,4268,9,9,http://10.10.3.16:8080/escm/order/searchOrder,,474,ESCM-APP
+03/10/2017 11:33,16,796 /escm/messages,200,OK,Thread Group 1-18,text,true,,461,9,9,http://10.10.3.16:8080/escm/messages,,16,ESCM-APP
+03/10/2017 11:33,19,809 /escm/messages,200,OK,Thread Group 1-8,text,true,,461,9,9,http://10.10.3.16:8080/escm/messages,,19,ESCM-APP
+03/10/2017 11:33,30,797 /escm/recentItem,200,OK,Thread Group 1-18,text,true,,341,9,9,http://10.10.3.16:8080/escm/recentItem,,30,ESCM-APP
+03/10/2017 11:33,12,810 /escm/recentItem,200,OK,Thread Group 1-8,text,true,,341,9,9,http://10.10.3.16:8080/escm/recentItem,,12,ESCM-APP
+03/10/2017 11:32,32316,List_orders_without_cache_4.6,200,"Number of samples in transaction : 27, number of failing samples : 0",Thread Group 1-18,,true,,226771,9,9,null,,17843,ESCM-APP
+03/10/2017 11:33,10435,785 /escm/order/showOrderDetail,200,OK,Thread Group 1-13,text,true,,22384,9,9,http://10.10.3.16:8080/escm/order/showOrderDetail,,10426,ESCM-APP
+03/10/2017 11:33,10440,785 /escm/order/showOrderDetail,200,OK,Thread Group 1-16,text,true,,22382,9,9,http://10.10.3.16:8080/escm/order/showOrderDetail,,10432,ESCM-APP
+03/10/2017 11:33,39,796 /escm/messages,200,OK,Thread Group 1-13,text,true,,461,9,9,http://10.10.3.16:8080/escm/messages,,39,ESCM-APP
+03/10/2017 11:33,10636,785 /escm/order/showOrderDetail,200,OK,Thread Group 1-14,text,true,,22384,9,9,http://10.10.3.16:8080/escm/order/showOrderDetail,,10632,ESCM-APP
+03/10/2017 11:33,13,796 /escm/messages,200,OK,Thread Group 1-16,text,true,,461,9,9,http://10.10.3.16:8080/escm/messages,,13,ESCM-APP
+03/10/2017 11:33,16,797 /escm/recentItem,200,OK,Thread Group 1-13,text,true,,341,9,9,http://10.10.3.16:8080/escm/recentItem,,15,ESCM-APP
+03/10/2017 11:33,16,797 /escm/recentItem,200,OK,Thread Group 1-16,text,true,,341,9,9,http://10.10.3.16:8080/escm/recentItem,,15,ESCM-APP
+03/10/2017 11:33,443,807 /escm/order/searchOrder,200,OK,Thread Group 1-18,text,true,,4268,9,9,http://10.10.3.16:8080/escm/order/searchOrder,,442,ESCM-APP
+03/10/2017 11:33,13,796 /escm/messages,200,OK,Thread Group 1-14,text,true,,461,9,9,http://10.10.3.16:8080/escm/messages,,13,ESCM-APP
+03/10/2017 11:32,34747,List_orders_without_cache_4.6,200,"Number of samples in transaction : 27, number of failing samples : 0",Thread Group 1-16,,true,,226834,9,9,null,,19881,ESCM-APP
+03/10/2017 11:32,39419,List_orders_without_cache_4.6,200,"Number of samples in transaction : 27, number of failing samples : 0",Thread Group 1-13,,true,,226836,9,9,null,,20584,ESCM-APP
+03/10/2017 11:33,28,809 /escm/messages,200,OK,Thread Group 1-18,text,true,,461,9,9,http://10.10.3.16:8080/escm/messages,,28,ESCM-APP
+03/10/2017 11:33,21,797 /escm/recentItem,200,OK,Thread Group 1-14,text,true,,341,9,9,http://10.10.3.16:8080/escm/recentItem,,20,ESCM-APP
+03/10/2017 11:33,30,810 /escm/recentItem,200,OK,Thread Group 1-18,text,true,,341,9,9,http://10.10.3.16:8080/escm/recentItem,,29,ESCM-APP
+03/10/2017 11:33,10691,785 /escm/order/showOrderDetail,200,OK,Thread Group 1-15,text,true,,22383,9,9,http://10.10.3.16:8080/escm/order/showOrderDetail,,10686,ESCM-APP
+03/10/2017 11:32,37525,List_orders_without_cache_4.6,200,"Number of samples in transaction : 27, number of failing samples : 0",Thread Group 1-14,,true,,226836,9,9,null,,18103,ESCM-APP
+03/10/2017 11:33,7391,808 /escm/order/showOrderDetail,200,OK,Thread Group 1-19,text,true,,22382,9,9,http://10.10.3.16:8080/escm/order/showOrderDetail,,7389,ESCM-APP
+03/10/2017 11:33,7780,808 /escm/order/showOrderDetail,200,OK,Thread Group 1-7,text,true,,22384,9,9,http://10.10.3.16:8080/escm/order/showOrderDetail,,7777,ESCM-APP
+03/10/2017 11:33,12,796 /escm/messages,200,OK,Thread Group 1-15,text,true,,461,9,9,http://10.10.3.16:8080/escm/messages,,12,ESCM-APP
+03/10/2017 11:33,12,812 /escm/messages,200,OK,Thread Group 1-7,text,true,,461,9,9,http://10.10.3.16:8080/escm/messages,,12,ESCM-APP
+03/10/2017 11:33,13,812 /escm/messages,200,OK,Thread Group 1-19,text,true,,461,9,9,http://10.10.3.16:8080/escm/messages,,10,ESCM-APP
+03/10/2017 11:33,297,807 /escm/order/searchOrder,200,OK,Thread Group 1-13,text,true,,4268,9,9,http://10.10.3.16:8080/escm/order/searchOrder,,296,ESCM-APP
+03/10/2017 11:33,9,813 /escm/recentItem,200,OK,Thread Group 1-7,text,true,,341,9,9,http://10.10.3.16:8080/escm/recentItem,,9,ESCM-APP
+03/10/2017 11:33,10352,order_search_by_offer_name_without_cache_4.6,200,"Number of samples in transaction : 9, number of failing samples : 0",Thread Group 1-7,,true,,47112,9,9,null,,10347,ESCM-APP
+03/10/2017 11:33,31,797 /escm/recentItem,200,OK,Thread Group 1-15,text,true,,341,8,8,http://10.10.3.16:8080/escm/recentItem,,31,ESCM-APP
+03/10/2017 11:33,11,809 /escm/messages,200,OK,Thread Group 1-13,text,true,,461,8,8,http://10.10.3.16:8080/escm/messages,,11,ESCM-APP
+03/10/2017 11:33,21,813 /escm/recentItem,200,OK,Thread Group 1-19,text,true,,341,8,8,http://10.10.3.16:8080/escm/recentItem,,20,ESCM-APP
+03/10/2017 11:33,10349,order_search_by_offer_name_without_cache_4.6,200,"Number of samples in transaction : 9, number of failing samples : 0",Thread Group 1-19,,true,,47110,8,8,null,,10340,ESCM-APP
+03/10/2017 11:33,11,810 /escm/recentItem,200,OK,Thread Group 1-13,text,true,,341,7,7,http://10.10.3.16:8080/escm/recentItem,,10,ESCM-APP
+03/10/2017 11:32,37999,List_orders_without_cache_4.6,200,"Number of samples in transaction : 27, number of failing samples : 0",Thread Group 1-15,,true,,226835,7,7,null,,18456,ESCM-APP
+03/10/2017 11:33,385,807 /escm/order/searchOrder,200,OK,Thread Group 1-16,text,true,,4268,7,7,http://10.10.3.16:8080/escm/order/searchOrder,,383,ESCM-APP
+03/10/2017 11:33,13,809 /escm/messages,200,OK,Thread Group 1-16,text,true,,461,7,7,http://10.10.3.16:8080/escm/messages,,12,ESCM-APP
+03/10/2017 11:33,12,810 /escm/recentItem,200,OK,Thread Group 1-16,text,true,,341,7,7,http://10.10.3.16:8080/escm/recentItem,,11,ESCM-APP
+03/10/2017 11:33,283,807 /escm/order/searchOrder,200,OK,Thread Group 1-14,text,true,,4268,7,7,http://10.10.3.16:8080/escm/order/searchOrder,,281,ESCM-APP
+03/10/2017 11:33,10,809 /escm/messages,200,OK,Thread Group 1-14,text,true,,461,7,7,http://10.10.3.16:8080/escm/messages,,10,ESCM-APP
+03/10/2017 11:33,13,810 /escm/recentItem,200,OK,Thread Group 1-14,text,true,,341,7,7,http://10.10.3.16:8080/escm/recentItem,,12,ESCM-APP
+03/10/2017 11:33,231,807 /escm/order/searchOrder,200,OK,Thread Group 1-15,text,true,,4268,7,7,http://10.10.3.16:8080/escm/order/searchOrder,,230,ESCM-APP
+03/10/2017 11:33,12,809 /escm/messages,200,OK,Thread Group 1-15,text,true,,461,7,7,http://10.10.3.16:8080/escm/messages,,11,ESCM-APP
+03/10/2017 11:33,9,810 /escm/recentItem,200,OK,Thread Group 1-15,text,true,,341,7,7,http://10.10.3.16:8080/escm/recentItem,,8,ESCM-APP
+03/10/2017 11:33,2615,808 /escm/order/showOrderDetail,200,OK,Thread Group 1-12,text,true,,22386,7,7,http://10.10.3.16:8080/escm/order/showOrderDetail,,2612,ESCM-APP
+03/10/2017 11:33,9,812 /escm/messages,200,OK,Thread Group 1-12,text,true,,461,7,7,http://10.10.3.16:8080/escm/messages,,9,ESCM-APP
+03/10/2017 11:33,13,813 /escm/recentItem,200,OK,Thread Group 1-12,text,true,,341,7,7,http://10.10.3.16:8080/escm/recentItem,,13,ESCM-APP
+03/10/2017 11:33,3550,order_search_by_offer_name_without_cache_4.6,200,"Number of samples in transaction : 9, number of failing samples : 0",Thread Group 1-12,,true,,47114,7,7,null,,3544,ESCM-APP
+03/10/2017 11:33,2032,808 /escm/order/showOrderDetail,200,OK,Thread Group 1-8,text,true,,22383,6,6,http://10.10.3.16:8080/escm/order/showOrderDetail,,2027,ESCM-APP
+03/10/2017 11:33,14,812 /escm/messages,200,OK,Thread Group 1-8,text,true,,461,6,6,http://10.10.3.16:8080/escm/messages,,14,ESCM-APP
+03/10/2017 11:33,10,813 /escm/recentItem,200,OK,Thread Group 1-8,text,true,,341,6,6,http://10.10.3.16:8080/escm/recentItem,,10,ESCM-APP
+03/10/2017 11:33,2579,order_search_by_offer_name_without_cache_4.6,200,"Number of samples in transaction : 9, number of failing samples : 0",Thread Group 1-8,,true,,47111,6,6,null,,2573,ESCM-APP
+03/10/2017 11:33,1911,808 /escm/order/showOrderDetail,200,OK,Thread Group 1-18,text,true,,22383,5,5,http://10.10.3.16:8080/escm/order/showOrderDetail,,1905,ESCM-APP
+03/10/2017 11:33,10,812 /escm/messages,200,OK,Thread Group 1-18,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,,10,ESCM-APP
+03/10/2017 11:33,10,813 /escm/recentItem,200,OK,Thread Group 1-18,text,true,,341,5,5,http://10.10.3.16:8080/escm/recentItem,,10,ESCM-APP
+03/10/2017 11:33,2457,order_search_by_offer_name_without_cache_4.6,200,"Number of samples in transaction : 9, number of failing samples : 0",Thread Group 1-18,,true,,47111,5,5,null,,2449,ESCM-APP
+03/10/2017 11:33,1695,808 /escm/order/showOrderDetail,200,OK,Thread Group 1-13,text,true,,22384,4,4,http://10.10.3.16:8080/escm/order/showOrderDetail,,1690,ESCM-APP
+03/10/2017 11:33,11,812 /escm/messages,200,OK,Thread Group 1-13,text,true,,461,4,4,http://10.10.3.16:8080/escm/messages,,10,ESCM-APP
+03/10/2017 11:33,12,813 /escm/recentItem,200,OK,Thread Group 1-13,text,true,,341,4,4,http://10.10.3.16:8080/escm/recentItem,,12,ESCM-APP
+03/10/2017 11:33,2054,order_search_by_offer_name_without_cache_4.6,200,"Number of samples in transaction : 9, number of failing samples : 0",Thread Group 1-13,,true,,47112,4,4,null,,2045,ESCM-APP
+03/10/2017 11:33,1622,808 /escm/order/showOrderDetail,200,OK,Thread Group 1-14,text,true,,22385,3,3,http://10.10.3.16:8080/escm/order/showOrderDetail,,1616,ESCM-APP
+03/10/2017 11:33,11,812 /escm/messages,200,OK,Thread Group 1-14,text,true,,461,3,3,http://10.10.3.16:8080/escm/messages,,10,ESCM-APP
+03/10/2017 11:33,10,813 /escm/recentItem,200,OK,Thread Group 1-14,text,true,,341,3,3,http://10.10.3.16:8080/escm/recentItem,,10,ESCM-APP
+03/10/2017 11:33,1994,order_search_by_offer_name_without_cache_4.6,200,"Number of samples in transaction : 9, number of failing samples : 0",Thread Group 1-14,,true,,47113,3,3,null,,1984,ESCM-APP
+03/10/2017 11:33,1799,808 /escm/order/showOrderDetail,200,OK,Thread Group 1-16,text,true,,22383,2,2,http://10.10.3.16:8080/escm/order/showOrderDetail,,1792,ESCM-APP
+03/10/2017 11:33,11,812 /escm/messages,200,OK,Thread Group 1-16,text,true,,461,2,2,http://10.10.3.16:8080/escm/messages,,10,ESCM-APP
+03/10/2017 11:33,1636,808 /escm/order/showOrderDetail,200,OK,Thread Group 1-15,text,true,,22385,2,2,http://10.10.3.16:8080/escm/order/showOrderDetail,,1627,ESCM-APP
+03/10/2017 11:33,11,813 /escm/recentItem,200,OK,Thread Group 1-16,text,true,,341,2,2,http://10.10.3.16:8080/escm/recentItem,,11,ESCM-APP
+03/10/2017 11:33,2262,order_search_by_offer_name_without_cache_4.6,200,"Number of samples in transaction : 9, number of failing samples : 0",Thread Group 1-16,,true,,47111,2,2,null,,2250,ESCM-APP
+03/10/2017 11:33,10,812 /escm/messages,200,OK,Thread Group 1-15,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,,9,ESCM-APP
+03/10/2017 11:33,9,813 /escm/recentItem,200,OK,Thread Group 1-15,text,true,,341,1,1,http://10.10.3.16:8080/escm/recentItem,,9,ESCM-APP
+03/10/2017 11:33,1920,order_search_by_offer_name_without_cache_4.6,200,"Number of samples in transaction : 9, number of failing samples : 0",Thread Group 1-15,,true,,47113,1,1,null,,1907,ESCM-APP

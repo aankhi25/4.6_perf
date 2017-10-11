@@ -1,45 +1,6 @@
 timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency
-28/07/2017 18:46,1500,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,9562,2877,1,1,614
-28/07/2017 18:46,25,69 /escm/css/modern_ui/usageGraph/jquery.jqplot.min.css,200,OK,Thread Group 1-1,text,true,,1323,604,1,1,25
-28/07/2017 18:46,11,71 /escm/css/theme/jquery-ui-1.8.17.custom.css,200,OK,Thread Group 1-1,text,true,,6664,595,1,1,9
-28/07/2017 18:46,41,83 /escm/js/usageGraphJS/jquery.jqplot.min.js,200,OK,Thread Group 1-1,text,true,,43049,579,1,1,22
-28/07/2017 18:46,7,78 /escm/js/jquery-validate/jquery.metadata.js,200,OK,Thread Group 1-1,text,true,,1938,580,1,1,7
-28/07/2017 18:46,10,80 /escm/js/usageGraphJS/excanvas.min.js,200,OK,Thread Group 1-1,text,true,,8168,574,1,1,7
-28/07/2017 18:46,8,84 /escm/js/validator.js,200,OK,Thread Group 1-1,text,true,,5286,558,1,1,7
-28/07/2017 18:46,10,81 /escm/js/jquery-validate/jquery.validate.min.js,200,OK,Thread Group 1-1,text,true,,6824,584,1,1,7
-28/07/2017 18:46,9,85 /escm/js/usageGraphJS/jqplot.canvasTextRenderer.min.js,200,OK,Thread Group 1-1,text,true,,4130,591,1,1,7
-28/07/2017 18:46,6,82 /escm/js/jquery-validate/additional-methods.min.js,200,OK,Thread Group 1-1,text,true,,2753,587,1,1,6
-28/07/2017 18:46,13,77 /escm/js/jquery.tablesorter.js,200,OK,Thread Group 1-1,text,true,,8739,567,1,1,10
-28/07/2017 18:46,5,79 /escm/js/datatable.js,200,OK,Thread Group 1-1,text,true,,1607,558,1,1,5
-28/07/2017 18:46,9,72 /escm/css/logintypedialog.css,200,OK,Thread Group 1-1,text,true,,1287,581,1,1,9
-28/07/2017 18:46,20,76 /escm/js/jquery.bpopup.min.js,200,OK,Thread Group 1-1,text,true,,2280,566,1,1,19
-28/07/2017 18:46,7,75 /escm/css/jquery.alerts.css,200,OK,Thread Group 1-1,text,true,,1235,579,1,1,7
-28/07/2017 18:46,7,70 /escm/css/modern_ui/usageGraph/examples.css,200,OK,Thread Group 1-1,text,true,,1596,595,1,1,7
-28/07/2017 18:46,8,108 /escm/images/settings.png,200,OK,Thread Group 1-1,bin,true,,6116,562,1,1,8
-28/07/2017 18:46,6,107 /escm/images/orders.png,200,OK,Thread Group 1-1,bin,true,,2716,560,1,1,6
-28/07/2017 18:46,6,104 /escm/css/modern_ui/images/myCatalog.png,200,OK,Thread Group 1-1,bin,true,,3298,577,1,1,6
-28/07/2017 18:46,6,106 /escm/css/modern_ui/images/dropDown.png,200,OK,Thread Group 1-1,bin,true,,5895,576,1,1,6
-28/07/2017 18:46,5,105 /escm/css/modern_ui/images/CP_login.png,200,OK,Thread Group 1-1,bin,true,,6465,576,1,1,5
-28/07/2017 18:46,6,103 /escm/images/_loading.gif,200,OK,Thread Group 1-1,bin,true,,4474,562,1,1,6
-28/07/2017 18:46,5,101 /escm/images/myAccount.png,200,OK,Thread Group 1-1,bin,true,,6797,563,1,1,5
-28/07/2017 18:46,6,102 /escm/images/ticket/39x39ticket.png,200,OK,Thread Group 1-1,bin,true,,2725,572,1,1,6
-28/07/2017 18:46,6,100 /escm/css/modern_ui/images/myDashboard.png,200,OK,Thread Group 1-1,bin,true,,3239,579,1,1,6
-28/07/2017 18:46,76,87 /escm/js/jquery-1.5.2.min.js,200,OK,Thread Group 1-1,text,true,,65186,565,1,1,26
-28/07/2017 18:46,97,93 /escm/js/payment/jquery.dataTables.js,200,OK,Thread Group 1-1,text,true,,89133,574,1,1,25
-28/07/2017 18:46,8,99 /escm/images/favicon.ico,200,OK,Thread Group 1-1,bin,true,,191359,559,1,1,6
-28/07/2017 18:46,6,89 /escm/js/jquery.alerts.js,200,OK,Thread Group 1-1,text,true,,2581,562,1,1,5
-28/07/2017 18:46,15,97 /escm/js/jquery.flexslider.js,200,OK,Thread Group 1-1,text,true,,12247,566,1,1,11
-28/07/2017 18:46,75,74 /escm/css/merchant.css,200,OK,Thread Group 1-1,text,true,,64167,574,1,1,29
-28/07/2017 18:46,6,98 /escm/js/usageGraphJS/jqplot.dateAxisRenderer.min.js,200,OK,Thread Group 1-1,text,true,,3191,589,1,1,5
-28/07/2017 18:46,48,86 /escm/js/jquery-ui-1.8.17.custom.min.js,200,OK,Thread Group 1-1,text,true,,53407,576,1,1,21
-28/07/2017 18:46,6,92 /escm/js/usageGraphJS/jqplot.enhancedLegendRenderer.min.js,200,OK,Thread Group 1-1,text,true,,2017,595,1,1,6
-28/07/2017 18:46,7,94 /escm/js/escm_alert.js,200,OK,Thread Group 1-1,text,true,,2139,559,1,1,6
-28/07/2017 18:46,7,96 /escm/js/usageGraphJS/jqplot.highlighter.min.js,200,OK,Thread Group 1-1,text,true,,2518,584,1,1,6
-28/07/2017 18:46,6,73 /escm/css/jquery.ui.timepicker.css,200,OK,Thread Group 1-1,text,true,,2086,586,1,1,6
-28/07/2017 18:46,7,95 /escm/js/payment/jquery.tzCheckbox.js,200,OK,Thread Group 1-1,text,true,,1635,574,1,1,7
-28/07/2017 18:46,5,91 /escm/js/jquery.scrollToTop.min.js,200,OK,Thread Group 1-1,text,true,,774,571,1,1,5
-28/07/2017 18:46,6,90 /escm/js/usageGraphJS/jqplot.pointLabels.min.js,200,OK,Thread Group 1-1,text,true,,1988,584,1,1,6
-28/07/2017 18:46,6,88 /escm/js/usageGraphJS/jqplot.canvasAxisLabelRenderer.min.js,200,OK,Thread Group 1-1,text,true,,1301,596,1,1,6
-28/07/2017 18:46,6,109 /escm/css/theme/images/ui-icons_ededed_256x240.png,200,OK,Thread Group 1-1,bin,true,,4667,601,1,1,6
-28/07/2017 18:46,6,110 /escm/css/theme/images/ui-icons_ffffff_256x240.png,200,OK,Thread Group 1-1,bin,true,,4667,601,1,1,6
-28/07/2017 18:46,2135,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-1,,true,,653229,27118,1,1,1010
+11/10/2017 16:28,518,675 /escm/login/auth,200,OK,Thread Group 1-1,text,true,,5976,399,1,1,514
+11/10/2017 16:28,518,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5976,399,1,1,514
+11/10/2017 16:28,1306,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,9587,3306,1,1,362
+11/10/2017 16:28,749,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-1,text,true,,8441,646,1,1,745
+11/10/2017 16:28,2055,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,18028,3952,1,1,1107
