@@ -1,86 +1,15 @@
 timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,grpThreads,allThreads,URL,Latency
-23/07/2017 07:12,543,33 /escm/login/auth,200,OK,Thread Group 1-1,text,true,,5226,1,1,http://10.10.3.16:8080/escm/login/auth,540
-23/07/2017 07:12,16,34 /escm/css/theme/jquery-ui-1.8.17.custom.css,200,OK,Thread Group 1-1,text,true,,6664,1,1,http://10.10.3.16:8080/escm/css/theme/jquery-ui-1.8.17.custom.css,11
-23/07/2017 07:12,9,37 /escm/css/jquery.alerts.css,200,OK,Thread Group 1-1,text,true,,1235,1,1,http://10.10.3.16:8080/escm/css/jquery.alerts.css,9
-23/07/2017 07:12,8,39 /escm/css/jquery.ui.timepicker.css,200,OK,Thread Group 1-1,text,true,,2086,1,1,http://10.10.3.16:8080/escm/css/jquery.ui.timepicker.css,8
-23/07/2017 07:12,9,38 /escm/js/jquery.alerts.js,200,OK,Thread Group 1-1,text,true,,2581,1,1,http://10.10.3.16:8080/escm/js/jquery.alerts.js,8
-23/07/2017 07:12,12,36 /escm/css/logintypedialog.css,200,OK,Thread Group 1-1,text,true,,1287,1,1,http://10.10.3.16:8080/escm/css/logintypedialog.css,12
-23/07/2017 07:12,12,45 /escm/js/validator.js,200,OK,Thread Group 1-1,text,true,,5286,1,1,http://10.10.3.16:8080/escm/js/validator.js,9
-23/07/2017 07:12,74,35 /escm/css/merchant.css,200,OK,Thread Group 1-1,text,true,,64167,1,1,http://10.10.3.16:8080/escm/css/merchant.css,30
-23/07/2017 07:12,11,43 /escm/images/favicon.ico,200,OK,Thread Group 1-1,bin,true,,191359,1,1,http://10.10.3.16:8080/escm/images/favicon.ico,10
-23/07/2017 07:12,7,41 /escm/js/jquery.bpopup.min.js,200,OK,Thread Group 1-1,text,true,,2280,1,1,http://10.10.3.16:8080/escm/js/jquery.bpopup.min.js,6
-23/07/2017 07:12,3,40 /escmnull/css/merchant.css,404,Not Found,Thread Group 1-1,,false,,109,1,1,http://10.10.3.16:8080/escmnull/css/merchant.css,3
-23/07/2017 07:12,51,42 /escm/js/jquery-ui-1.8.17.custom.min.js,200,OK,Thread Group 1-1,text,true,,53407,1,1,http://10.10.3.16:8080/escm/js/jquery-ui-1.8.17.custom.min.js,21
-23/07/2017 07:12,68,44 /escm/js/jquery-1.5.2.min.js,200,OK,Thread Group 1-1,text,true,,65186,1,1,http://10.10.3.16:8080/escm/js/jquery-1.5.2.min.js,26
-23/07/2017 07:12,7,46 /escm/css/fonts/Roboto-Light.woff,200,OK,Thread Group 1-1,text,true,,73848,1,1,http://10.10.3.16:8080/escm/css/fonts/Roboto-Light.woff,7
-23/07/2017 07:12,8,47 /escm/css/fonts/Roboto-Bold.woff,200,OK,Thread Group 1-1,text,true,,71736,1,1,http://10.10.3.16:8080/escm/css/fonts/Roboto-Bold.woff,7
-23/07/2017 07:12,12,48 /escm/css/fonts/Roboto-Regular.ttf,200,OK,Thread Group 1-1,text,true,,145593,1,1,http://10.10.3.16:8080/escm/css/fonts/Roboto-Regular.ttf,11
-23/07/2017 07:12,850,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-1,,false,,692050,1,1,null,718
-23/07/2017 07:12,1243,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,9483,1,1,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,343
-23/07/2017 07:12,20,69 /escm/css/modern_ui/usageGraph/jquery.jqplot.min.css,200,OK,Thread Group 1-1,text,true,,1323,1,1,http://10.10.3.16:8080/escm/css/modern_ui/usageGraph/jquery.jqplot.min.css,19
-23/07/2017 07:12,12,71 /escm/css/theme/jquery-ui-1.8.17.custom.css,200,OK,Thread Group 1-1,text,true,,6664,1,1,http://10.10.3.16:8080/escm/css/theme/jquery-ui-1.8.17.custom.css,11
-23/07/2017 07:12,46,83 /escm/js/usageGraphJS/jquery.jqplot.min.js,200,OK,Thread Group 1-1,text,true,,43049,1,1,http://10.10.3.16:8080/escm/js/usageGraphJS/jquery.jqplot.min.js,25
-23/07/2017 07:12,7,78 /escm/js/jquery-validate/jquery.metadata.js,200,OK,Thread Group 1-1,text,true,,1938,1,1,http://10.10.3.16:8080/escm/js/jquery-validate/jquery.metadata.js,7
-23/07/2017 07:12,10,80 /escm/js/usageGraphJS/excanvas.min.js,200,OK,Thread Group 1-1,text,true,,8168,1,1,http://10.10.3.16:8080/escm/js/usageGraphJS/excanvas.min.js,7
-23/07/2017 07:12,10,84 /escm/js/validator.js,200,OK,Thread Group 1-1,text,true,,5286,1,1,http://10.10.3.16:8080/escm/js/validator.js,8
-23/07/2017 07:12,22,81 /escm/js/jquery-validate/jquery.validate.min.js,200,OK,Thread Group 1-1,text,true,,6824,1,1,http://10.10.3.16:8080/escm/js/jquery-validate/jquery.validate.min.js,8
-23/07/2017 07:12,11,85 /escm/js/usageGraphJS/jqplot.canvasTextRenderer.min.js,200,OK,Thread Group 1-1,text,true,,4130,1,1,http://10.10.3.16:8080/escm/js/usageGraphJS/jqplot.canvasTextRenderer.min.js,10
-23/07/2017 07:12,6,82 /escm/js/jquery-validate/additional-methods.min.js,200,OK,Thread Group 1-1,text,true,,2753,1,1,http://10.10.3.16:8080/escm/js/jquery-validate/additional-methods.min.js,6
-23/07/2017 07:12,17,77 /escm/js/jquery.tablesorter.js,200,OK,Thread Group 1-1,text,true,,8739,1,1,http://10.10.3.16:8080/escm/js/jquery.tablesorter.js,9
-23/07/2017 07:12,5,79 /escm/js/datatable.js,200,OK,Thread Group 1-1,text,true,,1607,1,1,http://10.10.3.16:8080/escm/js/datatable.js,5
-23/07/2017 07:12,5,72 /escm/css/logintypedialog.css,200,OK,Thread Group 1-1,text,true,,1287,1,1,http://10.10.3.16:8080/escm/css/logintypedialog.css,5
-23/07/2017 07:12,6,76 /escm/js/jquery.bpopup.min.js,200,OK,Thread Group 1-1,text,true,,2280,1,1,http://10.10.3.16:8080/escm/js/jquery.bpopup.min.js,5
-23/07/2017 07:12,5,75 /escm/css/jquery.alerts.css,200,OK,Thread Group 1-1,text,true,,1235,1,1,http://10.10.3.16:8080/escm/css/jquery.alerts.css,5
-23/07/2017 07:12,8,70 /escm/css/modern_ui/usageGraph/examples.css,200,OK,Thread Group 1-1,text,true,,1596,1,1,http://10.10.3.16:8080/escm/css/modern_ui/usageGraph/examples.css,7
-23/07/2017 07:12,5,108 /escm/images/settings.png,200,OK,Thread Group 1-1,bin,true,,6116,1,1,http://10.10.3.16:8080/escm/images/settings.png,5
-23/07/2017 07:12,5,107 /escm/images/orders.png,200,OK,Thread Group 1-1,bin,true,,2716,1,1,http://10.10.3.16:8080/escm/images/orders.png,5
-23/07/2017 07:12,8,104 /escm/css/modern_ui/images/myCatalog.png,200,OK,Thread Group 1-1,bin,true,,3298,1,1,http://10.10.3.16:8080/escm/css/modern_ui/images/myCatalog.png,8
-23/07/2017 07:12,6,106 /escm/css/modern_ui/images/dropDown.png,200,OK,Thread Group 1-1,bin,true,,5895,1,1,http://10.10.3.16:8080/escm/css/modern_ui/images/dropDown.png,6
-23/07/2017 07:12,6,105 /escm/css/modern_ui/images/CP_login.png,200,OK,Thread Group 1-1,bin,true,,6465,1,1,http://10.10.3.16:8080/escm/css/modern_ui/images/CP_login.png,6
-23/07/2017 07:12,5,103 /escm/images/_loading.gif,200,OK,Thread Group 1-1,bin,true,,4474,1,1,http://10.10.3.16:8080/escm/images/_loading.gif,5
-23/07/2017 07:12,9,101 /escm/images/myAccount.png,200,OK,Thread Group 1-1,bin,true,,6797,1,1,http://10.10.3.16:8080/escm/images/myAccount.png,9
-23/07/2017 07:12,8,102 /escm/images/ticket/39x39ticket.png,200,OK,Thread Group 1-1,bin,true,,2725,1,1,http://10.10.3.16:8080/escm/images/ticket/39x39ticket.png,8
-23/07/2017 07:12,6,100 /escm/css/modern_ui/images/myDashboard.png,200,OK,Thread Group 1-1,bin,true,,3239,1,1,http://10.10.3.16:8080/escm/css/modern_ui/images/myDashboard.png,6
-23/07/2017 07:12,77,87 /escm/js/jquery-1.5.2.min.js,200,OK,Thread Group 1-1,text,true,,65186,1,1,http://10.10.3.16:8080/escm/js/jquery-1.5.2.min.js,24
-23/07/2017 07:12,107,93 /escm/js/payment/jquery.dataTables.js,200,OK,Thread Group 1-1,text,true,,89133,1,1,http://10.10.3.16:8080/escm/js/payment/jquery.dataTables.js,26
-23/07/2017 07:12,5,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,125,1,1,http://10.10.3.16:8080/escm/images/favicon.ico,0
-23/07/2017 07:12,6,89 /escm/js/jquery.alerts.js,200,OK,Thread Group 1-1,text,true,,2581,1,1,http://10.10.3.16:8080/escm/js/jquery.alerts.js,5
-23/07/2017 07:12,15,97 /escm/js/jquery.flexslider.js,200,OK,Thread Group 1-1,text,true,,12247,1,1,http://10.10.3.16:8080/escm/js/jquery.flexslider.js,12
-23/07/2017 07:12,75,74 /escm/css/merchant.css,200,OK,Thread Group 1-1,text,true,,64167,1,1,http://10.10.3.16:8080/escm/css/merchant.css,27
-23/07/2017 07:12,8,98 /escm/js/usageGraphJS/jqplot.dateAxisRenderer.min.js,200,OK,Thread Group 1-1,text,true,,3191,1,1,http://10.10.3.16:8080/escm/js/usageGraphJS/jqplot.dateAxisRenderer.min.js,7
-23/07/2017 07:12,49,86 /escm/js/jquery-ui-1.8.17.custom.min.js,200,OK,Thread Group 1-1,text,true,,53407,1,1,http://10.10.3.16:8080/escm/js/jquery-ui-1.8.17.custom.min.js,20
-23/07/2017 07:12,7,92 /escm/js/usageGraphJS/jqplot.enhancedLegendRenderer.min.js,200,OK,Thread Group 1-1,text,true,,2017,1,1,http://10.10.3.16:8080/escm/js/usageGraphJS/jqplot.enhancedLegendRenderer.min.js,6
-23/07/2017 07:12,7,94 /escm/js/escm_alert.js,200,OK,Thread Group 1-1,text,true,,2139,1,1,http://10.10.3.16:8080/escm/js/escm_alert.js,5
-23/07/2017 07:12,7,96 /escm/js/usageGraphJS/jqplot.highlighter.min.js,200,OK,Thread Group 1-1,text,true,,2518,1,1,http://10.10.3.16:8080/escm/js/usageGraphJS/jqplot.highlighter.min.js,6
-23/07/2017 07:12,4,73 /escm/css/jquery.ui.timepicker.css,304,Not Modified,Thread Group 1-1,,true,,123,1,1,http://10.10.3.16:8080/escm/css/jquery.ui.timepicker.css,0
-23/07/2017 07:12,5,95 /escm/js/payment/jquery.tzCheckbox.js,200,OK,Thread Group 1-1,text,true,,1635,1,1,http://10.10.3.16:8080/escm/js/payment/jquery.tzCheckbox.js,5
-23/07/2017 07:12,5,91 /escm/js/jquery.scrollToTop.min.js,200,OK,Thread Group 1-1,text,true,,774,1,1,http://10.10.3.16:8080/escm/js/jquery.scrollToTop.min.js,5
-23/07/2017 07:12,7,90 /escm/js/usageGraphJS/jqplot.pointLabels.min.js,200,OK,Thread Group 1-1,text,true,,1988,1,1,http://10.10.3.16:8080/escm/js/usageGraphJS/jqplot.pointLabels.min.js,6
-23/07/2017 07:12,7,88 /escm/js/usageGraphJS/jqplot.canvasAxisLabelRenderer.min.js,200,OK,Thread Group 1-1,text,true,,1301,1,1,http://10.10.3.16:8080/escm/js/usageGraphJS/jqplot.canvasAxisLabelRenderer.min.js,7
-23/07/2017 07:12,9,109 /escm/css/theme/images/ui-icons_ededed_256x240.png,200,OK,Thread Group 1-1,bin,true,,4667,1,1,http://10.10.3.16:8080/escm/css/theme/images/ui-icons_ededed_256x240.png,9
-23/07/2017 07:12,16,110 /escm/css/theme/images/ui-icons_ffffff_256x240.png,200,OK,Thread Group 1-1,bin,true,,4667,1,1,http://10.10.3.16:8080/escm/css/theme/images/ui-icons_ffffff_256x240.png,16
-23/07/2017 07:12,1907,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-1,,true,,459953,1,1,null,724
-23/07/2017 07:12,1177,49 /escm/productOffer/index,200,OK,Thread Group 1-1,text,true,,12082,1,1,http://10.10.3.16:8080/escm/productOffer/list,254
-23/07/2017 07:12,6,51 /escm/images/search.png,200,OK,Thread Group 1-1,bin,true,,3830,1,1,http://10.10.3.16:8080/escm/images/search.png,5
-23/07/2017 07:12,6,52 /escm/images/icon14.gif,200,OK,Thread Group 1-1,bin,true,,579,1,1,http://10.10.3.16:8080/escm/images/icon14.gif,6
-23/07/2017 07:12,7,53 /escm/images/edit01.gif,200,OK,Thread Group 1-1,bin,true,,5114,1,1,http://10.10.3.16:8080/escm/images/edit01.gif,7
-23/07/2017 07:12,8,55 /escm/images/closeBtn.gif,200,OK,Thread Group 1-1,bin,true,,1306,1,1,http://10.10.3.16:8080/escm/images/closeBtn.gif,8
-23/07/2017 07:12,7,54 /escm/images/delete.png,200,OK,Thread Group 1-1,bin,true,,1683,1,1,http://10.10.3.16:8080/escm/images/delete.png,7
-23/07/2017 07:12,6,56 /escm/images/loader.gif,200,OK,Thread Group 1-1,bin,true,,11119,1,1,http://10.10.3.16:8080/escm/images/loader.gif,6
-23/07/2017 07:12,7,57 /escm/images/previous.png,200,OK,Thread Group 1-1,bin,true,,16816,1,1,http://10.10.3.16:8080/escm/images/previous.png,6
-23/07/2017 07:12,6,58 /escm/images/next.png,200,OK,Thread Group 1-1,bin,true,,16766,1,1,http://10.10.3.16:8080/escm/images/next.png,6
-23/07/2017 07:12,106,61 /escm/productOffer/getAllService,200,OK,Thread Group 1-1,text,true,,489,1,1,http://10.10.3.16:8080/escm/productOffer/getAllService,106
-23/07/2017 07:12,41,59 /escm/productOffer/offerList,200,OK,Thread Group 1-1,text,true,,5618,1,1,http://10.10.3.16:8080/escm/productOffer/offerList,38
-23/07/2017 07:12,12,62 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,12
-23/07/2017 07:12,12,63 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,11
-23/07/2017 07:12,6,64 /escm/images/small-transparent-loading.gif,200,OK,Thread Group 1-1,bin,true,,9814,1,1,http://10.10.3.16:8080/escm/images/small-transparent-loading.gif,6
-23/07/2017 07:12,11,65 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,1,1,http://10.10.3.16:8080/escm/recentItem,10
-23/07/2017 07:12,8,66 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,1,1,http://10.10.3.16:8080/escm/recentItem,8
-23/07/2017 07:12,143,60 /escm/productOffer/offerList,200,OK,Thread Group 1-1,text,true,,7538,1,1,http://10.10.3.16:8080/escm/productOffer/offerList,141
-23/07/2017 07:12,12,67 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,12
-23/07/2017 07:12,9,70 /escm/images/icon38.gif,200,OK,Thread Group 1-1,bin,true,,1828,1,1,http://10.10.3.16:8080/escm/images/icon38.gif,9
-23/07/2017 07:12,5,71 /escm/images/rpp_discount_cofigure.png,200,OK,Thread Group 1-1,bin,true,,4954,1,1,http://10.10.3.16:8080/escm/images/rpp_discount_cofigure.png,5
-23/07/2017 07:12,9,72 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,1,1,http://10.10.3.16:8080/escm/recentItem,9
-23/07/2017 07:12,6,69 /escm/images/doller.png,200,OK,Thread Group 1-1,bin,true,,3502,1,1,http://10.10.3.16:8080/escm/images/doller.png,5
-23/07/2017 07:12,6,68 /escm/images/icon20.gif,200,OK,Thread Group 1-1,bin,true,,1739,1,1,http://10.10.3.16:8080/escm/images/icon20.gif,6
-23/07/2017 07:12,1616,List_offers,200,"Number of samples in transaction : 23, number of failing samples : 0",Thread Group 1-1,,true,,107183,1,1,null,683
+16/10/2017 22:13,569,675 /escm/login/auth,200,OK,Thread Group 1-1,text,true,,5976,1,1,http://10.10.3.16:8080/escm/login/auth,566
+16/10/2017 22:13,569,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5976,1,1,null,566
+16/10/2017 22:13,1103,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,9593,1,1,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,259
+16/10/2017 22:13,681,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-1,text,true,,8448,1,1,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,678
+16/10/2017 22:13,1784,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,18041,1,1,null,937
+16/10/2017 22:13,702,143 /escm/productOffer/index,200,OK,Thread Group 1-1,text,true,,12556,1,1,http://10.10.3.16:8080/escm/productOffer/list,41
+16/10/2017 22:13,667,144 /escm/productOffer/list,200,OK,Thread Group 1-1,text,true,,12394,1,1,http://10.10.3.16:8080/escm/productOffer/list,662
+16/10/2017 22:13,142,147 /escm/productOffer/getAllService,200,OK,Thread Group 1-1,text,true,,489,1,1,http://10.10.3.16:8080/escm/productOffer/getAllService,142
+16/10/2017 22:13,13,148 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,13
+16/10/2017 22:13,152,146 /escm/productOffer/offerList,200,OK,Thread Group 1-1,text,true,,9606,1,1,http://10.10.3.16:8080/escm/productOffer/offerList,148
+16/10/2017 22:13,13,149 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,1,1,http://10.10.3.16:8080/escm/recentItem,12
+16/10/2017 22:13,13,150 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,12
+16/10/2017 22:13,10,151 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,1,1,http://10.10.3.16:8080/escm/recentItem,10
+16/10/2017 22:13,1712,List_offers_46_SP_with_cache,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-1,,true,,36649,1,1,null,1040

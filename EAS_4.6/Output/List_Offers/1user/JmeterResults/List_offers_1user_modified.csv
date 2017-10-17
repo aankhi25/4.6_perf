@@ -1,18 +1,15 @@
 timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,grpThreads,allThreads,URL,Latency
-23/07/2017 07:12,543,33 /escm/login/auth,200,OK,Thread Group 1-1,text,true,,5226,1,1,http://10.10.3.16:8080/escm/login/auth,540
-23/07/2017 07:12,11,43 /escm/images/favicon.ico,200,OK,Thread Group 1-1,bin,true,,191359,1,1,http://10.10.3.16:8080/escm/images/favicon.ico,10
-23/07/2017 07:12,850,Hit_the_portal,,"Number of samples in transaction : 16, number of failing samples : 1",Thread Group 1-1,,false,,692050,1,1,null,718
-23/07/2017 07:12,1243,65 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,9483,1,1,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,343
-23/07/2017 07:12,5,99 /escm/images/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,125,1,1,http://10.10.3.16:8080/escm/images/favicon.ico,0
-23/07/2017 07:12,1907,sp_userlogin_46,200,"Number of samples in transaction : 43, number of failing samples : 0",Thread Group 1-1,,true,,459953,1,1,null,724
-23/07/2017 07:12,1177,49 /escm/productOffer/index,200,OK,Thread Group 1-1,text,true,,12082,1,1,http://10.10.3.16:8080/escm/productOffer/list,254
-23/07/2017 07:12,106,61 /escm/productOffer/getAllService,200,OK,Thread Group 1-1,text,true,,489,1,1,http://10.10.3.16:8080/escm/productOffer/getAllService,106
-23/07/2017 07:12,41,59 /escm/productOffer/offerList,200,OK,Thread Group 1-1,text,true,,5618,1,1,http://10.10.3.16:8080/escm/productOffer/offerList,38
-23/07/2017 07:12,12,62 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,12
-23/07/2017 07:12,12,63 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,11
-23/07/2017 07:12,11,65 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,1,1,http://10.10.3.16:8080/escm/recentItem,10
-23/07/2017 07:12,8,66 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,1,1,http://10.10.3.16:8080/escm/recentItem,8
-23/07/2017 07:12,143,60 /escm/productOffer/offerList,200,OK,Thread Group 1-1,text,true,,7538,1,1,http://10.10.3.16:8080/escm/productOffer/offerList,141
-23/07/2017 07:12,12,67 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,12
-23/07/2017 07:12,9,72 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,1,1,http://10.10.3.16:8080/escm/recentItem,9
-23/07/2017 07:12,1616,List_offers,200,"Number of samples in transaction : 23, number of failing samples : 0",Thread Group 1-1,,true,,107183,1,1,null,683
+16/10/2017 22:13,569,675 /escm/login/auth,200,OK,Thread Group 1-1,text,true,,5976,1,1,http://10.10.3.16:8080/escm/login/auth,566
+16/10/2017 22:13,569,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5976,1,1,null,566
+16/10/2017 22:13,1103,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,9593,1,1,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,259
+16/10/2017 22:13,681,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-1,text,true,,8448,1,1,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,678
+16/10/2017 22:13,1784,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,18041,1,1,null,937
+16/10/2017 22:13,702,143 /escm/productOffer/index,200,OK,Thread Group 1-1,text,true,,12556,1,1,http://10.10.3.16:8080/escm/productOffer/list,41
+16/10/2017 22:13,667,144 /escm/productOffer/list,200,OK,Thread Group 1-1,text,true,,12394,1,1,http://10.10.3.16:8080/escm/productOffer/list,662
+16/10/2017 22:13,142,147 /escm/productOffer/getAllService,200,OK,Thread Group 1-1,text,true,,489,1,1,http://10.10.3.16:8080/escm/productOffer/getAllService,142
+16/10/2017 22:13,13,148 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,13
+16/10/2017 22:13,152,146 /escm/productOffer/offerList,200,OK,Thread Group 1-1,text,true,,9606,1,1,http://10.10.3.16:8080/escm/productOffer/offerList,148
+16/10/2017 22:13,13,149 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,1,1,http://10.10.3.16:8080/escm/recentItem,12
+16/10/2017 22:13,13,150 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,12
+16/10/2017 22:13,10,151 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,1,1,http://10.10.3.16:8080/escm/recentItem,10
+16/10/2017 22:13,1712,List_offers_46_SP_with_cache,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-1,,true,,36649,1,1,null,1040

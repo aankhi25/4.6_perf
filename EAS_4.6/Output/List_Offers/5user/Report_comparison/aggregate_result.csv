@@ -1,7 +1,1 @@
 sampler_label, benchmark_result, currentfile_result, status
-33 /escm/login/auth,558,167,PASS
-43 /escm/images/favicon.ico,10,9,PASS
-Hit_the_portal,908,574,PASS
-65 /escm/login/doAuth?id=loginform,1440,1305,PASS
-99 /escm/images/favicon.ico,5,7,FAIL
-sp_userlogin_46,2164,2116,PASS

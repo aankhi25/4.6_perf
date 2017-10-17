@@ -1,6 +1,6 @@
 timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency
-11/10/2017 16:28,518,675 /escm/login/auth,200,OK,Thread Group 1-1,text,true,,5976,399,1,1,514
-11/10/2017 16:28,518,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5976,399,1,1,514
-11/10/2017 16:28,1306,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,9587,3306,1,1,362
-11/10/2017 16:28,749,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-1,text,true,,8441,646,1,1,745
-11/10/2017 16:28,2055,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,18028,3952,1,1,1107
+11/10/2017 16:45,515,675 /escm/login/auth,200,OK,Thread Group 1-1,text,true,,5976,399,1,1,512
+11/10/2017 16:45,515,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5976,399,1,1,512
+11/10/2017 16:45,1187,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,9589,3330,1,1,301
+11/10/2017 16:45,790,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-1,text,true,,8443,646,1,1,781
+11/10/2017 16:45,1977,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,18032,3976,1,1,1082
