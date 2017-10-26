@@ -1,22 +1,21 @@
 sampler_label,aggregate_report_count,average,aggregate_report_median,aggregate_report_90%_line,aggregate_report_95%_line,aggregate_report_99%_line,aggregate_report_min,aggregate_report_max,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,aggregate_report_stddev
-33 /escm/login/auth,20,128,58,264,438,634,29,634,0.00%,31.5,161.0,152.39
-43 /escm/images/favicon.ico,20,14,9,27,28,79,5,79,0.00%,253.2,47309.9,16.00
-Hit_the_portal,20,517,395,897,903,1282,286,1282,100.00%,.3,220.6,250.62
-65 /escm/login/doAuth?id=loginform,20,1365,1284,1657,1918,2341,779,2341,0.00%,8.5,80.0,351.82
-99 /escm/images/favicon.ico,20,7,5,14,16,25,2,25,0.00%,800.0,97.7,5.47
-sp_userlogin_46,20,2218,2128,2834,3121,3488,1347,3488,0.00%,5.7,2576.1,536.23
-324 /escm/customer/index,20,899,817,1217,1408,1476,463,1476,0.00%,13.6,137.3,264.95
-381 /escm/customer/setSearchBy,20,18,15,24,41,58,8,58,0.00%,344.8,153.9,11.63
-374 /escm/images/favicon.ico,20,6,3,9,15,41,2,41,0.00%,487.8,59.5,8.41
-382 /escm/customer/listByCriteria,20,352,346,512,543,565,172,565,0.00%,35.4,144.5,120.94
-384 /escm/messages,20,11,9,17,18,22,7,22,0.00%,909.1,409.3,4.47
-385 /escm/customer/renderCustomerOrganizationDetails,20,576,559,710,913,1238,336,1238,0.00%,16.2,626.2,203.12
-405 /escm/messages,20,11,8,14,16,44,5,44,0.00%,454.5,204.6,8.15
-406 /escm/messages,20,11,9,18,20,22,6,22,0.00%,909.1,409.3,4.73
-List_Organizations,20,3053,2813,3900,3914,3963,2115,3963,0.00%,5.0,3081.6,623.83
-128 /escm/customer/listByCriteria,20,459,434,527,584,591,404,591,0.00%,33.8,110.2,54.19
-129 /escm/customer/renderCustomerOrganizationDetails,20,1715,1701,2285,2400,2433,1221,2433,0.00%,8.2,1178.4,363.32
-130 /escm/messages,20,19,11,32,40,103,6,103,0.00%,194.2,87.4,21.04
-131 /escm/messages,20,12,9,20,31,46,6,46,0.00%,434.8,195.7,9.77
-org_search_by_orgid,20,2213,2211,2793,2876,2970,1667,2970,0.00%,6.7,994.1,397.15
-TOTAL,400,680,220,2211,2728,3685,2,3963,5.00%,6.3,715.2,942.24
+675 /escm/login/auth,20,169,53,511,736,905,37,905,0.00%,.3,1.9,245.91
+Hit_the_portal_with-cache,20,169,53,511,736,905,37,905,0.00%,.3,1.9,245.91
+676 /escm/login/doAuth?id=loginform,20,2252,1919,3383,3442,4083,1024,4083,0.00%,.3,2.9,922.63
+680 /escm/dashboard/myAccountInfo,20,2202,1604,3491,3627,3750,754,3750,0.00%,.3,2.6,1085.39
+SP_user_login_46_with_cache,20,4454,3570,6527,6722,7574,1809,7574,0.00%,.3,5.2,1916.97
+681 /escm/customer/index,20,2045,1903,3125,3149,3175,753,3175,0.00%,.3,5.0,884.06
+682 /escm/customer/list,20,2097,1685,3118,3356,3912,784,3912,0.00%,5.1,78.8,871.88
+684 /escm/customer/setSearchBy,20,19,15,30,32,38,9,38,0.00%,526.3,234.9,7.68
+686 /escm/messages,20,18,13,31,36,67,8,67,0.00%,298.5,134.4,13.46
+685 /escm/customer/listByCriteria,20,506,381,881,901,1155,251,1155,0.00%,17.3,74.6,248.32
+687 /escm/customer/renderCustomerOrganizationDetails,20,662,608,898,911,995,399,995,0.00%,20.1,788.0,163.23
+688 /escm/messages,20,24,14,41,70,127,7,127,0.00%,157.5,70.9,28.04
+689 /escm/messages,20,22,13,25,37,178,7,178,0.00%,112.4,50.6,36.30
+List_organizations_with_cache,20,5396,5165,7447,7651,7980,2555,7980,0.00%,.3,22.5,1612.64
+11 /escm/customer/listByCriteria,20,545,540,604,624,671,459,671,0.00%,29.8,97.2,54.59
+12 /escm/customer/renderCustomerOrganizationDetails,20,2040,2003,2472,2687,2697,1632,2697,0.00%,7.4,1067.7,292.86
+13 /escm/messages,20,15,13,28,29,40,9,40,0.00%,500.0,225.1,7.92
+14 /escm/messages,20,12,10,20,21,24,7,24,0.00%,833.3,375.2,4.66
+organization_search_by_organization_id_with_cache,20,2613,2593,3092,3266,3341,2124,3341,0.00%,6.0,886.8,326.83
+TOTAL,380,1329,561,3356,5165,6936,7,7980,0.00%,5.6,145.9,1719.37
