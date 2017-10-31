@@ -1,0 +1,60 @@
+31/10/2017 11:58,269,675 /escm/login/auth,200,OK,Thread Group 1-1,text,true,,5976,1,1,265
+31/10/2017 11:58,269,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5976,1,1,265
+31/10/2017 11:58,51,675 /escm/login/auth,200,OK,Thread Group 1-2,text,true,,5976,2,2,49
+31/10/2017 11:58,51,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,5976,2,2,49
+31/10/2017 11:58,1176,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,9596,2,2,291
+31/10/2017 11:58,84,675 /escm/login/auth,200,OK,Thread Group 1-3,text,true,,5976,3,3,83
+31/10/2017 11:58,84,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,5976,3,3,83
+31/10/2017 11:58,1044,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-2,text,true,,9596,3,3,197
+31/10/2017 11:58,787,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-1,text,true,,8450,3,3,781
+31/10/2017 11:58,1963,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,18046,3,3,1072
+31/10/2017 11:58,33,getOfferDetailsbyUUID,200,OK,Thread Group 1-1,text,true,,16175,3,3,32
+31/10/2017 11:58,730,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-2,text,true,,8450,2,2,724
+31/10/2017 11:58,1774,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,18046,2,2,921
+31/10/2017 11:58,61,675 /escm/login/auth,200,OK,Thread Group 1-4,text,true,,5976,3,3,57
+31/10/2017 11:58,61,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,5976,3,3,57
+31/10/2017 11:58,1057,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-3,text,true,,9596,3,3,217
+31/10/2017 11:58,473,getOfferDetailsbyUUID,200,OK,Thread Group 1-2,text,true,,16175,3,3,470
+31/10/2017 11:58,826,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-3,text,true,,8450,2,2,820
+31/10/2017 11:58,1883,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,18046,2,2,1037
+31/10/2017 11:58,19,getOfferDetailsbyUUID,200,OK,Thread Group 1-3,text,true,,16175,2,2,17
+31/10/2017 11:58,58,675 /escm/login/auth,200,OK,Thread Group 1-5,text,true,,5976,2,2,54
+31/10/2017 11:58,58,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,5976,2,2,54
+31/10/2017 11:58,1075,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-4,text,true,,9595,2,2,225
+31/10/2017 11:58,743,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-4,text,true,,8450,2,2,736
+31/10/2017 11:58,1818,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,18045,2,2,961
+31/10/2017 11:58,18,getOfferDetailsbyUUID,200,OK,Thread Group 1-4,text,true,,16175,2,2,17
+31/10/2017 11:58,992,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-5,text,true,,9596,1,1,213
+31/10/2017 11:58,587,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-5,text,true,,8451,1,1,583
+31/10/2017 11:58,1579,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,18047,1,1,796
+31/10/2017 11:58,16,getOfferDetailsbyUUID,200,OK,Thread Group 1-5,text,true,,16175,1,1,15
+31/10/2017 11:58,252,675 /escm/login/auth,200,OK,Thread Group 1-1,text,true,,5976,1,1,249
+31/10/2017 11:58,252,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5976,1,1,249
+31/10/2017 11:58,58,675 /escm/login/auth,200,OK,Thread Group 1-2,text,true,,5976,2,2,54
+31/10/2017 11:58,58,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,5976,2,2,54
+31/10/2017 11:58,1119,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,9596,2,2,225
+31/10/2017 11:58,972,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-2,text,true,,9596,3,3,183
+31/10/2017 11:58,52,675 /escm/login/auth,200,OK,Thread Group 1-3,text,true,,5976,3,3,48
+31/10/2017 11:58,52,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,5976,3,3,48
+31/10/2017 11:58,742,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-1,text,true,,8451,3,3,732
+31/10/2017 11:58,1861,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,18047,3,3,957
+31/10/2017 11:58,26,getOfferDetailsbyUUID,200,OK,Thread Group 1-1,text,true,,16175,3,3,24
+31/10/2017 11:58,832,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-2,text,true,,8451,2,2,827
+31/10/2017 11:58,1804,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,18047,2,2,1010
+31/10/2017 11:58,28,getOfferDetailsbyUUID,200,OK,Thread Group 1-2,text,true,,16175,2,2,26
+31/10/2017 11:58,966,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-3,text,true,,9595,2,2,196
+31/10/2017 11:58,57,675 /escm/login/auth,200,OK,Thread Group 1-4,text,true,,5976,2,2,54
+31/10/2017 11:58,57,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,5976,2,2,54
+31/10/2017 11:58,775,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-3,text,true,,8450,2,2,770
+31/10/2017 11:58,1741,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,18045,2,2,966
+31/10/2017 11:58,29,getOfferDetailsbyUUID,200,OK,Thread Group 1-3,text,true,,16175,2,2,28
+31/10/2017 11:58,61,675 /escm/login/auth,200,OK,Thread Group 1-5,text,true,,5976,2,2,59
+31/10/2017 11:58,61,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,5976,2,2,59
+31/10/2017 11:58,1018,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-4,text,true,,9596,2,2,197
+31/10/2017 11:58,1651,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-4,text,true,,8450,2,2,1641
+31/10/2017 11:58,2669,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,18046,2,2,1838
+31/10/2017 11:58,22,getOfferDetailsbyUUID,200,OK,Thread Group 1-4,text,true,,16175,2,2,18
+31/10/2017 11:58,1908,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-5,text,true,,9599,1,1,206
+31/10/2017 11:58,790,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-5,text,true,,8454,1,1,785
+31/10/2017 11:58,2698,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,18053,1,1,991
+31/10/2017 11:58,30,getOfferDetailsbyUUID,200,OK,Thread Group 1-5,text,true,,16175,1,1,30

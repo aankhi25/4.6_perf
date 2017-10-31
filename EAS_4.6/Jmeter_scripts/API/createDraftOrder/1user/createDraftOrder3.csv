@@ -1,0 +1,6 @@
+30/10/2017 11:51,297,675 /escm/login/auth,200,OK,Thread Group 1-1,text,true,5976,1,1,http://10.10.3.16:8080/escm/login/auth,290,ESCM-APP
+30/10/2017 11:51,297,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,5976,1,1,null,290,ESCM-APP
+30/10/2017 11:51,1312,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,9592,1,1,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,270,ESCM-APP
+30/10/2017 11:51,930,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-1,text,true,8448,1,1,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,919,ESCM-APP
+30/10/2017 11:51,2242,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,18040,1,1,null,1189,ESCM-APP
+30/10/2017 11:51,1250,createDraftOrder,200,OK,Thread Group 1-1,text,true,412,1,1,1250

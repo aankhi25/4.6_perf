@@ -1,0 +1,29 @@
+30/10/2017 10:22,221,675 /escm/login/auth,200,OK,Thread Group 1-1,text,true,5976,1,1,http://10.10.3.16:8080/escm/login/auth,219,ESCM-APP
+30/10/2017 10:22,221,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,5976,1,1,null,219,ESCM-APP
+30/10/2017 10:22,972,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,9599,1,1,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,195,ESCM-APP
+30/10/2017 10:22,669,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-1,text,true,8454,1,1,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,666,ESCM-APP
+30/10/2017 10:22,1641,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,18053,1,1,null,861,ESCM-APP
+30/10/2017 10:22,970,createDraftOrder,200,OK,Thread Group 1-1,text,true,412,1,1,970
+30/10/2017 10:40,1200,createDraftOrder,200,OK,Thread Group 1-1,text,true,412,1,1,1199
+30/10/2017 11:38,5719,createDraftOrder,200,OK,Thread Group 1-1,text,true,412,1,1,5718
+30/10/2017 11:41,3020,createDraftOrder,200,OK,Thread Group 1-2,text,true,412,5,5,3020
+30/10/2017 11:41,3814,createDraftOrder,200,OK,Thread Group 1-1,text,true,412,4,4,3814
+30/10/2017 11:41,2504,createDraftOrder,200,OK,Thread Group 1-3,text,true,412,3,3,2504
+30/10/2017 11:41,2061,createDraftOrder,200,OK,Thread Group 1-4,text,true,412,2,2,2061
+30/10/2017 11:41,1707,createDraftOrder,200,OK,Thread Group 1-5,text,true,412,1,1,1707
+30/10/2017 11:43,2283,createDraftOrder,200,OK,Thread Group 1-1,text,true,412,5,5,2282
+30/10/2017 11:43,2491,createDraftOrder,200,OK,Thread Group 1-2,text,true,412,4,4,2491
+30/10/2017 11:43,1813,createDraftOrder,200,OK,Thread Group 1-3,text,true,412,3,3,1813
+30/10/2017 11:43,2548,createDraftOrder,200,OK,Thread Group 1-4,text,true,412,2,2,2548
+30/10/2017 11:43,1314,createDraftOrder,200,OK,Thread Group 1-5,text,true,412,1,1,1313
+30/10/2017 11:45,2261,createDraftOrder,200,OK,Thread Group 1-1,text,true,412,5,5,2261
+30/10/2017 11:45,2116,createDraftOrder,200,OK,Thread Group 1-2,text,true,412,4,4,2116
+30/10/2017 11:45,1580,createDraftOrder,200,OK,Thread Group 1-3,text,true,412,3,3,1580
+30/10/2017 11:45,1563,createDraftOrder,200,OK,Thread Group 1-4,text,true,412,2,2,1563
+30/10/2017 11:45,1461,createDraftOrder,200,OK,Thread Group 1-5,text,true,412,1,1,1461
+30/10/2017 11:49,328,675 /escm/login/auth,200,OK,Thread Group 1-1,text,true,5976,1,1,http://10.10.3.16:8080/escm/login/auth,320,ESCM-APP
+30/10/2017 11:49,328,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,5976,1,1,null,320,ESCM-APP
+30/10/2017 11:49,1182,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,9592,1,1,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,244,ESCM-APP
+30/10/2017 11:49,803,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-1,text,true,8447,1,1,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,790,ESCM-APP
+30/10/2017 11:49,1985,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,18039,1,1,null,1034,ESCM-APP
+30/10/2017 11:49,1206,createDraftOrder,200,OK,Thread Group 1-1,text,true,412,1,1,1206

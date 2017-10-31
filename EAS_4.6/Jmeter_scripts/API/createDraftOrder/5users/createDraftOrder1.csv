@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,bytes,grpThreads,allThreads,URL,Latency,Hostname
+30/10/2017 11:41,336,675 /escm/login/auth,200,OK,Thread Group 1-1,text,true,5976,1,1,http://10.10.3.16:8080/escm/login/auth,328,ESCM-APP
+30/10/2017 11:41,336,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,5976,1,1,null,328,ESCM-APP
+30/10/2017 11:41,122,675 /escm/login/auth,200,OK,Thread Group 1-2,text,true,5976,2,2,http://10.10.3.16:8080/escm/login/auth,115,ESCM-APP
+30/10/2017 11:41,122,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,5976,2,2,null,115,ESCM-APP
+30/10/2017 11:41,1734,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,9591,3,3,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,392,ESCM-APP
+30/10/2017 11:41,154,675 /escm/login/auth,200,OK,Thread Group 1-3,text,true,5976,3,3,http://10.10.3.16:8080/escm/login/auth,146,ESCM-APP
+30/10/2017 11:41,154,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,5976,3,3,null,146,ESCM-APP
+30/10/2017 11:41,1535,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-2,text,true,9591,3,3,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,342,ESCM-APP
+30/10/2017 11:41,144,675 /escm/login/auth,200,OK,Thread Group 1-4,text,true,5976,4,4,http://10.10.3.16:8080/escm/login/auth,138,ESCM-APP
+30/10/2017 11:41,144,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,5976,4,4,null,138,ESCM-APP
+30/10/2017 11:41,1303,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-1,text,true,8446,4,4,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,1289,ESCM-APP
+30/10/2017 11:41,3037,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,18037,4,4,null,1681,ESCM-APP
+30/10/2017 11:41,1337,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-2,text,true,8450,5,5,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,1317,ESCM-APP
+30/10/2017 11:41,2872,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,18041,5,5,null,1659,ESCM-APP
+30/10/2017 11:41,1938,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-3,text,true,9594,5,5,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,454,ESCM-APP
+30/10/2017 11:41,210,675 /escm/login/auth,200,OK,Thread Group 1-5,text,true,5976,5,5,http://10.10.3.16:8080/escm/login/auth,205,ESCM-APP
+30/10/2017 11:41,210,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,5976,5,5,null,205,ESCM-APP
+30/10/2017 11:41,2238,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-4,text,true,9595,5,5,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,508,ESCM-APP
+30/10/2017 11:41,1652,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-3,text,true,8451,5,5,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,1637,ESCM-APP
+30/10/2017 11:41,3590,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,18045,5,5,null,2091,ESCM-APP
+30/10/2017 11:41,2573,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-5,text,true,9595,5,5,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,816,ESCM-APP
+30/10/2017 11:41,1602,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-4,text,true,8451,5,5,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,1584,ESCM-APP
+30/10/2017 11:41,3840,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,18046,5,5,null,2092,ESCM-APP
+30/10/2017 11:41,3020,createDraftOrder,200,OK,Thread Group 1-2,text,true,412,5,5,http://10.10.3.16:8080/escm/services/order?wsdl,3020,ESCM-APP
+30/10/2017 11:41,3814,createDraftOrder,200,OK,Thread Group 1-1,text,true,412,4,4,http://10.10.3.16:8080/escm/services/order?wsdl,3814,ESCM-APP
+30/10/2017 11:41,1061,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-5,text,true,8451,3,3,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,1053,ESCM-APP
+30/10/2017 11:41,3634,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,18046,3,3,null,1869,ESCM-APP
+30/10/2017 11:41,2504,createDraftOrder,200,OK,Thread Group 1-3,text,true,412,3,3,http://10.10.3.16:8080/escm/services/order?wsdl,2504,ESCM-APP
+30/10/2017 11:41,2061,createDraftOrder,200,OK,Thread Group 1-4,text,true,412,2,2,http://10.10.3.16:8080/escm/services/order?wsdl,2061,ESCM-APP
+30/10/2017 11:41,1707,createDraftOrder,200,OK,Thread Group 1-5,text,true,412,1,1,http://10.10.3.16:8080/escm/services/order?wsdl,1707,ESCM-APP

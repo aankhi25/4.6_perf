@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,bytes,grpThreads,allThreads,URL,Latency,Hostname
+31/10/2017 12:56,234,getofferListExtended,200,OK,Thread Group 1-1,text,true,978735,1,1,http://10.10.3.16:8080/escm/services/catalog?wsdl,146,ESCM-APP

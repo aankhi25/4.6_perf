@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,bytes,grpThreads,allThreads,URL,Latency,Hostname
+31/10/2017 13:03,234,getofferListExtended,200,OK,Thread Group 1-1,text,true,978735,3,3,http://10.10.3.16:8080/escm/services/catalog?wsdl,151,ESCM-APP
+31/10/2017 13:03,217,getofferListExtended,200,OK,Thread Group 1-2,text,true,978735,3,3,http://10.10.3.16:8080/escm/services/catalog?wsdl,150,ESCM-APP
+31/10/2017 13:03,209,getofferListExtended,200,OK,Thread Group 1-3,text,true,978735,3,3,http://10.10.3.16:8080/escm/services/catalog?wsdl,131,ESCM-APP
+31/10/2017 13:03,207,getofferListExtended,200,OK,Thread Group 1-4,text,true,978735,2,2,http://10.10.3.16:8080/escm/services/catalog?wsdl,118,ESCM-APP
+31/10/2017 13:03,171,getofferListExtended,200,OK,Thread Group 1-5,text,true,978735,1,1,http://10.10.3.16:8080/escm/services/catalog?wsdl,109,ESCM-APP

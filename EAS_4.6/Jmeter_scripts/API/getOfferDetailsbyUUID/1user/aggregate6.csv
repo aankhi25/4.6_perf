@@ -1,0 +1,8 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+675 /escm/login/auth,1,218,218,218,218,218,218,218,0.000%,4.58716,26.77,1.79
+Hit_the_portal_with-cache,1,218,218,218,218,218,218,218,0.000%,4.54545,26.53,1.77
+676 /escm/login/doAuth?id=loginform,1,1023,1023,1023,1023,1023,1023,1023,0.000%,.97752,9.16,3.25
+680 /escm/dashboard/myAccountInfo,1,717,717,717,717,717,717,717,0.000%,1.39470,11.51,0.88
+SP_user_login_46_with_cache,1,1740,1740,1740,1740,1740,1740,1740,0.000%,.57372,10.11,2.27
+getOfferDetailsbyUUID,1,19,19,19,19,19,19,19,0.000%,52.63158,831.36,0.00
+TOTAL,6,655,218,1023,1740,1740,19,1740,0.000%,3.02419,31.61,4.38

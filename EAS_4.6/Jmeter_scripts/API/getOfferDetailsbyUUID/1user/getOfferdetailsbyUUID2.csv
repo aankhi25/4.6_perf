@@ -1,0 +1,6 @@
+31/10/2017 11:03,228,675 /escm/login/auth,200,OK,Thread Group 1-1,text,true,,5976,1,1,223
+31/10/2017 11:03,228,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5976,1,1,223
+31/10/2017 11:03,1026,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,9594,1,1,199
+31/10/2017 11:03,759,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-1,text,true,,8449,1,1,753
+31/10/2017 11:03,1785,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,18043,1,1,952
+31/10/2017 11:03,502,getOfferDetailsbyUUID,200,OK,Thread Group 1-1,text,true,,16175,1,1,501
