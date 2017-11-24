@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,grpThreads,allThreads,Latency,Hostname
+01/11/2017 15:36,597,updateReseller,200,OK,Thread Group 1-1,text,true,,405,1,1,597,ESCM-APP

@@ -1,0 +1,3 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+createReseller,5,13956,13813,16460,21925,21925,6066,21925,0.000%,.21922,0.09,0.00
+TOTAL,5,13956,13813,16460,21925,21925,6066,21925,0.000%,.21922,0.09,0.00

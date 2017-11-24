@@ -1,25 +1,21 @@
 sampler_label,aggregate_report_count,average,aggregate_report_median,aggregate_report_90%_line,aggregate_report_95%_line,aggregate_report_99%_line,aggregate_report_min,aggregate_report_max,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,aggregate_report_stddev
-33 /escm/login/auth,1,610,610,610,610,610,610,610,0.00%,1.6,8.4,0.00
-43 /escm/images/favicon.ico,1,12,12,12,12,12,12,12,0.00%,83.3,15572.8,0.00
-Hit_the_portal,1,999,999,999,999,999,999,999,100.00%,1.0,676.5,0.00
-65 /escm/login/doAuth?id=loginform,1,20853,20853,20853,20853,20853,20853,20853,0.00%,.0,.4,0.00
-99 /escm/images/favicon.ico,1,6,6,6,6,6,6,6,0.00%,166.7,20.3,0.00
-sp_userlogin_46,1,21562,21562,21562,21562,21562,21562,21562,0.00%,.0,20.8,0.00
-49 /escm/productOffer/index,1,10572,10572,10572,10572,10572,10572,10572,0.00%,.1,1.1,0.00
-61 /escm/productOffer/getAllService,1,196,196,196,196,196,196,196,0.00%,5.1,2.4,0.00
-59 /escm/productOffer/offerList,1,49,49,49,49,49,49,49,0.00%,20.4,112.0,0.00
-62 /escm/messages,1,20,20,20,20,20,20,20,0.00%,50.0,22.5,0.00
-63 /escm/messages,1,7,7,7,7,7,7,7,0.00%,142.9,64.3,0.00
-65 /escm/recentItem,1,12,12,12,12,12,12,12,0.00%,83.3,27.8,0.00
-66 /escm/recentItem,1,10,10,10,10,10,10,10,0.00%,100.0,33.3,0.00
-60 /escm/productOffer/offerList,1,228,228,228,228,228,228,228,0.00%,4.4,32.3,0.00
-67 /escm/messages,1,18,18,18,18,18,18,18,0.00%,55.6,25.0,0.00
-72 /escm/recentItem,1,8,8,8,8,8,8,8,0.00%,125.0,41.6,0.00
-List_offers,1,11228,11228,11228,11228,11228,11228,11228,0.00%,.1,9.3,0.00
-133 /escm/productOffer/productModelSearch/productModelSearch,1,11536,11536,11536,11536,11536,11536,11536,0.00%,.1,1.8,0.00
-178 /escm/images/favicon.ico,1,5,5,5,5,5,5,5,0.00%,200.0,24.4,0.00
-184 /escm/productOffer/showOfferDetails,1,747,747,747,747,747,747,747,0.00%,1.3,12.2,0.00
-185 /escm/messages,1,9,9,9,9,9,9,9,0.00%,111.1,50.0,0.00
-186 /escm/recentItem,1,14,14,14,14,14,14,14,0.00%,71.4,23.8,0.00
-Offer_search_by_id,1,13107,13107,13107,13107,13107,13107,13107,0.00%,.1,36.8,0.00
-TOTAL,23,3991,49,13107,20853,21562,5,21562,4.35%,.3,27.0,6846.24
+675 /escm/login/auth,1,607,607,607,607,607,607,607,0.00%,1.6,9.6,0.00
+Hit_the_portal_with-cache,1,607,607,607,607,607,607,607,0.00%,1.6,9.6,0.00
+143 /escm/productOffer/index,1,90,90,90,90,90,90,90,0.00%,11.1,21.2,0.00
+144 /escm/productOffer/list,1,81,81,81,81,81,81,81,0.00%,12.3,23.6,0.00
+147 /escm/productOffer/getAllService,1,57,57,57,57,57,57,57,100.00%,17.5,34.4,0.00
+148 /escm/messages,1,45,45,45,45,45,45,45,100.00%,22.2,38.8,0.00
+146 /escm/productOffer/offerList,1,59,59,59,59,59,59,59,100.00%,16.9,33.2,0.00
+149 /escm/recentItem,1,53,53,53,53,53,53,53,100.00%,18.9,37.1,0.00
+150 /escm/messages,1,46,46,46,46,46,46,46,100.00%,21.7,38.0,0.00
+151 /escm/recentItem,1,49,49,49,49,49,49,49,100.00%,20.4,40.1,0.00
+List_offers_46_SP_with_cache,1,480,480,480,480,480,480,480,100.00%,2.1,31.6,0.00
+676 /escm/login/doAuth?id=loginform,1,1467,1467,1467,1467,1467,1467,1467,0.00%,.7,6.4,0.00
+680 /escm/dashboard/myAccountInfo,1,806,806,806,806,806,806,806,0.00%,1.2,10.2,0.00
+SP_user_login_46_with_cache,1,2273,2273,2273,2273,2273,2273,2273,0.00%,.4,7.8,0.00
+167 /escm/productOffer/productModelSearch/productModelSearch,1,2016,2016,2016,2016,2016,2016,2016,0.00%,.5,11.4,0.00
+168 /escm/productOffer/showOfferDetails,1,1004,1004,1004,1004,1004,1004,1004,0.00%,1.0,9.7,0.00
+169 /escm/messages,1,20,20,20,20,20,20,20,0.00%,50.0,22.5,0.00
+170 /escm/recentItem,1,17,17,17,17,17,17,17,0.00%,58.8,19.6,0.00
+Offer_search_by_offerid_46_with_cache,1,3057,3057,3057,3057,3057,3057,3057,0.00%,.3,11.0,0.00
+TOTAL,19,675,90,2016,2273,3057,17,3057,36.84%,6.2,47.2,880.06

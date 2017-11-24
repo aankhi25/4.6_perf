@@ -1407,3 +1407,1270 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 12/06/2017 19:25,36665,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
 12/06/2017 19:25,36666,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
 12/06/2017 19:25,36666,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:22,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:22,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:22,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:22,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:22,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:22,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:22,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:22,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:22,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:22,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:22,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:22,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:22,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:22,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:22,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:22,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:22,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:22,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:22,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:22,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:22,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:23,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:24,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:25,-1000,java.io.IOException: Agent is unreachable via TCP,,java.io.IOException: Agent is unreachable via TCP,,,false,,0,0,0,0,0,0,0
+10/11/2017 15:28,34776,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,34789,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,34799,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,34801,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,34801,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,34817,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,34830,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,34840,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,34844,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,34853,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,34862,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,34870,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,34087,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,33866,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,33879,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,33885,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,33890,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,33891,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,33891,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,33891,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,33891,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,33891,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,33891,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,33892,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,33893,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:28,33898,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,33903,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,33911,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,33930,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,33937,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,33938,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,33937,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,33937,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,33937,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,33937,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,33937,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,33937,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,33937,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,33937,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,33940,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,33955,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,33958,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,33960,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,34180,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,34220,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,34279,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,34316,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,34395,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,34429,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,34459,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,34506,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,34701,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,34968,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,35233,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,35421,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,35685,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,36195,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,36398,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,36502,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,36544,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,36635,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,36662,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,36681,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,36690,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,36746,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,36768,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,36767,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,36775,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,36782,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,36798,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,36809,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,36816,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,36825,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,36827,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,36857,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,36968,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,36973,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,37036,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,37037,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,37041,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,36958,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,37029,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,37029,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,37029,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,37029,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:29,37029,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37030,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37030,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37038,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37057,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37061,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37064,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37084,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37092,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37284,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37284,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37284,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37292,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37298,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37304,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37306,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37306,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37308,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37311,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37314,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37314,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37318,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37323,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37322,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37328,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37331,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37332,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37337,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37337,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37274,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37259,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37259,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37274,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37347,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37255,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37262,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37262,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37263,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37264,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:30,37264,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33788,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33794,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33794,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33794,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33794,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33796,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33799,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33802,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33803,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33803,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33804,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33804,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33804,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33804,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33804,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33804,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33804,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33804,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33808,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33811,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33813,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33813,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33809,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33803,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33798,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33801,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33797,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:33,33794,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,33789,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,33789,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,33788,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,33788,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,33788,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,33788,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,33788,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,33788,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,33788,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,33788,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,33788,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,33788,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,33788,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,33788,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,33789,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,33840,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,33895,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,34116,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,34449,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,34752,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,35072,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,35842,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,36094,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,36431,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,36535,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,36595,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,36692,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,36707,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,36718,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,36719,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,36721,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,36725,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,36730,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,36732,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,36737,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,36740,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,36744,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,36756,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,36908,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,37017,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,37030,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,37030,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,37047,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,37053,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,37053,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,37053,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,37054,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,37054,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,37055,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,37057,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,37056,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,37062,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,37068,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,37070,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,37077,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,37078,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,37088,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,37380,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,37384,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:34,37390,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37388,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37388,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37392,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37393,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37392,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37393,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37395,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37396,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37397,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37398,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37399,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37400,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37399,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37399,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37406,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37461,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37460,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37460,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37461,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37461,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37467,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37469,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37418,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37423,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37424,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37424,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37424,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:35,37427,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,37411,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,37412,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,37411,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,37411,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,37306,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,36914,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,36781,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,36594,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,36319,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,36153,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,36153,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,36153,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,36153,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,36153,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,36153,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,36153,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,36153,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,36154,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,36154,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,36153,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,36159,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,36159,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,36160,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,36160,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,36160,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,36160,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,35894,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,35396,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,35097,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,35052,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,35008,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,34986,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,34987,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,34987,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,34987,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,34984,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,34986,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:37,34986,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,34985,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,34984,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,34984,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,34984,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,34984,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,34983,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,34997,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,35003,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,35005,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,35028,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,35711,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,35787,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,35833,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,35834,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,35830,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,36016,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,36071,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,36141,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,36466,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,36734,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,36961,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37004,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37007,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37013,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37021,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37023,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37035,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37040,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37283,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37290,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37300,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37301,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37307,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37312,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37319,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37319,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37321,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37325,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37327,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37328,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37328,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37332,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37331,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37332,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37332,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37332,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37349,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37636,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37636,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37641,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37642,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37647,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37646,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37647,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37652,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37653,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37659,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37659,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37660,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:38,37659,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:39,37660,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:39,37659,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:39,37661,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:39,37660,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:39,37661,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:39,37661,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:39,37717,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:39,37717,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:39,37720,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:39,37695,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:39,37695,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:39,37707,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:39,37718,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:39,37719,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:39,37722,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:39,37723,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:39,37723,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:41,36338,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:41,36348,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:41,36349,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:41,36349,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:41,36348,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:41,36335,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:41,36016,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:41,35722,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:41,35411,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:41,35206,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:41,35212,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:41,35212,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:41,35217,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:41,35216,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:41,35215,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:41,35216,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:41,35228,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:41,35235,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:41,35237,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:41,35235,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:41,35234,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:41,35234,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,35234,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,35234,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,35231,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,35235,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,35235,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,35235,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,35235,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,35235,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,35228,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,34790,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,34517,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,34361,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,34050,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,34050,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,34019,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,34020,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,34020,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,34019,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,34018,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,34019,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,34019,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,34085,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,34105,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,34123,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,34142,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,34154,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,34181,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,34204,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,35006,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,35034,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,35049,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,35227,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,35442,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,35644,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,35994,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,36190,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,36460,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,36751,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,36968,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,37133,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,37139,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,37145,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,37159,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,37167,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,37174,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,37175,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,37182,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,37542,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,37548,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,37554,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,37555,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,37556,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,37562,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,37566,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,37568,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,37570,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,37572,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,37576,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,37576,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:42,37576,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37576,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37577,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37580,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37586,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37587,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37588,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37603,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37842,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37840,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37841,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37844,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37841,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37841,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37844,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37849,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37850,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37854,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37835,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37836,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37841,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37841,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37841,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37846,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37847,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37855,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37860,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37890,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37894,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37899,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 15:43,37902,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29281,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29490,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29520,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29521,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29548,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29558,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29592,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29667,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29681,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29695,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29705,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29726,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29736,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29747,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29748,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29767,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29768,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29798,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29800,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29811,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29821,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29839,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29841,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29874,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29884,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29894,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29904,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29914,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29936,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29946,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29956,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29956,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29956,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29956,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29956,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29956,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29956,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:03,29956,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,29956,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,29957,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,29956,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,29956,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,29956,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,29956,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,30336,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,30633,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,30992,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,31411,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,31739,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,32107,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,32479,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,32883,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,33223,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,33548,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,33921,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,34337,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,34642,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,35502,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,35944,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,36301,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,36590,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,36968,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37284,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37315,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37326,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37335,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37344,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37356,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37368,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37376,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37386,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37397,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37407,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37415,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37419,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37422,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37429,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37779,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37888,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37889,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37893,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37895,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37898,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37912,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37919,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37921,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37929,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37930,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37931,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37931,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37932,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37932,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37932,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37934,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37934,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37934,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37935,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:04,37935,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:05,38022,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:05,38023,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:05,38024,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:05,38024,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:05,38024,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:05,38024,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:05,38024,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:05,38029,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:05,38033,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:05,38033,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:05,38051,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:05,38056,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:05,38071,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:05,38072,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:05,38069,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:05,38070,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:05,38071,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:05,38071,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:05,38072,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:05,38072,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:05,38072,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38137,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38138,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38137,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38138,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38137,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38137,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38137,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38136,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38137,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38134,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38123,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38117,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38115,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38115,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38115,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38115,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38113,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38104,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38104,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38101,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38101,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38100,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38098,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38094,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38096,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38094,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38092,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:06,38087,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38087,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38086,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38086,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38086,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38086,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38085,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38085,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38083,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38081,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38081,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38081,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38080,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38080,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,37983,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,37964,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,37976,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,37972,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,37974,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,37969,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,37959,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,37909,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,37931,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,37943,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,37982,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,37987,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,37998,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38005,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38010,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38016,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38023,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38032,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38042,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38047,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38053,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38058,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38064,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38065,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38103,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38261,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38262,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38261,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38262,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38264,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38272,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38312,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38314,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38315,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38316,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38316,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38316,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38317,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38323,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38328,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38327,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38327,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38329,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38330,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38330,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38330,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:07,38331,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38330,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38331,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38331,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38788,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38791,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38790,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38791,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38790,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38796,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38798,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38799,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38801,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38804,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38807,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38832,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38830,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38832,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38831,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38832,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38863,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38884,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,39024,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,39162,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,39189,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,39236,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,39234,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38866,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38738,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38740,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38738,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38743,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38745,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38745,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38748,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38748,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+10/11/2017 16:08,38748,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,30863,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,31165,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,31509,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,31933,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,32422,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,32926,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,33279,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,33347,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,33417,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,33527,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,33762,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,34204,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,34929,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,35892,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,36161,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,36504,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,36814,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,37175,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,37484,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,37543,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,37608,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,37618,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,37628,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,37637,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,37641,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,37653,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,37662,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,37680,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,37692,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,37717,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,38066,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,38074,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,38083,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,38087,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,38090,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,38097,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,38097,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,38097,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,38097,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:36,38100,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38113,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38114,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38128,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38134,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38140,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38146,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38153,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38157,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38163,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38224,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38244,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38250,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38255,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38260,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38264,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38265,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38266,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38267,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38267,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38272,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38277,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38276,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38277,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38278,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38296,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38304,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38313,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38313,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38314,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38314,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38314,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38315,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38315,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38314,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38317,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38317,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:38,38317,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,30910,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,31437,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,31662,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,31736,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,31835,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,31892,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,32202,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,32654,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,34550,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,34870,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,35232,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,35573,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,35903,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,36229,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,36520,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,36847,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,37165,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,37503,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,37578,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,37627,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,37646,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,37662,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,37671,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:44,37706,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:45,37888,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:45,38126,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:45,38145,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:45,38159,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:45,38175,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:45,38191,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:45,38195,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:45,38199,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:45,38204,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:45,38207,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:45,38209,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:45,38211,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:45,38212,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:45,38212,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:45,38214,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38239,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38253,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38261,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38269,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38277,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38314,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38315,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38326,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38337,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38343,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38348,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38354,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38370,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38377,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38383,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38389,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38396,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38400,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38402,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38404,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38406,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38417,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38430,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38439,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38439,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38442,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38446,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38449,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:46,38449,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:47,38450,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:47,38450,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:47,38471,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:47,38510,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:47,38511,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:47,38511,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:47,38511,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:47,38511,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:47,38511,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:47,38510,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:47,38510,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:55,31295,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:55,32729,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:55,33646,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:55,33967,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:55,34277,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:55,34529,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:55,34711,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:55,34906,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,35015,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,35172,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,35269,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,35444,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,35801,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,36196,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,36537,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,36888,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,37288,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,37646,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,38000,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,38114,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,38126,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,38142,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,38153,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,38163,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,38171,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,38180,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,38188,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,38196,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,38205,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,38217,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,38221,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,38225,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,38229,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,38236,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,38237,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,38263,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,38263,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,38263,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:56,38263,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:57,38272,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:57,38274,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:57,38277,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:57,38283,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:57,38289,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:57,38299,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:57,38298,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:57,38350,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:57,38356,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:57,38363,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:57,38386,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:57,38387,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:57,38387,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:57,38394,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38398,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38402,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38406,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38412,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38412,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38417,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38426,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38430,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38432,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38434,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38437,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38441,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38445,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38449,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38449,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38451,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38459,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38481,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38480,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38481,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38481,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38481,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 11:58,38481,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,35395,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,35481,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,35508,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,35529,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,35550,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,35566,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,35581,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,35612,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,35671,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,35754,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,35985,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,36397,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,36783,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,37210,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,37979,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38008,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38037,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38041,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38072,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38085,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38092,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38101,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38110,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38120,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38129,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38139,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38150,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38159,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38169,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38171,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38182,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38207,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38270,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38272,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38273,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38275,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38279,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38280,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38281,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38281,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38294,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:01,38297,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38359,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38365,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38378,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38384,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38390,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38390,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38402,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38406,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38406,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38411,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38418,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38433,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38436,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38436,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38437,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38438,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38440,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38440,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38442,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38443,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38444,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38445,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38447,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38447,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38450,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38455,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38458,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38458,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38461,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38462,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38461,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38462,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38462,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38462,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38461,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38442,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38442,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:03,38441,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,31576,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,31820,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,32093,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,32450,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,32872,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,33329,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,33730,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,34167,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,34664,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,35139,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,36210,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,36696,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,36894,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,37005,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,37118,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,37194,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,37285,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,37418,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,37534,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,37731,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,37753,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,37771,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,37790,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,37808,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,37818,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,37827,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,37842,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,38177,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,38198,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,38204,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,38209,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,38228,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,38235,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,38237,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,38239,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,38240,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,38240,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,38240,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:08,38240,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38251,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38258,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38265,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38270,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38275,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38281,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38287,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38308,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38328,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38340,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38349,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38356,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38362,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38367,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38374,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38380,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38386,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38391,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38397,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38476,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38482,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38489,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38492,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38494,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38505,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38506,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38506,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38507,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38508,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38508,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38509,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38508,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38521,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38522,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38522,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38442,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38442,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38443,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0
+13/11/2017 12:10,38442,10.10.3.16 Memory,,,,,true,,0,0,0,0,0,0,0

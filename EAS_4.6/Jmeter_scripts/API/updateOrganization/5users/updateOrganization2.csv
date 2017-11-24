@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,grpThreads,allThreads,Latency,Hostname
+31/10/2017 18:28,81,updateOrganization,200,OK,Thread Group 1-1,text,true,,413,3,3,81,ESCM-APP
+31/10/2017 18:28,87,updateOrganization,200,OK,Thread Group 1-2,text,true,,413,2,2,87,ESCM-APP
+31/10/2017 18:28,100,updateOrganization,200,OK,Thread Group 1-3,text,true,,413,2,2,100,ESCM-APP
+31/10/2017 18:28,73,updateOrganization,200,OK,Thread Group 1-4,text,true,,413,2,2,73,ESCM-APP
+31/10/2017 18:28,78,updateOrganization,200,OK,Thread Group 1-5,text,true,,413,1,1,78,ESCM-APP

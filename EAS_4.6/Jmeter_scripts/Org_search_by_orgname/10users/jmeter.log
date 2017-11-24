@@ -1,113 +1,145 @@
-2017/10/24 13:28:36 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
-2017/10/24 13:28:37 INFO  - jmeter.JMeter: Loading user properties from: C:\Users\Administrator\Desktop\apache-jmeter-3.1\apache-jmeter-3.1\bin\user.properties 
-2017/10/24 13:28:37 INFO  - jmeter.JMeter: Loading system properties from: C:\Users\Administrator\Desktop\apache-jmeter-3.1\apache-jmeter-3.1\bin\system.properties 
-2017/10/24 13:28:37 INFO  - jmeter.JMeter: Copyright (c) 1998-2016 The Apache Software Foundation 
-2017/10/24 13:28:37 INFO  - jmeter.JMeter: Version 3.1 r1770033 
-2017/10/24 13:28:37 INFO  - jmeter.JMeter: java.version=1.7.0_60 
-2017/10/24 13:28:37 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
-2017/10/24 13:28:37 INFO  - jmeter.JMeter: os.name=Windows Server 2012 R2 
-2017/10/24 13:28:37 INFO  - jmeter.JMeter: os.arch=amd64 
-2017/10/24 13:28:37 INFO  - jmeter.JMeter: os.version=6.3 
-2017/10/24 13:28:37 INFO  - jmeter.JMeter: file.encoding=Cp1252 
-2017/10/24 13:28:37 INFO  - jmeter.JMeter: Max memory     =523763712 
-2017/10/24 13:28:37 INFO  - jmeter.JMeter: Available Processors =4 
-2017/10/24 13:28:37 INFO  - jmeter.JMeter: Default Locale=English (United States) 
-2017/10/24 13:28:37 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
-2017/10/24 13:28:37 INFO  - jmeter.JMeter: JMeterHome=C:\Users\Administrator\Desktop\apache-jmeter-3.1\apache-jmeter-3.1 
-2017/10/24 13:28:37 INFO  - jmeter.JMeter: user.dir  =C:\perf_project_git\EAS_4.6\Jmeter_scripts\Org_search_by_orgname\10users 
-2017/10/24 13:28:37 INFO  - jmeter.JMeter: PWD       =C:\perf_project_git\EAS_4.6\Jmeter_scripts\Org_search_by_orgname\10users 
-2017/10/24 13:28:37 INFO  - jmeter.JMeter: IP: 10.10.3.15 Name: ESCM-APP FullName: ESCM-APP 
-2017/10/24 13:28:37 INFO  - jmeter.services.FileServer: Default base='C:\perf_project_git\EAS_4.6\Jmeter_scripts\Org_search_by_orgname\10users' 
-2017/10/24 13:28:37 INFO  - jmeter.services.FileServer: Set new base='C:\perf_project_git\EAS_4.6\Jmeter_scripts\Org_search_by_orgname\10users' 
-2017/10/24 13:28:37 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
-2017/10/24 13:28:37 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
-2017/10/24 13:28:37 INFO  - jmeter.save.SaveService: Using SaveService properties version 3.1 
-2017/10/24 13:28:37 INFO  - jmeter.save.SaveService: All converter versions present and correct 
-2017/10/24 13:28:37 INFO  - jmeter.save.SaveService: Loading file: Search_Org_by_org_name.jmx 
-2017/10/24 13:28:38 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
-2017/10/24 13:28:38 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
-2017/10/24 13:28:38 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
-2017/10/24 13:28:38 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
-2017/10/24 13:28:38 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
-2017/10/24 13:28:38 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser 
-2017/10/24 13:28:39 INFO  - jmeter.protocol.http.control.CacheManager: Will only cache the following methods: [GET] 
-2017/10/24 13:28:39 INFO  - jmeter.protocol.http.control.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_ 
-2017/10/24 13:28:39 INFO  - jmeter.JMeter: Creating summariser <summary> 
-2017/10/24 13:28:39 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
-2017/10/24 13:28:39 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
-2017/10/24 13:28:39 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
-2017/10/24 13:28:39 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
-2017/10/24 13:28:39 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
-2017/10/24 13:28:40 INFO  - jmeter.JMeter: Running test (1508831920395) 
-2017/10/24 13:28:40 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group 
-2017/10/24 13:28:40 INFO  - jmeter.engine.StandardJMeterEngine: Starting 3 threads for group Thread Group. 
-2017/10/24 13:28:40 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
-2017/10/24 13:28:40 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 3 ramp-up 3 perThread 1000.0 delayedStart=false 
-2017/10/24 13:28:40 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
-2017/10/24 13:28:40 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
-2017/10/24 13:28:40 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
-2017/10/24 13:28:40 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
-2017/10/24 13:28:40 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-1 
-2017/10/24 13:28:40 INFO  - jmeter.services.FileServer: Stored: org_id.csv 
-2017/10/24 13:28:40 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
-2017/10/24 13:28:40 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
-2017/10/24 13:28:40 INFO  - jmeter.services.FileServer: Stored: user.csv 
-2017/10/24 13:28:40 ERROR - jmeter.threads.JMeterThread: Test failed! java.lang.IllegalArgumentException: Could not read file header line for file user.csv
-	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:288)
-	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:178)
-	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:405)
-	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:397)
-	at org.apache.jmeter.control.GenericController.next(GenericController.java:158)
-	at org.apache.jmeter.control.LoopController.next(LoopController.java:123)
-	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:87)
-	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:247)
-	at java.lang.Thread.run(Unknown Source)
-Caused by: java.lang.IllegalArgumentException: File user.csv must exist and be readable
-	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:421)
-	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:346)
-	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:330)
-	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:278)
-	... 8 more
-
-2017/10/24 13:28:40 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-1 
-2017/10/24 13:28:41 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-2 
-2017/10/24 13:28:41 ERROR - jmeter.threads.JMeterThread: Test failed! java.lang.IllegalArgumentException: Could not read file header line for file user.csv
-	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:288)
-	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:178)
-	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:405)
-	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:397)
-	at org.apache.jmeter.control.GenericController.next(GenericController.java:158)
-	at org.apache.jmeter.control.LoopController.next(LoopController.java:123)
-	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:87)
-	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:247)
-	at java.lang.Thread.run(Unknown Source)
-Caused by: java.lang.IllegalArgumentException: File user.csv must exist and be readable
-	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:421)
-	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:346)
-	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:330)
-	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:278)
-	... 8 more
-
-2017/10/24 13:28:41 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-2 
-2017/10/24 13:28:42 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-3 
-2017/10/24 13:28:42 ERROR - jmeter.threads.JMeterThread: Test failed! java.lang.IllegalArgumentException: Could not read file header line for file user.csv
-	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:288)
-	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:178)
-	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:405)
-	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:397)
-	at org.apache.jmeter.control.GenericController.next(GenericController.java:158)
-	at org.apache.jmeter.control.LoopController.next(LoopController.java:123)
-	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:87)
-	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:247)
-	at java.lang.Thread.run(Unknown Source)
-Caused by: java.lang.IllegalArgumentException: File user.csv must exist and be readable
-	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:421)
-	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:346)
-	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:330)
-	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:278)
-	... 8 more
-
-2017/10/24 13:28:42 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-3 
-2017/10/24 13:28:43 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
-2017/10/24 13:28:43 INFO  - jmeter.services.FileServer: Close: org_id.csv 
-2017/10/24 13:28:43 INFO  - jmeter.reporters.Summariser: summary =      0 in 00:00:00 = ******/s Avg:     0 Min: 9223372036854775807 Max: -9223372036854775808 Err:     0 (0.00%) 
+2017/11/10 18:57:17 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2017/11/10 18:57:17 INFO  - jmeter.JMeter: Loading user properties from: C:\Users\Administrator\Desktop\apache-jmeter-3.1\apache-jmeter-3.1\bin\user.properties 
+2017/11/10 18:57:17 INFO  - jmeter.JMeter: Loading system properties from: C:\Users\Administrator\Desktop\apache-jmeter-3.1\apache-jmeter-3.1\bin\system.properties 
+2017/11/10 18:57:18 INFO  - jmeter.JMeter: Copyright (c) 1998-2016 The Apache Software Foundation 
+2017/11/10 18:57:18 INFO  - jmeter.JMeter: Version 3.1 r1770033 
+2017/11/10 18:57:18 INFO  - jmeter.JMeter: java.version=1.7.0_60 
+2017/11/10 18:57:18 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2017/11/10 18:57:18 INFO  - jmeter.JMeter: os.name=Windows Server 2012 R2 
+2017/11/10 18:57:18 INFO  - jmeter.JMeter: os.arch=amd64 
+2017/11/10 18:57:18 INFO  - jmeter.JMeter: os.version=6.3 
+2017/11/10 18:57:18 INFO  - jmeter.JMeter: file.encoding=Cp1252 
+2017/11/10 18:57:18 INFO  - jmeter.JMeter: Max memory     =523763712 
+2017/11/10 18:57:18 INFO  - jmeter.JMeter: Available Processors =4 
+2017/11/10 18:57:18 INFO  - jmeter.JMeter: Default Locale=English (United States) 
+2017/11/10 18:57:18 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
+2017/11/10 18:57:18 INFO  - jmeter.JMeter: JMeterHome=C:\Users\Administrator\Desktop\apache-jmeter-3.1\apache-jmeter-3.1 
+2017/11/10 18:57:18 INFO  - jmeter.JMeter: user.dir  =C:\perf_project_git\EAS_4.6\Jmeter_scripts\Org_search_by_orgname\10users 
+2017/11/10 18:57:18 INFO  - jmeter.JMeter: PWD       =C:\perf_project_git\EAS_4.6\Jmeter_scripts\Org_search_by_orgname\10users 
+2017/11/10 18:57:18 INFO  - jmeter.JMeter: IP: 10.10.3.15 Name: ESCM-APP FullName: ESCM-APP 
+2017/11/10 18:57:18 INFO  - jmeter.services.FileServer: Default base='C:\perf_project_git\EAS_4.6\Jmeter_scripts\Org_search_by_orgname\10users' 
+2017/11/10 18:57:18 INFO  - jmeter.services.FileServer: Set new base='C:\perf_project_git\EAS_4.6\Jmeter_scripts\Org_search_by_orgname\10users' 
+2017/11/10 18:57:18 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2017/11/10 18:57:18 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2017/11/10 18:57:18 INFO  - jmeter.save.SaveService: Using SaveService properties version 3.1 
+2017/11/10 18:57:18 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2017/11/10 18:57:18 INFO  - jmeter.save.SaveService: Loading file: Search_Org_by_org_name.jmx 
+2017/11/10 18:57:18 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/11/10 18:57:18 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/11/10 18:57:18 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/11/10 18:57:18 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/11/10 18:57:18 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2017/11/10 18:57:18 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser 
+2017/11/10 18:57:19 INFO  - jmeter.protocol.http.control.CacheManager: Will only cache the following methods: [GET] 
+2017/11/10 18:57:19 INFO  - jmeter.protocol.http.control.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_ 
+2017/11/10 18:57:20 INFO  - jmeter.JMeter: Creating summariser <summary> 
+2017/11/10 18:57:20 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2017/11/10 18:57:20 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2017/11/10 18:57:20 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2017/11/10 18:57:20 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2017/11/10 18:57:20 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2017/11/10 18:57:21 INFO  - jmeter.JMeter: Running test (1510320441515) 
+2017/11/10 18:57:21 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group 
+2017/11/10 18:57:21 INFO  - jmeter.engine.StandardJMeterEngine: Starting 10 threads for group Thread Group. 
+2017/11/10 18:57:21 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2017/11/10 18:57:21 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 10 ramp-up 10 perThread 1000.0 delayedStart=false 
+2017/11/10 18:57:21 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2017/11/10 18:57:21 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2017/11/10 18:57:21 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2017/11/10 18:57:21 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2017/11/10 18:57:21 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-1 
+2017/11/10 18:57:21 INFO  - jmeter.services.FileServer: Stored: orgname.csv 
+2017/11/10 18:57:21 INFO  - jmeter.services.FileServer: Stored: username.csv 
+2017/11/10 18:57:21 INFO  - jmeter.protocol.http.sampler.HTTPHCAbstractImpl: Local host = ESCM-APP 
+2017/11/10 18:57:21 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2017/11/10 18:57:21 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: HTTP request retry count = 0 
+2017/11/10 18:57:21 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2017/11/10 18:57:22 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-2 
+2017/11/10 18:57:23 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-3 
+2017/11/10 18:57:24 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-4 
+2017/11/10 18:57:25 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-5 
+2017/11/10 18:57:26 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-6 
+2017/11/10 18:57:28 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-7 
+2017/11/10 18:57:29 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-8 
+2017/11/10 18:57:29 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-9 
+2017/11/10 18:57:30 INFO  - jmeter.reporters.Summariser: summary +     51 in 00:00:09 =    6.0/s Avg:   587 Min:    10 Max:  1553 Err:     0 (0.00%) Active: 9 Started: 9 Finished: 0 
+2017/11/10 18:57:30 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-10 
+2017/11/10 18:57:31 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-2 
+2017/11/10 18:57:31 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-2 
+2017/11/10 18:57:31 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-1 
+2017/11/10 18:57:31 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-1 
+2017/11/10 18:57:33 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-3 
+2017/11/10 18:57:33 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-3 
+2017/11/10 18:57:34 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-4 
+2017/11/10 18:57:34 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-4 
+2017/11/10 18:57:35 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-5 
+2017/11/10 18:57:35 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-5 
+2017/11/10 18:57:36 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-6 
+2017/11/10 18:57:36 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-6 
+2017/11/10 18:57:37 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-7 
+2017/11/10 18:57:37 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-7 
+2017/11/10 18:57:38 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-8 
+2017/11/10 18:57:38 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-8 
+2017/11/10 18:57:39 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-9 
+2017/11/10 18:57:39 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-9 
+2017/11/10 18:57:39 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-10 
+2017/11/10 18:57:39 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-10 
+2017/11/10 18:57:39 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2017/11/10 18:57:39 INFO  - jmeter.services.FileServer: Close: username.csv 
+2017/11/10 18:57:39 INFO  - jmeter.services.FileServer: Close: orgname.csv 
+2017/11/10 18:57:39 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/11/10 18:57:39 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/11/10 18:57:40 INFO  - kg.apc.jmeter.vizualizers.SynthesisReportGui: Saving CSV to C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\SynthesisReportGui.csv 
+2017/11/10 18:57:40 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\SynthesisReportGui by plugin:SynthesisReportGui 
+2017/11/10 18:57:40 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/11/10 18:57:40 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/11/10 18:57:40 WARN  - jorphan.gui.ObjectTableModel: Header count=13 but classes count=11 
+2017/11/10 18:57:40 WARN  - jorphan.gui.ObjectTableModel: Header count=13 but writeFunctor count=11 
+2017/11/10 18:57:40 INFO  - kg.apc.jmeter.vizualizers.AggregateReportGui: Saving CSV to C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\AggregateReportGui.csv 
+2017/11/10 18:57:40 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\AggregateReportGui by plugin:AggregateReportGui 
+2017/11/10 18:57:40 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/11/10 18:57:40 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/11/10 18:57:41 INFO  - kg.apc.charting.GraphPanelChart: Saving PNG to C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\ResponseTimesOverTime.png 
+2017/11/10 18:57:42 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\ResponseTimesOverTime by plugin:ResponseTimesOverTime 
+2017/11/10 18:57:42 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/11/10 18:57:42 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/11/10 18:57:42 INFO  - kg.apc.charting.GraphPanelChart: Saving PNG to C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\HitsPerSecond.png 
+2017/11/10 18:57:42 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\HitsPerSecond by plugin:HitsPerSecond 
+2017/11/10 18:57:42 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/11/10 18:57:42 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/11/10 18:57:42 INFO  - kg.apc.charting.GraphPanelChart: Saving PNG to C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\BytesThroughputOverTime.png 
+2017/11/10 18:57:42 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\BytesThroughputOverTime by plugin:BytesThroughputOverTime 
+2017/11/10 18:57:42 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/11/10 18:57:42 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/11/10 18:57:42 INFO  - kg.apc.charting.GraphPanelChart: Saving PNG to C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\LatenciesOverTime.png 
+2017/11/10 18:57:43 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\LatenciesOverTime by plugin:LatenciesOverTime 
+2017/11/10 18:57:43 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/11/10 18:57:43 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/11/10 18:57:43 INFO  - kg.apc.charting.GraphPanelChart: Saving PNG to C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\ResponseCodesPerSecond.png 
+2017/11/10 18:57:43 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\ResponseCodesPerSecond by plugin:ResponseCodesPerSecond 
+2017/11/10 18:57:43 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/11/10 18:57:43 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/11/10 18:57:43 INFO  - kg.apc.charting.GraphPanelChart: Saving PNG to C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\TransactionsPerSecond.png 
+2017/11/10 18:57:44 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\TransactionsPerSecond by plugin:TransactionsPerSecond 
+2017/11/10 18:57:44 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/11/10 18:57:44 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/11/10 18:57:44 INFO  - kg.apc.charting.GraphPanelChart: Saving PNG to C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\ResponseTimesDistribution.png 
+2017/11/10 18:57:44 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\ResponseTimesDistribution by plugin:ResponseTimesDistribution 
+2017/11/10 18:57:44 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/11/10 18:57:44 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/11/10 18:57:44 INFO  - kg.apc.charting.GraphPanelChart: Saving PNG to C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\ResponseTimesPercentiles.png 
+2017/11/10 18:57:45 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\ResponseTimesPercentiles by plugin:ResponseTimesPercentiles 
+2017/11/10 18:57:45 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/11/10 18:57:45 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/11/10 18:57:45 INFO  - kg.apc.charting.GraphPanelChart: Saving PNG to C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\ThreadsStateOverTime.png 
+2017/11/10 18:57:45 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\ThreadsStateOverTime by plugin:ThreadsStateOverTime 
+2017/11/10 18:57:45 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/11/10 18:57:45 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/11/10 18:57:45 INFO  - kg.apc.charting.GraphPanelChart: Saving PNG to C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\TimesVsThreads.png 
+2017/11/10 18:57:46 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\TimesVsThreads by plugin:TimesVsThreads 
+2017/11/10 18:57:46 INFO  - kg.apc.jmeter.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A 
+2017/11/10 18:57:46 WARN  - kg.apc.jmeter.JMeterPluginsUtils: JMeter env exists. No one should see this normally. 
+2017/11/10 18:57:46 INFO  - kg.apc.charting.GraphPanelChart: Saving PNG to C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\ThroughputVsThreads.png 
+2017/11/10 18:57:46 INFO  - kg.apc.jmeter.listener.GraphsGeneratorListener: Successful generation of file C:\perf_project_git\EAS_4.6\Output\org_search_by_orgname\10user\JmeterResults\ThroughputVsThreads by plugin:ThroughputVsThreads 
+2017/11/10 18:57:46 INFO  - jmeter.reporters.Summariser: summary +     99 in 00:00:17 =    6.0/s Avg:   634 Min:     8 Max:  2983 Err:     0 (0.00%) Active: 0 Started: 10 Finished: 10 
+2017/11/10 18:57:46 INFO  - jmeter.reporters.Summariser: summary =    150 in 00:00:25 =    6.0/s Avg:   618 Min:     8 Max:  2983 Err:     0 (0.00%) 

@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,grpThreads,allThreads,Latency,Hostname
+03/11/2017 15:11,212,createResellerUser,200,OK,Thread Group 1-1,text,true,,271,3,3,212,ESCM-APP
+03/11/2017 15:11,192,createResellerUser,200,OK,Thread Group 1-2,text,true,,271,3,3,192,ESCM-APP
+03/11/2017 15:11,176,createResellerUser,200,OK,Thread Group 1-3,text,true,,271,3,3,176,ESCM-APP
+03/11/2017 15:11,185,createResellerUser,200,OK,Thread Group 1-4,text,true,,271,2,2,185,ESCM-APP
+03/11/2017 15:11,179,createResellerUser,200,OK,Thread Group 1-5,text,true,,271,1,1,179,ESCM-APP

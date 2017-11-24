@@ -1,0 +1,96 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,grpThreads,allThreads,URL,Latency
+13/11/2017 15:39,629,675 /escm/login/auth,200,OK,Thread Group 1-1,text,true,,5976,1,1,http://10.10.3.16:8080/escm/login/auth,626
+13/11/2017 15:39,629,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5976,1,1,null,626
+13/11/2017 15:39,67,675 /escm/login/auth,200,OK,Thread Group 1-2,text,true,,5976,2,2,http://10.10.3.16:8080/escm/login/auth,64
+13/11/2017 15:39,67,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,5976,2,2,null,64
+13/11/2017 15:39,60,675 /escm/login/auth,200,OK,Thread Group 1-3,text,true,,5976,3,3,http://10.10.3.16:8080/escm/login/auth,59
+13/11/2017 15:39,60,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,5976,3,3,null,59
+13/11/2017 15:39,1295,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,9591,3,3,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,311
+13/11/2017 15:39,1142,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-2,text,true,,9591,3,3,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,231
+13/11/2017 15:39,919,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-1,text,true,,8446,4,4,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,914
+13/11/2017 15:39,2214,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,18037,4,4,null,1225
+13/11/2017 15:39,55,675 /escm/login/auth,200,OK,Thread Group 1-4,text,true,,5976,4,4,http://10.10.3.16:8080/escm/login/auth,53
+13/11/2017 15:39,55,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,5976,4,4,null,53
+13/11/2017 15:39,961,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-2,text,true,,8446,4,4,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,957
+13/11/2017 15:39,2103,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,18037,4,4,null,1188
+13/11/2017 15:39,1182,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-3,text,true,,9590,4,4,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,258
+13/11/2017 15:39,94,675 /escm/login/auth,200,OK,Thread Group 1-5,text,true,,5976,5,5,http://10.10.3.16:8080/escm/login/auth,93
+13/11/2017 15:39,94,Hit_the_portal_with-cache,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,5976,5,5,null,93
+13/11/2017 15:39,1126,681 /escm/customer/index,200,OK,Thread Group 1-1,text,true,,16045,5,5,http://10.10.3.16:8080/escm/customer/list,17
+13/11/2017 15:39,1093,681 /escm/customer/index,200,OK,Thread Group 1-2,text,true,,16049,5,5,http://10.10.3.16:8080/escm/customer/list,19
+13/11/2017 15:39,1156,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-3,text,true,,8448,5,5,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,1155
+13/11/2017 15:39,2338,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,18038,5,5,null,1413
+13/11/2017 15:39,1474,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-4,text,true,,9591,5,5,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,363
+13/11/2017 15:39,1061,682 /escm/customer/list,200,OK,Thread Group 1-1,text,true,,15778,5,5,http://10.10.3.16:8080/escm/customer/list,1053
+13/11/2017 15:40,27,684 /escm/customer/setSearchBy,200,OK,Thread Group 1-1,text,true,,457,5,5,http://10.10.3.16:8080/escm/customer/setSearchBy,26
+13/11/2017 15:40,19,686 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,18
+13/11/2017 15:39,1130,682 /escm/customer/list,200,OK,Thread Group 1-2,text,true,,15783,5,5,http://10.10.3.16:8080/escm/customer/list,1122
+13/11/2017 15:40,22,684 /escm/customer/setSearchBy,200,OK,Thread Group 1-2,text,true,,457,5,5,http://10.10.3.16:8080/escm/customer/setSearchBy,20
+13/11/2017 15:40,17,686 /escm/messages,200,OK,Thread Group 1-2,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,17
+13/11/2017 15:39,1283,681 /escm/customer/index,200,OK,Thread Group 1-3,text,true,,16047,5,5,http://10.10.3.16:8080/escm/customer/list,73
+13/11/2017 15:39,1665,676 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-5,text,true,,8372,5,5,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,303
+13/11/2017 15:39,1346,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-4,text,true,,8441,5,5,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,1337
+13/11/2017 15:39,2820,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,18032,5,5,null,1700
+13/11/2017 15:40,719,685 /escm/customer/listByCriteria,200,OK,Thread Group 1-1,text,true,,4413,5,5,http://10.10.3.16:8080/escm/customer/listByCriteria,715
+13/11/2017 15:40,787,685 /escm/customer/listByCriteria,200,OK,Thread Group 1-2,text,true,,4413,5,5,http://10.10.3.16:8080/escm/customer/listByCriteria,777
+13/11/2017 15:40,1748,687 /escm/customer/renderCustomerOrganizationDetails,200,OK,Thread Group 1-1,text,true,,40147,5,5,http://10.10.3.16:8080/escm/customer/renderCustomerOrganizationDetails,1717
+13/11/2017 15:40,17,688 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,17
+13/11/2017 15:40,14,689 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,13
+13/11/2017 15:39,4731,List_organizations_with_cache,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-1,,true,,78223,5,5,null,3576
+13/11/2017 15:40,1699,687 /escm/customer/renderCustomerOrganizationDetails,200,OK,Thread Group 1-2,text,true,,40147,5,5,http://10.10.3.16:8080/escm/customer/renderCustomerOrganizationDetails,1671
+13/11/2017 15:40,2218,682 /escm/customer/list,200,OK,Thread Group 1-3,text,true,,15782,5,5,http://10.10.3.16:8080/escm/customer/list,2209
+13/11/2017 15:40,21,688 /escm/messages,200,OK,Thread Group 1-2,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,20
+13/11/2017 15:40,23,684 /escm/customer/setSearchBy,200,OK,Thread Group 1-3,text,true,,457,5,5,http://10.10.3.16:8080/escm/customer/setSearchBy,22
+13/11/2017 15:40,14,689 /escm/messages,200,OK,Thread Group 1-2,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,14
+13/11/2017 15:39,4783,List_organizations_with_cache,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-2,,true,,78232,5,5,null,3660
+13/11/2017 15:40,17,686 /escm/messages,200,OK,Thread Group 1-3,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,16
+13/11/2017 15:40,2302,680 /escm/dashboard/myAccountInfo,200,OK,Thread Group 1-5,text,true,,8443,5,5,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,2291
+13/11/2017 15:39,3967,SP_user_login_46_with_cache,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,16815,5,5,null,2594
+13/11/2017 15:40,2367,681 /escm/customer/index,200,OK,Thread Group 1-4,text,true,,16045,5,5,http://10.10.3.16:8080/escm/customer/list,22
+13/11/2017 15:40,581,685 /escm/customer/listByCriteria,200,OK,Thread Group 1-3,text,true,,4413,5,5,http://10.10.3.16:8080/escm/customer/listByCriteria,578
+13/11/2017 15:40,943,681 /escm/customer/index,200,OK,Thread Group 1-5,text,true,,16046,5,5,http://10.10.3.16:8080/escm/customer/list,34
+13/11/2017 15:40,926,682 /escm/customer/list,200,OK,Thread Group 1-4,text,true,,15779,5,5,http://10.10.3.16:8080/escm/customer/list,922
+13/11/2017 15:40,25,684 /escm/customer/setSearchBy,200,OK,Thread Group 1-4,text,true,,457,5,5,http://10.10.3.16:8080/escm/customer/setSearchBy,24
+13/11/2017 15:40,14,686 /escm/messages,200,OK,Thread Group 1-4,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,14
+13/11/2017 15:40,795,687 /escm/customer/renderCustomerOrganizationDetails,200,OK,Thread Group 1-3,text,true,,40146,5,5,http://10.10.3.16:8080/escm/customer/renderCustomerOrganizationDetails,769
+13/11/2017 15:40,23,688 /escm/messages,200,OK,Thread Group 1-3,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,17
+13/11/2017 15:40,15,689 /escm/messages,200,OK,Thread Group 1-3,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,14
+13/11/2017 15:39,4955,List_organizations_with_cache,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-3,,true,,78228,5,5,null,3698
+13/11/2017 15:40,387,685 /escm/customer/listByCriteria,200,OK,Thread Group 1-4,text,true,,4413,5,5,http://10.10.3.16:8080/escm/customer/listByCriteria,383
+13/11/2017 15:40,825,682 /escm/customer/list,200,OK,Thread Group 1-5,text,true,,15780,5,5,http://10.10.3.16:8080/escm/customer/list,821
+13/11/2017 15:40,16,684 /escm/customer/setSearchBy,200,OK,Thread Group 1-5,text,true,,457,5,5,http://10.10.3.16:8080/escm/customer/setSearchBy,16
+13/11/2017 15:40,16,686 /escm/messages,200,OK,Thread Group 1-5,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,15
+13/11/2017 15:40,297,685 /escm/customer/listByCriteria,200,OK,Thread Group 1-5,text,true,,4413,5,5,http://10.10.3.16:8080/escm/customer/listByCriteria,294
+13/11/2017 15:40,2442,226 /escm/customer/listByCriteria,200,OK,Thread Group 1-1,text,true,,3755,5,5,http://10.10.3.16:8080/escm/customer/listByCriteria,2440
+13/11/2017 15:40,719,687 /escm/customer/renderCustomerOrganizationDetails,200,OK,Thread Group 1-4,text,true,,40146,5,5,http://10.10.3.16:8080/escm/customer/renderCustomerOrganizationDetails,686
+13/11/2017 15:40,2389,226 /escm/customer/listByCriteria,200,OK,Thread Group 1-2,text,true,,3755,5,5,http://10.10.3.16:8080/escm/customer/listByCriteria,2387
+13/11/2017 15:40,23,688 /escm/messages,200,OK,Thread Group 1-4,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,23
+13/11/2017 15:40,16,689 /escm/messages,200,OK,Thread Group 1-4,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,15
+13/11/2017 15:40,4477,List_organizations_with_cache,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-4,,true,,78223,5,5,null,2089
+13/11/2017 15:40,677,687 /escm/customer/renderCustomerOrganizationDetails,200,OK,Thread Group 1-5,text,true,,40147,5,5,http://10.10.3.16:8080/escm/customer/renderCustomerOrganizationDetails,657
+13/11/2017 15:40,15,688 /escm/messages,200,OK,Thread Group 1-5,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,14
+13/11/2017 15:40,16,689 /escm/messages,200,OK,Thread Group 1-5,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,15
+13/11/2017 15:40,2805,List_organizations_with_cache,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-5,,true,,78226,5,5,null,1866
+13/11/2017 15:40,694,227 /escm/customer/renderCustomerOrganizationDetails,200,OK,Thread Group 1-1,text,true,,40016,5,5,http://10.10.3.16:8080/escm/customer/renderCustomerOrganizationDetails,669
+13/11/2017 15:40,13,228 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,12
+13/11/2017 15:40,17,229 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,16
+13/11/2017 15:40,3166,46_Org_search_by_orgname_withcache,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,44693,5,5,null,3137
+13/11/2017 15:40,744,227 /escm/customer/renderCustomerOrganizationDetails,200,OK,Thread Group 1-2,text,true,,40017,4,4,http://10.10.3.16:8080/escm/customer/renderCustomerOrganizationDetails,722
+13/11/2017 15:40,13,228 /escm/messages,200,OK,Thread Group 1-2,text,true,,461,4,4,http://10.10.3.16:8080/escm/messages,12
+13/11/2017 15:40,16,229 /escm/messages,200,OK,Thread Group 1-2,text,true,,461,4,4,http://10.10.3.16:8080/escm/messages,16
+13/11/2017 15:40,3162,46_Org_search_by_orgname_withcache,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,44694,4,4,null,3137
+13/11/2017 15:40,2514,226 /escm/customer/listByCriteria,200,OK,Thread Group 1-3,text,true,,3755,3,3,http://10.10.3.16:8080/escm/customer/listByCriteria,2512
+13/11/2017 15:40,652,227 /escm/customer/renderCustomerOrganizationDetails,200,OK,Thread Group 1-3,text,true,,40017,3,3,http://10.10.3.16:8080/escm/customer/renderCustomerOrganizationDetails,622
+13/11/2017 15:40,2188,226 /escm/customer/listByCriteria,200,OK,Thread Group 1-4,text,true,,3755,3,3,http://10.10.3.16:8080/escm/customer/listByCriteria,2185
+13/11/2017 15:40,15,228 /escm/messages,200,OK,Thread Group 1-3,text,true,,461,3,3,http://10.10.3.16:8080/escm/messages,15
+13/11/2017 15:40,12,229 /escm/messages,200,OK,Thread Group 1-3,text,true,,461,3,3,http://10.10.3.16:8080/escm/messages,12
+13/11/2017 15:40,3193,46_Org_search_by_orgname_withcache,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,44694,3,3,null,3161
+13/11/2017 15:40,578,227 /escm/customer/renderCustomerOrganizationDetails,200,OK,Thread Group 1-4,text,true,,40017,2,2,http://10.10.3.16:8080/escm/customer/renderCustomerOrganizationDetails,558
+13/11/2017 15:40,2269,226 /escm/customer/listByCriteria,200,OK,Thread Group 1-5,text,true,,3755,2,2,http://10.10.3.16:8080/escm/customer/listByCriteria,2267
+13/11/2017 15:40,14,228 /escm/messages,200,OK,Thread Group 1-4,text,true,,461,2,2,http://10.10.3.16:8080/escm/messages,14
+13/11/2017 15:40,19,229 /escm/messages,200,OK,Thread Group 1-4,text,true,,461,2,2,http://10.10.3.16:8080/escm/messages,19
+13/11/2017 15:40,2799,46_Org_search_by_orgname_withcache,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,44694,2,2,null,2776
+13/11/2017 15:40,458,227 /escm/customer/renderCustomerOrganizationDetails,200,OK,Thread Group 1-5,text,true,,40017,1,1,http://10.10.3.16:8080/escm/customer/renderCustomerOrganizationDetails,438
+13/11/2017 15:40,14,228 /escm/messages,200,OK,Thread Group 1-5,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,13
+13/11/2017 15:40,13,229 /escm/messages,200,OK,Thread Group 1-5,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,13
+13/11/2017 15:40,2754,46_Org_search_by_orgname_withcache,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,44694,1,1,null,2731

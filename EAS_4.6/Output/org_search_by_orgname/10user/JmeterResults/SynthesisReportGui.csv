@@ -1,0 +1,21 @@
+Label,# Samples,Average,Min,Max,90% Line,Std. Dev.,Error %,Throughput,Received KB/sec,Avg. Bytes
+675 /escm/login/auth,10,145,42,612,305,173.20,0.00%,.2,0.97,5976.0
+Hit_the_portal_with-cache,10,145,42,612,305,173.20,0.00%,.2,0.97,5976.0
+676 /escm/login/doAuth?id=loginform,10,1859,1217,3104,3059,651.17,0.00%,.2,1.48,9588.9
+680 /escm/dashboard/myAccountInfo,10,1575,930,2748,2586,612.23,0.00%,.2,1.32,8442.3
+SP_user_login_46_with_cache,10,3435,2221,4501,4391,877.60,0.00%,.2,2.74,18031.2
+681 /escm/customer/index,10,1344,864,2804,1461,517.51,0.00%,.2,2.50,16046.7
+682 /escm/customer/list,10,1387,840,2430,1690,430.68,0.00%,.2,2.47,15780.8
+684 /escm/customer/setSearchBy,10,25,11,60,41,14.50,0.00%,.2,0.07,457.0
+686 /escm/messages,10,24,10,86,39,22.09,0.00%,.2,0.07,461.0
+685 /escm/customer/listByCriteria,10,371,236,661,465,117.11,0.00%,.2,0.71,4413.0
+687 /escm/customer/renderCustomerOrganizationDetails,10,685,498,1191,928,215.49,0.00%,.2,6.41,40146.0
+688 /escm/messages,10,16,10,34,18,6.49,0.00%,.2,0.07,461.0
+689 /escm/messages,10,19,11,39,29,9.19,0.00%,.2,0.07,461.0
+List_organizations_with_cache,10,3873,2693,5442,5150,847.34,0.00%,.2,11.67,78226.5
+226 /escm/customer/listByCriteria,10,2583,2229,3238,2659,248.39,0.00%,.2,0.59,3755.0
+227 /escm/customer/renderCustomerOrganizationDetails,10,565,390,1279,638,251.46,0.00%,7.8,305.54,40016.0
+228 /escm/messages,10,13,10,20,17,3.05,0.00%,500.0,225.10,461.0
+229 /escm/messages,10,11,9,14,13,1.51,0.00%,714.3,321.57,461.0
+46_Org_search_by_orgname_withcache,10,3173,2808,3902,3814,355.26,0.00%,.2,6.91,44693.0
+TOTAL,190,1118,9,5442,3062,1328.36,0.00%,2.9,43.85,15466.0
