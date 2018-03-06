@@ -1,0 +1,81 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,grpThreads,allThreads,URL,Filename,Latency,Hostname
+12/05/2017 14:54,530,62 /escm/login/auth,200,OK,Thread Group 1-1,text,true,,5226,1,1,http://10.10.3.16:8080/escm/login/auth,,528,EASDB01
+12/05/2017 14:54,62,62 /escm/login/auth,200,OK,Thread Group 1-2,text,true,,5226,2,2,http://10.10.3.16:8080/escm/login/auth,,60,EASDB01
+12/05/2017 14:54,851,Login Page Request,,"Number of samples in transaction : 15, number of failing samples : 1",Thread Group 1-1,,false,,500691,2,2,null,,712,EASDB01
+12/05/2017 14:54,374,Login Page Request,,"Number of samples in transaction : 15, number of failing samples : 1",Thread Group 1-2,,false,,500691,2,2,null,,236,EASDB01
+12/05/2017 14:54,59,62 /escm/login/auth,200,OK,Thread Group 1-3,text,true,,5226,3,3,http://10.10.3.16:8080/escm/login/auth,,57,EASDB01
+12/05/2017 14:54,344,Login Page Request,,"Number of samples in transaction : 15, number of failing samples : 1",Thread Group 1-3,,false,,500691,3,3,null,,218,EASDB01
+12/05/2017 14:54,1401,5 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-1,text,true,,10027,3,3,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,508,EASDB01
+12/05/2017 14:54,1190,5 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-2,text,true,,10023,3,3,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,384,EASDB01
+12/05/2017 14:54,109,62 /escm/login/auth,200,OK,Thread Group 1-4,text,true,,5226,4,4,http://10.10.3.16:8080/escm/login/auth,,108,EASDB01
+12/05/2017 14:54,2032,Login Page Credentials and Dashboard Display,200,"Number of samples in transaction : 52, number of failing samples : 0",Thread Group 1-1,,true,,327931,4,4,null,,1002,EASDB01
+12/05/2017 14:54,1738,Login Page Credentials and Dashboard Display,200,"Number of samples in transaction : 52, number of failing samples : 0",Thread Group 1-2,,true,,327927,4,4,null,,789,EASDB01
+12/05/2017 14:54,1082,5 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-3,text,true,,10022,4,4,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,417,EASDB01
+12/05/2017 14:54,399,Login Page Request,,"Number of samples in transaction : 15, number of failing samples : 1",Thread Group 1-4,,false,,500691,4,4,null,,260,EASDB01
+12/05/2017 14:54,240,62 /escm/login/auth,200,OK,Thread Group 1-5,text,true,,5226,5,5,http://10.10.3.16:8080/escm/login/auth,,237,EASDB01
+12/05/2017 14:54,1981,Login Page Credentials and Dashboard Display,200,"Number of samples in transaction : 52, number of failing samples : 0",Thread Group 1-3,,true,,327926,5,5,null,,1171,EASDB01
+12/05/2017 14:54,1314,77 /escm/order/index,200,OK,Thread Group 1-2,text,true,,19218,5,5,http://10.10.3.16:8080/escm/order/list,,36,EASDB01
+12/05/2017 14:54,1344,77 /escm/order/index,200,OK,Thread Group 1-1,text,true,,19216,5,5,http://10.10.3.16:8080/escm/order/list,,17,EASDB01
+12/05/2017 14:54,473,Login Page Request,,"Number of samples in transaction : 15, number of failing samples : 1",Thread Group 1-5,,false,,500691,5,5,null,,400,EASDB01
+12/05/2017 14:54,1357,5 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-4,text,true,,10017,5,5,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,646,EASDB01
+12/05/2017 14:54,752,88 /escm/order/showOrderDetail,200,OK,Thread Group 1-1,text,true,,20600,5,5,http://10.10.3.16:8080/escm/order/showOrderDetail,,744,EASDB01
+12/05/2017 14:54,768,88 /escm/order/showOrderDetail,200,OK,Thread Group 1-2,text,true,,20602,5,5,http://10.10.3.16:8080/escm/order/showOrderDetail,,761,EASDB01
+12/05/2017 14:54,20,98 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,,19,EASDB01
+12/05/2017 14:54,17,98 /escm/messages,200,OK,Thread Group 1-2,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,,17,EASDB01
+12/05/2017 14:54,21,99 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,5,5,http://10.10.3.16:8080/escm/recentItem,,21,EASDB01
+12/05/2017 14:54,30,99 /escm/recentItem,200,OK,Thread Group 1-2,text,true,,341,5,5,http://10.10.3.16:8080/escm/recentItem,,30,EASDB01
+12/05/2017 14:54,2422,Order Selection,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-1,,true,,168550,5,5,null,,1083,EASDB01
+12/05/2017 14:54,2422,Order Selection,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-2,,true,,168554,5,5,null,,1135,EASDB01
+12/05/2017 14:54,2192,Login Page Credentials and Dashboard Display,200,"Number of samples in transaction : 52, number of failing samples : 0",Thread Group 1-4,,true,,327921,5,5,null,,1247,EASDB01
+12/05/2017 14:54,1390,77 /escm/order/index,200,OK,Thread Group 1-3,text,true,,19218,5,5,http://10.10.3.16:8080/escm/order/list,,11,EASDB01
+12/05/2017 14:54,1511,5 /escm/login/doAuth?id=loginform,200,OK,Thread Group 1-5,text,true,,10016,5,5,http://10.10.3.16:8080/escm/dashboard/myAccountInfo,,522,EASDB01
+12/05/2017 14:54,434,109 /escm/order/searchOrder,200,OK,Thread Group 1-1,text,true,,3737,5,5,http://10.10.3.16:8080/escm/order/searchOrder,,433,EASDB01
+12/05/2017 14:54,16,111 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,,16,EASDB01
+12/05/2017 14:54,449,109 /escm/order/searchOrder,200,OK,Thread Group 1-2,text,true,,3728,5,5,http://10.10.3.16:8080/escm/order/searchOrder,,448,EASDB01
+12/05/2017 14:54,17,112 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,5,5,http://10.10.3.16:8080/escm/recentItem,,17,EASDB01
+12/05/2017 14:54,23,111 /escm/messages,200,OK,Thread Group 1-2,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,,23,EASDB01
+12/05/2017 14:54,22,112 /escm/recentItem,200,OK,Thread Group 1-2,text,true,,341,5,5,http://10.10.3.16:8080/escm/recentItem,,22,EASDB01
+12/05/2017 14:54,685,88 /escm/order/showOrderDetail,200,OK,Thread Group 1-3,text,true,,20601,5,5,http://10.10.3.16:8080/escm/order/showOrderDetail,,682,EASDB01
+12/05/2017 14:54,23,98 /escm/messages,200,OK,Thread Group 1-3,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,,23,EASDB01
+12/05/2017 14:54,23,99 /escm/recentItem,200,OK,Thread Group 1-3,text,true,,341,5,5,http://10.10.3.16:8080/escm/recentItem,,20,EASDB01
+12/05/2017 14:54,2289,Order Selection,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-3,,true,,168553,5,5,null,,902,EASDB01
+12/05/2017 14:54,2222,Login Page Credentials and Dashboard Display,200,"Number of samples in transaction : 52, number of failing samples : 0",Thread Group 1-5,,true,,327920,5,5,null,,1090,EASDB01
+12/05/2017 14:54,1224,77 /escm/order/index,200,OK,Thread Group 1-4,text,true,,19201,5,5,http://10.10.3.16:8080/escm/order/list,,15,EASDB01
+12/05/2017 14:54,378,109 /escm/order/searchOrder,200,OK,Thread Group 1-3,text,true,,3729,5,5,http://10.10.3.16:8080/escm/order/searchOrder,,377,EASDB01
+12/05/2017 14:54,17,111 /escm/messages,200,OK,Thread Group 1-3,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,,16,EASDB01
+12/05/2017 14:54,20,112 /escm/recentItem,200,OK,Thread Group 1-3,text,true,,341,5,5,http://10.10.3.16:8080/escm/recentItem,,19,EASDB01
+12/05/2017 14:54,1617,110 /escm/order/showOrderDetail,200,OK,Thread Group 1-2,text,true,,22046,5,5,http://10.10.3.16:8080/escm/order/showOrderDetail,,1606,EASDB01
+12/05/2017 14:54,805,88 /escm/order/showOrderDetail,200,OK,Thread Group 1-4,text,true,,20599,5,5,http://10.10.3.16:8080/escm/order/showOrderDetail,,794,EASDB01
+12/05/2017 14:54,61,117 /escm/messages,200,OK,Thread Group 1-2,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,,61,EASDB01
+12/05/2017 14:54,14,118 /escm/recentItem,200,OK,Thread Group 1-2,text,true,,341,5,5,http://10.10.3.16:8080/escm/recentItem,,13,EASDB01
+12/05/2017 14:54,13,98 /escm/messages,200,OK,Thread Group 1-4,text,true,,461,5,5,http://10.10.3.16:8080/escm/messages,,13,EASDB01
+12/05/2017 14:54,1276,77 /escm/order/index,200,OK,Thread Group 1-5,text,true,,19216,5,5,http://10.10.3.16:8080/escm/order/list,,13,EASDB01
+12/05/2017 14:54,95,99 /escm/recentItem,200,OK,Thread Group 1-4,text,true,,341,5,5,http://10.10.3.16:8080/escm/recentItem,,95,EASDB01
+12/05/2017 14:54,2514,Order_Search,200,"Number of samples in transaction : 14, number of failing samples : 0",Thread Group 1-2,,true,,73510,5,5,null,,2501,EASDB01
+12/05/2017 14:54,2480,Order Selection,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-4,,true,,168534,4,4,null,,1256,EASDB01
+12/05/2017 14:54,431,109 /escm/order/searchOrder,200,OK,Thread Group 1-4,text,true,,3729,4,4,http://10.10.3.16:8080/escm/order/searchOrder,,428,EASDB01
+12/05/2017 14:54,15,111 /escm/messages,200,OK,Thread Group 1-4,text,true,,461,4,4,http://10.10.3.16:8080/escm/messages,,14,EASDB01
+12/05/2017 14:54,18,112 /escm/recentItem,200,OK,Thread Group 1-4,text,true,,341,4,4,http://10.10.3.16:8080/escm/recentItem,,17,EASDB01
+12/05/2017 14:54,2685,110 /escm/order/showOrderDetail,200,OK,Thread Group 1-1,text,true,,23422,4,4,http://10.10.3.16:8080/escm/order/showOrderDetail,,2680,EASDB01
+12/05/2017 14:54,21,117 /escm/messages,200,OK,Thread Group 1-1,text,true,,461,4,4,http://10.10.3.16:8080/escm/messages,,20,EASDB01
+12/05/2017 14:54,16,118 /escm/recentItem,200,OK,Thread Group 1-1,text,true,,341,4,4,http://10.10.3.16:8080/escm/recentItem,,15,EASDB01
+12/05/2017 14:54,3246,Order_Search,200,"Number of samples in transaction : 14, number of failing samples : 0",Thread Group 1-1,,true,,74895,4,4,null,,3238,EASDB01
+12/05/2017 14:54,648,88 /escm/order/showOrderDetail,200,OK,Thread Group 1-5,text,true,,20602,3,3,http://10.10.3.16:8080/escm/order/showOrderDetail,,638,EASDB01
+12/05/2017 14:54,15,98 /escm/messages,200,OK,Thread Group 1-5,text,true,,461,3,3,http://10.10.3.16:8080/escm/messages,,15,EASDB01
+12/05/2017 14:54,14,99 /escm/recentItem,200,OK,Thread Group 1-5,text,true,,341,3,3,http://10.10.3.16:8080/escm/recentItem,,13,EASDB01
+12/05/2017 14:54,2143,Order Selection,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-5,,true,,168552,3,3,null,,866,EASDB01
+12/05/2017 14:54,1986,110 /escm/order/showOrderDetail,200,OK,Thread Group 1-3,text,true,,22044,3,3,http://10.10.3.16:8080/escm/order/showOrderDetail,,1973,EASDB01
+12/05/2017 14:54,14,117 /escm/messages,200,OK,Thread Group 1-3,text,true,,461,3,3,http://10.10.3.16:8080/escm/messages,,13,EASDB01
+12/05/2017 14:54,11,118 /escm/recentItem,200,OK,Thread Group 1-3,text,true,,341,3,3,http://10.10.3.16:8080/escm/recentItem,,10,EASDB01
+12/05/2017 14:54,2479,Order_Search,200,"Number of samples in transaction : 14, number of failing samples : 0",Thread Group 1-3,,true,,73509,3,3,null,,2461,EASDB01
+12/05/2017 14:54,378,109 /escm/order/searchOrder,200,OK,Thread Group 1-5,text,true,,3728,2,2,http://10.10.3.16:8080/escm/order/searchOrder,,375,EASDB01
+12/05/2017 14:54,13,111 /escm/messages,200,OK,Thread Group 1-5,text,true,,461,2,2,http://10.10.3.16:8080/escm/messages,,12,EASDB01
+12/05/2017 14:54,10,112 /escm/recentItem,200,OK,Thread Group 1-5,text,true,,341,2,2,http://10.10.3.16:8080/escm/recentItem,,10,EASDB01
+12/05/2017 14:54,1124,110 /escm/order/showOrderDetail,200,OK,Thread Group 1-4,text,true,,21959,2,2,http://10.10.3.16:8080/escm/order/showOrderDetail,,1117,EASDB01
+12/05/2017 14:54,14,117 /escm/messages,200,OK,Thread Group 1-4,text,true,,461,2,2,http://10.10.3.16:8080/escm/messages,,13,EASDB01
+12/05/2017 14:54,11,118 /escm/recentItem,200,OK,Thread Group 1-4,text,true,,341,2,2,http://10.10.3.16:8080/escm/recentItem,,11,EASDB01
+12/05/2017 14:54,1657,Order_Search,200,"Number of samples in transaction : 14, number of failing samples : 0",Thread Group 1-4,,true,,73424,2,2,null,,1644,EASDB01
+12/05/2017 14:54,974,110 /escm/order/showOrderDetail,200,OK,Thread Group 1-5,text,true,,22042,1,1,http://10.10.3.16:8080/escm/order/showOrderDetail,,965,EASDB01
+12/05/2017 14:54,15,117 /escm/messages,200,OK,Thread Group 1-5,text,true,,461,1,1,http://10.10.3.16:8080/escm/messages,,14,EASDB01
+12/05/2017 14:54,13,118 /escm/recentItem,200,OK,Thread Group 1-5,text,true,,341,1,1,http://10.10.3.16:8080/escm/recentItem,,12,EASDB01
+12/05/2017 14:54,1476,Order_Search,200,"Number of samples in transaction : 14, number of failing samples : 0",Thread Group 1-5,,true,,73506,1,1,null,,1460,EASDB01
